@@ -13,3 +13,14 @@ client/.env.local
 node_modules/
 **/node_modules/
 
+
+# macOS junk
+.DS_Store
+**/.DS_Store
+._*
+
+
+# deps
+node_modules/
+**/node_modules/
+
