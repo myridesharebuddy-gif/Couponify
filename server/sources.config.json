@@ -1,0 +1,107 @@
+{
+  "popularStores": [
+    "amazon",
+    "walmart",
+    "target",
+    "bestbuy",
+    "nike",
+    "apple",
+    "homedepot",
+    "costco",
+    "macys",
+    "adidas",
+    "samsclub",
+    "sephora",
+    "ulta",
+    "nordstrom",
+    "gap",
+    "oldnavy"
+  ],
+  "allowlistedStores": [
+    "amazon",
+    "walmart",
+    "target",
+    "bestbuy",
+    "nike",
+    "apple",
+    "homedepot",
+    "costco",
+    "macys",
+    "adidas",
+    "samsclub",
+    "sephora",
+    "ulta",
+    "nordstrom",
+    "gap",
+    "oldnavy"
+  ],
+  "storeAliases": {
+    "amazon": ["amazn", "primevideo", "amazonprime", "amazoncom", "amzn"],
+    "walmart": ["wal-mart", "wally", "walmartstore", "walmartus"],
+    "target": ["targetstore", "target.com", "target inc"],
+    "bestbuy": ["best-buy", "best buy", "bestbuycom", "bbystore"],
+    "nike": ["nikestore", "nikeinc", "nikesportswear", "nikeshop"],
+    "apple": ["appleonline", "applestore", "apple store", "appleinc"],
+    "homedepot": ["home depot", "homedepot.com", "depot"],
+    "costco": ["costcobusiness", "costco.com", "costco.com"],
+    "macys": ["macysinc", "macys.com", "macy's"],
+    "kohls": ["kohls", "kohls.com", "kohl's"],
+    "sephora": ["sephorabeauty", "sephora.com", "sephorastore"],
+    "ulta": ["ultabeauty", "ulta.com", "ulta store"],
+    "adidas": ["adidasonline", "adidas.com", "adidasshop"],
+    "samsclub": ["sams club", "samsclub.com", "samsclubstore"],
+    "nordstrom": ["nordstromrack", "nordstrom.com", "nordstromrack.com"],
+    "gap": ["gap.com", "gapfactory", "gapinc"],
+    "oldnavy": ["old navy", "oldnavy.com", "oldnavystore"]
+  },
+  "sources": [
+    {
+      "id": "slickdeals",
+      "label": "Slickdeals Front Page",
+      "type": "rss",
+      "url": "https://slickdeals.net/newsearch.php?mode=frontpage&searcharea=deals&searchin=first&rss=1",
+      "trust": 0.9
+    },
+    {
+      "id": "dealnews",
+      "label": "DealNews Electronics",
+      "type": "rss",
+      "url": "https://www.dealnews.com/c142/Electronics/?rss=1",
+      "trust": 0.85
+    },
+    {
+      "id": "dealcatcher",
+      "label": "DealCatcher Feed",
+      "type": "rss",
+      "url": "https://www.dealcatcher.com/rss",
+      "trust": 0.8
+    },
+    {
+      "id": "techbargains",
+      "label": "TechBargains",
+      "type": "rss",
+      "url": "https://www.techbargains.com/rss",
+      "trust": 0.8
+    },
+    {
+      "id": "bensbargains",
+      "label": "Ben's Bargains",
+      "type": "rss",
+      "url": "https://feeds.feedburner.com/bensbargains",
+      "trust": 0.75
+    },
+    {
+      "id": "bradsdeals",
+      "label": "Brad's Deals",
+      "type": "rss",
+      "url": "https://www.bradsdeals.com/feed",
+      "trust": 0.82
+    },
+    {
+      "id": "seeded-stores",
+      "label": "Seeded Popular Stores",
+      "type": "seeded",
+      "trust": 0.7
+    }
+  ]
+}

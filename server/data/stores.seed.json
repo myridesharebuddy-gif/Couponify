@@ -1,0 +1,4346 @@
+[
+  {
+    "id": "amazon",
+    "name": "Amazon",
+    "website": "https://www.amazon.com",
+    "categories": [
+      "Apparel",
+      "Electronics",
+      "Grocery",
+      "Home",
+      "Beauty"
+    ],
+    "aliases": [
+      "amazon.com",
+      "www.amazon.com"
+    ],
+    "country": "US",
+    "popularityWeight": 100
+  },
+  {
+    "id": "walmart",
+    "name": "Walmart",
+    "website": "https://www.walmart.com",
+    "categories": [
+      "Grocery",
+      "Home",
+      "Electronics",
+      "Baby",
+      "Pet",
+      "Beauty"
+    ],
+    "aliases": [
+      "walmart.com",
+      "www.walmart.com"
+    ],
+    "country": "US",
+    "popularityWeight": 98
+  },
+  {
+    "id": "target",
+    "name": "Target",
+    "website": "https://www.target.com",
+    "categories": [
+      "Apparel",
+      "Grocery",
+      "Home",
+      "Beauty",
+      "Baby"
+    ],
+    "aliases": [
+      "target.com",
+      "www.target.com"
+    ],
+    "country": "US",
+    "popularityWeight": 96
+  },
+  {
+    "id": "costco",
+    "name": "Costco",
+    "website": "https://www.costco.com",
+    "categories": [
+      "Grocery",
+      "Home",
+      "Electronics"
+    ],
+    "aliases": [
+      "costco.com",
+      "www.costco.com"
+    ],
+    "country": "US",
+    "popularityWeight": 94
+  },
+  {
+    "id": "sams-club",
+    "name": "Sams Club",
+    "website": "https://www.samsclub.com",
+    "categories": [
+      "Grocery",
+      "Home",
+      "Electronics"
+    ],
+    "aliases": [
+      "samsclub.com",
+      "www.samsclub.com"
+    ],
+    "country": "US",
+    "popularityWeight": 92
+  },
+  {
+    "id": "bjs-wholesale-club",
+    "name": "BJs Wholesale Club",
+    "website": "https://www.bjs.com",
+    "categories": [
+      "Grocery",
+      "Home",
+      "Electronics"
+    ],
+    "aliases": [
+      "bjs.com",
+      "www.bjs.com"
+    ],
+    "country": "US",
+    "popularityWeight": 90
+  },
+  {
+    "id": "macy-s",
+    "name": "Macy's",
+    "website": "https://www.macys.com",
+    "categories": [
+      "Apparel",
+      "Shoes",
+      "Home",
+      "Beauty"
+    ],
+    "aliases": [
+      "macys.com",
+      "www.macys.com",
+      "macys"
+    ],
+    "country": "US",
+    "popularityWeight": 88
+  },
+  {
+    "id": "nordstrom",
+    "name": "Nordstrom",
+    "website": "https://www.nordstrom.com",
+    "categories": [
+      "Apparel",
+      "Shoes",
+      "Beauty",
+      "Home"
+    ],
+    "aliases": [
+      "nordstrom.com",
+      "www.nordstrom.com"
+    ],
+    "country": "US",
+    "popularityWeight": 86
+  },
+  {
+    "id": "kohl-s",
+    "name": "Kohl's",
+    "website": "https://www.kohls.com",
+    "categories": [
+      "Apparel",
+      "Home",
+      "Baby"
+    ],
+    "aliases": [
+      "kohls.com",
+      "www.kohls.com"
+    ],
+    "country": "US",
+    "popularityWeight": 84
+  },
+  {
+    "id": "jcpenney",
+    "name": "JCPenney",
+    "website": "https://www.jcpenney.com",
+    "categories": [
+      "Apparel",
+      "Home",
+      "Baby"
+    ],
+    "aliases": [
+      "jcpenney.com",
+      "www.jcpenney.com"
+    ],
+    "country": "US",
+    "popularityWeight": 80
+  },
+  {
+    "id": "sears",
+    "name": "Sears",
+    "website": "https://www.sears.com",
+    "categories": [
+      "Home",
+      "Tools",
+      "Auto"
+    ],
+    "aliases": [
+      "sears.com",
+      "www.sears.com"
+    ],
+    "country": "US",
+    "popularityWeight": 65
+  },
+  {
+    "id": "neiman-marcus",
+    "name": "Neiman Marcus",
+    "website": "https://www.neimanmarcus.com",
+    "categories": [
+      "Apparel",
+      "Shoes",
+      "Beauty"
+    ],
+    "aliases": [
+      "neimanmarcus.com",
+      "www.neimanmarcus.com"
+    ],
+    "country": "US",
+    "popularityWeight": 66
+  },
+  {
+    "id": "bloomingdale-s",
+    "name": "Bloomingdale's",
+    "website": "https://www.bloomingdales.com",
+    "categories": [
+      "Apparel",
+      "Beauty",
+      "Home"
+    ],
+    "aliases": [
+      "bloomingdales.com",
+      "www.bloomingdales.com",
+      "bloomies"
+    ],
+    "country": "US",
+    "popularityWeight": 63
+  },
+  {
+    "id": "belk",
+    "name": "Belk",
+    "website": "https://www.belk.com",
+    "categories": [
+      "Apparel",
+      "Home"
+    ],
+    "aliases": [
+      "belk.com",
+      "www.belk.com"
+    ],
+    "country": "US",
+    "popularityWeight": 58
+  },
+  {
+    "id": "dillard-s",
+    "name": "Dillard's",
+    "website": "https://www.dillards.com",
+    "categories": [
+      "Apparel",
+      "Beauty",
+      "Home"
+    ],
+    "aliases": [
+      "dillards.com",
+      "www.dillards.com"
+    ],
+    "country": "US",
+    "popularityWeight": 55
+  },
+  {
+    "id": "saks-fifth-avenue",
+    "name": "Saks Fifth Avenue",
+    "website": "https://www.saksfifthavenue.com",
+    "categories": [
+      "Apparel",
+      "Beauty"
+    ],
+    "aliases": [
+      "saksfifthavenue.com",
+      "www.saksfifthavenue.com"
+    ],
+    "country": "US",
+    "popularityWeight": 60
+  },
+  {
+    "id": "ross-dress-for-less",
+    "name": "Ross Dress for Less",
+    "website": "https://www.rossstores.com",
+    "categories": [
+      "Apparel",
+      "Home"
+    ],
+    "aliases": [
+      "rossstores.com",
+      "www.rossstores.com"
+    ],
+    "country": "US",
+    "popularityWeight": 54
+  },
+  {
+    "id": "tj-maxx",
+    "name": "TJ Maxx",
+    "website": "https://www.tjmaxx.com",
+    "categories": [
+      "Apparel",
+      "Home"
+    ],
+    "aliases": [
+      "tjmaxx.com",
+      "www.tjmaxx.com"
+    ],
+    "country": "US",
+    "popularityWeight": 62
+  },
+  {
+    "id": "marshalls",
+    "name": "Marshalls",
+    "website": "https://www.marshalls.com",
+    "categories": [
+      "Apparel",
+      "Home"
+    ],
+    "aliases": [
+      "marshalls.com",
+      "www.marshalls.com"
+    ],
+    "country": "US",
+    "popularityWeight": 61
+  },
+  {
+    "id": "big-lots",
+    "name": "Big Lots",
+    "website": "https://www.biglots.com",
+    "categories": [
+      "Home",
+      "Beauty"
+    ],
+    "aliases": [
+      "biglots.com",
+      "www.biglots.com"
+    ],
+    "country": "US",
+    "popularityWeight": 50
+  },
+  {
+    "id": "nike",
+    "name": "Nike",
+    "website": "https://www.nike.com",
+    "categories": [
+      "Apparel",
+      "Shoes",
+      "Fitness"
+    ],
+    "aliases": [
+      "nike.com",
+      "www.nike.com",
+      "snkrs"
+    ],
+    "country": "US",
+    "popularityWeight": 97
+  },
+  {
+    "id": "adidas",
+    "name": "Adidas",
+    "website": "https://www.adidas.com",
+    "categories": [
+      "Apparel",
+      "Shoes",
+      "Fitness"
+    ],
+    "aliases": [
+      "adidas.com",
+      "www.adidas.com"
+    ],
+    "country": "US",
+    "popularityWeight": 92
+  },
+  {
+    "id": "under-armour",
+    "name": "Under Armour",
+    "website": "https://www.underarmour.com",
+    "categories": [
+      "Apparel",
+      "Fitness"
+    ],
+    "aliases": [
+      "underarmour.com",
+      "www.underarmour.com"
+    ],
+    "country": "US",
+    "popularityWeight": 85
+  },
+  {
+    "id": "lululemon",
+    "name": "Lululemon",
+    "website": "https://www.lululemon.com",
+    "categories": [
+      "Apparel",
+      "Fitness"
+    ],
+    "aliases": [
+      "lululemon.com",
+      "www.lululemon.com"
+    ],
+    "country": "US",
+    "popularityWeight": 82
+  },
+  {
+    "id": "athleta",
+    "name": "Athleta",
+    "website": "https://www.athleta.com",
+    "categories": [
+      "Apparel",
+      "Fitness"
+    ],
+    "aliases": [
+      "athleta.com",
+      "www.athleta.com"
+    ],
+    "country": "US",
+    "popularityWeight": 70
+  },
+  {
+    "id": "patagonia",
+    "name": "Patagonia",
+    "website": "https://www.patagonia.com",
+    "categories": [
+      "Apparel",
+      "Outdoors"
+    ],
+    "aliases": [
+      "patagonia.com",
+      "www.patagonia.com"
+    ],
+    "country": "US",
+    "popularityWeight": 75
+  },
+  {
+    "id": "columbia-sportswear",
+    "name": "Columbia Sportswear",
+    "website": "https://www.columbia.com",
+    "categories": [
+      "Apparel",
+      "Outdoors"
+    ],
+    "aliases": [
+      "columbia.com",
+      "www.columbia.com"
+    ],
+    "country": "US",
+    "popularityWeight": 68
+  },
+  {
+    "id": "the-north-face",
+    "name": "The North Face",
+    "website": "https://www.thenorthface.com",
+    "categories": [
+      "Apparel",
+      "Outdoors"
+    ],
+    "aliases": [
+      "thenorthface.com",
+      "www.thenorthface.com"
+    ],
+    "country": "US",
+    "popularityWeight": 73
+  },
+  {
+    "id": "levi-s",
+    "name": "Levi's",
+    "website": "https://www.levi.com",
+    "categories": [
+      "Apparel"
+    ],
+    "aliases": [
+      "levi.com",
+      "www.levi.com"
+    ],
+    "country": "US",
+    "popularityWeight": 66
+  },
+  {
+    "id": "calvin-klein",
+    "name": "Calvin Klein",
+    "website": "https://www.calvinklein.us",
+    "categories": [
+      "Apparel"
+    ],
+    "aliases": [
+      "calvinklein.us",
+      "www.calvinklein.us"
+    ],
+    "country": "US",
+    "popularityWeight": 62
+  },
+  {
+    "id": "tommy-hilfiger",
+    "name": "Tommy Hilfiger",
+    "website": "https://usa.tommy.com",
+    "categories": [
+      "Apparel"
+    ],
+    "aliases": [
+      "tommy.com",
+      "www.tommy.com"
+    ],
+    "country": "US",
+    "popularityWeight": 64
+  },
+  {
+    "id": "ralph-lauren",
+    "name": "Ralph Lauren",
+    "website": "https://www.ralphlauren.com",
+    "categories": [
+      "Apparel"
+    ],
+    "aliases": [
+      "ralphlauren.com",
+      "www.ralphlauren.com"
+    ],
+    "country": "US",
+    "popularityWeight": 65
+  },
+  {
+    "id": "coach",
+    "name": "Coach",
+    "website": "https://www.coach.com",
+    "categories": [
+      "Apparel",
+      "Beauty"
+    ],
+    "aliases": [
+      "coach.com",
+      "www.coach.com",
+      "coach outlet"
+    ],
+    "country": "US",
+    "popularityWeight": 66
+  },
+  {
+    "id": "gap",
+    "name": "Gap",
+    "website": "https://www.gap.com",
+    "categories": [
+      "Apparel",
+      "Baby"
+    ],
+    "aliases": [
+      "gap.com",
+      "www.gap.com"
+    ],
+    "country": "US",
+    "popularityWeight": 60
+  },
+  {
+    "id": "old-navy",
+    "name": "Old Navy",
+    "website": "https://www.oldnavy.com",
+    "categories": [
+      "Apparel",
+      "Baby"
+    ],
+    "aliases": [
+      "oldnavy.com",
+      "www.oldnavy.com"
+    ],
+    "country": "US",
+    "popularityWeight": 58
+  },
+  {
+    "id": "banana-republic",
+    "name": "Banana Republic",
+    "website": "https://bananarepublic.gap.com",
+    "categories": [
+      "Apparel"
+    ],
+    "aliases": [
+      "bananarepublic.com",
+      "www.bananarepublic.com"
+    ],
+    "country": "US",
+    "popularityWeight": 55
+  },
+  {
+    "id": "american-eagle",
+    "name": "American Eagle",
+    "website": "https://www.ae.com",
+    "categories": [
+      "Apparel"
+    ],
+    "aliases": [
+      "ae.com",
+      "www.ae.com"
+    ],
+    "country": "US",
+    "popularityWeight": 57
+  },
+  {
+    "id": "handm",
+    "name": "H&M",
+    "website": "https://www2.hm.com",
+    "categories": [
+      "Apparel"
+    ],
+    "aliases": [
+      "hm.com",
+      "www.hm.com"
+    ],
+    "country": "US",
+    "popularityWeight": 63
+  },
+  {
+    "id": "zara",
+    "name": "Zara",
+    "website": "https://www.zara.com",
+    "categories": [
+      "Apparel"
+    ],
+    "aliases": [
+      "zara.com",
+      "www.zara.com"
+    ],
+    "country": "US",
+    "popularityWeight": 67
+  },
+  {
+    "id": "uniqlo",
+    "name": "Uniqlo",
+    "website": "https://www.uniqlo.com",
+    "categories": [
+      "Apparel"
+    ],
+    "aliases": [
+      "uniqlo.com",
+      "www.uniqlo.com"
+    ],
+    "country": "US",
+    "popularityWeight": 61
+  },
+  {
+    "id": "forever-21",
+    "name": "Forever 21",
+    "website": "https://www.forever21.com",
+    "categories": [
+      "Apparel"
+    ],
+    "aliases": [
+      "forever21.com",
+      "www.forever21.com"
+    ],
+    "country": "US",
+    "popularityWeight": 50
+  },
+  {
+    "id": "abercrombie-and-fitch",
+    "name": "Abercrombie & Fitch",
+    "website": "https://www.abercrombie.com",
+    "categories": [
+      "Apparel"
+    ],
+    "aliases": [
+      "abercrombie.com",
+      "www.abercrombie.com"
+    ],
+    "country": "US",
+    "popularityWeight": 54
+  },
+  {
+    "id": "hollister",
+    "name": "Hollister",
+    "website": "https://www.hollisterco.com",
+    "categories": [
+      "Apparel"
+    ],
+    "aliases": [
+      "hollister.com",
+      "www.hollister.com"
+    ],
+    "country": "US",
+    "popularityWeight": 52
+  },
+  {
+    "id": "free-people",
+    "name": "Free People",
+    "website": "https://www.freepeople.com",
+    "categories": [
+      "Apparel"
+    ],
+    "aliases": [
+      "freepeople.com",
+      "www.freepeople.com"
+    ],
+    "country": "US",
+    "popularityWeight": 49
+  },
+  {
+    "id": "anthropologie",
+    "name": "Anthropologie",
+    "website": "https://www.anthropologie.com",
+    "categories": [
+      "Apparel",
+      "Home"
+    ],
+    "aliases": [
+      "anthropologie.com",
+      "www.anthropologie.com"
+    ],
+    "country": "US",
+    "popularityWeight": 48
+  },
+  {
+    "id": "madewell",
+    "name": "Madewell",
+    "website": "https://www.madewell.com",
+    "categories": [
+      "Apparel"
+    ],
+    "aliases": [
+      "madewell.com",
+      "www.madewell.com"
+    ],
+    "country": "US",
+    "popularityWeight": 46
+  },
+  {
+    "id": "urban-outfitters",
+    "name": "Urban Outfitters",
+    "website": "https://www.urbanoutfitters.com",
+    "categories": [
+      "Apparel",
+      "Home"
+    ],
+    "aliases": [
+      "urbanoutfitters.com",
+      "www.urbanoutfitters.com"
+    ],
+    "country": "US",
+    "popularityWeight": 45
+  },
+  {
+    "id": "aritzia",
+    "name": "Aritzia",
+    "website": "https://www.aritzia.com",
+    "categories": [
+      "Apparel"
+    ],
+    "aliases": [
+      "aritzia.com",
+      "www.aritzia.com"
+    ],
+    "country": "US",
+    "popularityWeight": 44
+  },
+  {
+    "id": "torrid",
+    "name": "Torrid",
+    "website": "https://www.torrid.com",
+    "categories": [
+      "Apparel"
+    ],
+    "aliases": [
+      "torrid.com",
+      "www.torrid.com"
+    ],
+    "country": "US",
+    "popularityWeight": 43
+  },
+  {
+    "id": "gymshark",
+    "name": "Gymshark",
+    "website": "https://www.gymshark.com",
+    "categories": [
+      "Apparel",
+      "Fitness"
+    ],
+    "aliases": [
+      "gymshark.com",
+      "www.gymshark.com"
+    ],
+    "country": "US",
+    "popularityWeight": 40
+  },
+  {
+    "id": "fabletics",
+    "name": "Fabletics",
+    "website": "https://www.fabletics.com",
+    "categories": [
+      "Apparel",
+      "Fitness"
+    ],
+    "aliases": [
+      "fabletics.com",
+      "www.fabletics.com"
+    ],
+    "country": "US",
+    "popularityWeight": 38
+  },
+  {
+    "id": "allbirds",
+    "name": "Allbirds",
+    "website": "https://www.allbirds.com",
+    "categories": [
+      "Apparel",
+      "Shoes"
+    ],
+    "aliases": [
+      "allbirds.com",
+      "www.allbirds.com"
+    ],
+    "country": "US",
+    "popularityWeight": 47
+  },
+  {
+    "id": "reformation",
+    "name": "Reformation",
+    "website": "https://www.thereformation.com",
+    "categories": [
+      "Apparel"
+    ],
+    "aliases": [
+      "thereformation.com",
+      "www.thereformation.com"
+    ],
+    "country": "US",
+    "popularityWeight": 36
+  },
+  {
+    "id": "everlane",
+    "name": "Everlane",
+    "website": "https://www.everlane.com",
+    "categories": [
+      "Apparel"
+    ],
+    "aliases": [
+      "everlane.com",
+      "www.everlane.com"
+    ],
+    "country": "US",
+    "popularityWeight": 35
+  },
+  {
+    "id": "buckle",
+    "name": "Buckle",
+    "website": "https://www.buckle.com",
+    "categories": [
+      "Apparel",
+      "Shoes"
+    ],
+    "aliases": [
+      "buckle.com",
+      "www.buckle.com"
+    ],
+    "country": "US",
+    "popularityWeight": 32
+  },
+  {
+    "id": "express",
+    "name": "Express",
+    "website": "https://www.express.com",
+    "categories": [
+      "Apparel"
+    ],
+    "aliases": [
+      "express.com",
+      "www.express.com"
+    ],
+    "country": "US",
+    "popularityWeight": 34
+  },
+  {
+    "id": "asos",
+    "name": "ASOS",
+    "website": "https://www.asos.com",
+    "categories": [
+      "Apparel"
+    ],
+    "aliases": [
+      "asos.com",
+      "www.asos.com"
+    ],
+    "country": "US",
+    "popularityWeight": 31
+  },
+  {
+    "id": "foot-locker",
+    "name": "Foot Locker",
+    "website": "https://www.footlocker.com",
+    "categories": [
+      "Shoes",
+      "Apparel"
+    ],
+    "aliases": [
+      "footlocker.com",
+      "www.footlocker.com"
+    ],
+    "country": "US",
+    "popularityWeight": 65
+  },
+  {
+    "id": "finish-line",
+    "name": "Finish Line",
+    "website": "https://www.finishline.com",
+    "categories": [
+      "Shoes"
+    ],
+    "aliases": [
+      "finishline.com",
+      "www.finishline.com"
+    ],
+    "country": "US",
+    "popularityWeight": 50
+  },
+  {
+    "id": "dsw",
+    "name": "DSW",
+    "website": "https://www.dsw.com",
+    "categories": [
+      "Shoes"
+    ],
+    "aliases": [
+      "dsw.com",
+      "www.dsw.com"
+    ],
+    "country": "US",
+    "popularityWeight": 55
+  },
+  {
+    "id": "zappos",
+    "name": "Zappos",
+    "website": "https://www.zappos.com",
+    "categories": [
+      "Shoes"
+    ],
+    "aliases": [
+      "zappos.com",
+      "www.zappos.com"
+    ],
+    "country": "US",
+    "popularityWeight": 70
+  },
+  {
+    "id": "shoe-carnival",
+    "name": "Shoe Carnival",
+    "website": "https://www.shoecarnival.com",
+    "categories": [
+      "Shoes"
+    ],
+    "aliases": [
+      "shoecarnival.com",
+      "www.shoecarnival.com"
+    ],
+    "country": "US",
+    "popularityWeight": 42
+  },
+  {
+    "id": "famous-footwear",
+    "name": "Famous Footwear",
+    "website": "https://www.famousfootwear.com",
+    "categories": [
+      "Shoes"
+    ],
+    "aliases": [
+      "famousfootwear.com",
+      "www.famousfootwear.com"
+    ],
+    "country": "US",
+    "popularityWeight": 45
+  },
+  {
+    "id": "skechers",
+    "name": "Skechers",
+    "website": "https://www.skechers.com",
+    "categories": [
+      "Shoes",
+      "Apparel"
+    ],
+    "aliases": [
+      "skechers.com",
+      "www.skechers.com"
+    ],
+    "country": "US",
+    "popularityWeight": 60
+  },
+  {
+    "id": "crocs",
+    "name": "Crocs",
+    "website": "https://www.crocs.com",
+    "categories": [
+      "Shoes"
+    ],
+    "aliases": [
+      "crocs.com",
+      "www.crocs.com"
+    ],
+    "country": "US",
+    "popularityWeight": 48
+  },
+  {
+    "id": "new-balance",
+    "name": "New Balance",
+    "website": "https://www.newbalance.com",
+    "categories": [
+      "Shoes",
+      "Fitness"
+    ],
+    "aliases": [
+      "newbalance.com",
+      "www.newbalance.com"
+    ],
+    "country": "US",
+    "popularityWeight": 58
+  },
+  {
+    "id": "hoka",
+    "name": "HOKA",
+    "website": "https://www.hoka.com",
+    "categories": [
+      "Shoes",
+      "Fitness"
+    ],
+    "aliases": [
+      "hoka.com",
+      "www.hoka.com"
+    ],
+    "country": "US",
+    "popularityWeight": 40
+  },
+  {
+    "id": "clarks",
+    "name": "Clarks",
+    "website": "https://www.clarksusa.com",
+    "categories": [
+      "Shoes"
+    ],
+    "aliases": [
+      "clarksusa.com",
+      "www.clarksusa.com"
+    ],
+    "country": "US",
+    "popularityWeight": 34
+  },
+  {
+    "id": "steve-madden",
+    "name": "Steve Madden",
+    "website": "https://www.stevemadden.com",
+    "categories": [
+      "Shoes",
+      "Apparel"
+    ],
+    "aliases": [
+      "stevemadden.com",
+      "www.stevemadden.com"
+    ],
+    "country": "US",
+    "popularityWeight": 37
+  },
+  {
+    "id": "vans",
+    "name": "Vans",
+    "website": "https://www.vans.com",
+    "categories": [
+      "Shoes",
+      "Apparel"
+    ],
+    "aliases": [
+      "vans.com",
+      "www.vans.com"
+    ],
+    "country": "US",
+    "popularityWeight": 52
+  },
+  {
+    "id": "converse",
+    "name": "Converse",
+    "website": "https://www.converse.com",
+    "categories": [
+      "Shoes",
+      "Apparel"
+    ],
+    "aliases": [
+      "converse.com",
+      "www.converse.com"
+    ],
+    "country": "US",
+    "popularityWeight": 51
+  },
+  {
+    "id": "aldo",
+    "name": "ALDO",
+    "website": "https://www.aldoshoes.com",
+    "categories": [
+      "Shoes"
+    ],
+    "aliases": [
+      "aldoshoes.com",
+      "www.aldoshoes.com"
+    ],
+    "country": "US",
+    "popularityWeight": 39
+  },
+  {
+    "id": "dr-martens",
+    "name": "Dr Martens",
+    "website": "https://www.drmartens.com",
+    "categories": [
+      "Shoes"
+    ],
+    "aliases": [
+      "drmartens.com",
+      "www.drmartens.com"
+    ],
+    "country": "US",
+    "popularityWeight": 36
+  },
+  {
+    "id": "johnston-and-murphy",
+    "name": "Johnston & Murphy",
+    "website": "https://www.johnstonmurphy.com",
+    "categories": [
+      "Shoes"
+    ],
+    "aliases": [
+      "johnstonmurphy.com",
+      "www.johnstonmurphy.com"
+    ],
+    "country": "US",
+    "popularityWeight": 33
+  },
+  {
+    "id": "timberland",
+    "name": "Timberland",
+    "website": "https://www.timberland.com",
+    "categories": [
+      "Shoes",
+      "Outdoors"
+    ],
+    "aliases": [
+      "timberland.com",
+      "www.timberland.com"
+    ],
+    "country": "US",
+    "popularityWeight": 44
+  },
+  {
+    "id": "puma",
+    "name": "PUMA",
+    "website": "https://us.puma.com",
+    "categories": [
+      "Shoes",
+      "Apparel"
+    ],
+    "aliases": [
+      "puma.com",
+      "www.puma.com"
+    ],
+    "country": "US",
+    "popularityWeight": 53
+  },
+  {
+    "id": "footaction",
+    "name": "Footaction",
+    "website": "https://www.footaction.com",
+    "categories": [
+      "Shoes",
+      "Apparel"
+    ],
+    "aliases": [
+      "footaction.com",
+      "www.footaction.com"
+    ],
+    "country": "US",
+    "popularityWeight": 30
+  },
+  {
+    "id": "sephora",
+    "name": "Sephora",
+    "website": "https://www.sephora.com",
+    "categories": [
+      "Beauty"
+    ],
+    "aliases": [
+      "sephora.com",
+      "www.sephora.com"
+    ],
+    "country": "US",
+    "popularityWeight": 85
+  },
+  {
+    "id": "ulta-beauty",
+    "name": "Ulta Beauty",
+    "website": "https://www.ulta.com",
+    "categories": [
+      "Beauty"
+    ],
+    "aliases": [
+      "ulta.com",
+      "www.ulta.com",
+      "ulta beauty"
+    ],
+    "country": "US",
+    "popularityWeight": 83
+  },
+  {
+    "id": "mac-cosmetics",
+    "name": "MAC Cosmetics",
+    "website": "https://www.maccosmetics.com",
+    "categories": [
+      "Beauty"
+    ],
+    "aliases": [
+      "maccosmetics.com",
+      "www.maccosmetics.com"
+    ],
+    "country": "US",
+    "popularityWeight": 65
+  },
+  {
+    "id": "dermstore",
+    "name": "Dermstore",
+    "website": "https://www.dermstore.com",
+    "categories": [
+      "Beauty"
+    ],
+    "aliases": [
+      "dermstore.com",
+      "www.dermstore.com"
+    ],
+    "country": "US",
+    "popularityWeight": 52
+  },
+  {
+    "id": "glossier",
+    "name": "Glossier",
+    "website": "https://www.glossier.com",
+    "categories": [
+      "Beauty"
+    ],
+    "aliases": [
+      "glossier.com",
+      "www.glossier.com"
+    ],
+    "country": "US",
+    "popularityWeight": 50
+  },
+  {
+    "id": "fenty-beauty",
+    "name": "Fenty Beauty",
+    "website": "https://www.fentybeauty.com",
+    "categories": [
+      "Beauty"
+    ],
+    "aliases": [
+      "fentybeauty.com",
+      "www.fentybeauty.com"
+    ],
+    "country": "US",
+    "popularityWeight": 48
+  },
+  {
+    "id": "the-body-shop",
+    "name": "The Body Shop",
+    "website": "https://www.thebodyshop.com",
+    "categories": [
+      "Beauty"
+    ],
+    "aliases": [
+      "thebodyshop.com",
+      "www.thebodyshop.com"
+    ],
+    "country": "US",
+    "popularityWeight": 45
+  },
+  {
+    "id": "kiehls",
+    "name": "Kiehls",
+    "website": "https://www.kiehls.com",
+    "categories": [
+      "Beauty"
+    ],
+    "aliases": [
+      "kiehls.com",
+      "www.kiehls.com"
+    ],
+    "country": "US",
+    "popularityWeight": 42
+  },
+  {
+    "id": "tarte-cosmetics",
+    "name": "Tarte Cosmetics",
+    "website": "https://tartecosmetics.com",
+    "categories": [
+      "Beauty"
+    ],
+    "aliases": [
+      "tartecosmetics.com",
+      "www.tartecosmetics.com"
+    ],
+    "country": "US",
+    "popularityWeight": 40
+  },
+  {
+    "id": "morphe",
+    "name": "Morphe",
+    "website": "https://www.morphe.com",
+    "categories": [
+      "Beauty"
+    ],
+    "aliases": [
+      "morphe.com",
+      "www.morphe.com"
+    ],
+    "country": "US",
+    "popularityWeight": 38
+  },
+  {
+    "id": "charlotte-tilbury",
+    "name": "Charlotte Tilbury",
+    "website": "https://www.charlottetilbury.com",
+    "categories": [
+      "Beauty"
+    ],
+    "aliases": [
+      "charlottetilbury.com",
+      "www.charlottetilbury.com"
+    ],
+    "country": "US",
+    "popularityWeight": 35
+  },
+  {
+    "id": "beautylish",
+    "name": "Beautylish",
+    "website": "https://www.beautylish.com",
+    "categories": [
+      "Beauty"
+    ],
+    "aliases": [
+      "beautylish.com",
+      "www.beautylish.com"
+    ],
+    "country": "US",
+    "popularityWeight": 32
+  },
+  {
+    "id": "beauty-bay",
+    "name": "Beauty Bay",
+    "website": "https://www.beautybay.com",
+    "categories": [
+      "Beauty"
+    ],
+    "aliases": [
+      "beautybay.com",
+      "www.beautybay.com"
+    ],
+    "country": "US",
+    "popularityWeight": 28
+  },
+  {
+    "id": "colourpop",
+    "name": "ColourPop",
+    "website": "https://colourpop.com",
+    "categories": [
+      "Beauty"
+    ],
+    "aliases": [
+      "colourpop.com",
+      "www.colourpop.com"
+    ],
+    "country": "US",
+    "popularityWeight": 30
+  },
+  {
+    "id": "elf-cosmetics",
+    "name": "Elf Cosmetics",
+    "website": "https://www.elfcosmetics.com",
+    "categories": [
+      "Beauty"
+    ],
+    "aliases": [
+      "elfcosmetics.com",
+      "www.elfcosmetics.com"
+    ],
+    "country": "US",
+    "popularityWeight": 33
+  },
+  {
+    "id": "soko-glam",
+    "name": "Soko Glam",
+    "website": "https://sokoglam.com",
+    "categories": [
+      "Beauty"
+    ],
+    "aliases": [
+      "sokoglam.com",
+      "www.sokoglam.com"
+    ],
+    "country": "US",
+    "popularityWeight": 26
+  },
+  {
+    "id": "milk-makeup",
+    "name": "Milk Makeup",
+    "website": "https://www.milkmakeup.com",
+    "categories": [
+      "Beauty"
+    ],
+    "aliases": [
+      "milkmakeup.com",
+      "www.milkmakeup.com"
+    ],
+    "country": "US",
+    "popularityWeight": 27
+  },
+  {
+    "id": "sally-beauty",
+    "name": "Sally Beauty",
+    "website": "https://www.sallybeauty.com",
+    "categories": [
+      "Beauty"
+    ],
+    "aliases": [
+      "sallybeauty.com",
+      "www.sallybeauty.com",
+      "leave-in",
+      "4c"
+    ],
+    "country": "US",
+    "popularityWeight": 56
+  },
+  {
+    "id": "sheamoisture",
+    "name": "SheaMoisture",
+    "website": "https://www.sheamoisture.com",
+    "categories": [
+      "Beauty"
+    ],
+    "aliases": [
+      "sheamoisture.com",
+      "www.sheamoisture.com",
+      "4c",
+      "leave-in"
+    ],
+    "country": "US",
+    "popularityWeight": 50
+  },
+  {
+    "id": "cantu",
+    "name": "Cantu",
+    "website": "https://www.cantubeauty.com",
+    "categories": [
+      "Beauty"
+    ],
+    "aliases": [
+      "cantubeauty.com",
+      "www.cantubeauty.com",
+      "4c"
+    ],
+    "country": "US",
+    "popularityWeight": 48
+  },
+  {
+    "id": "mielle-organics",
+    "name": "Mielle Organics",
+    "website": "https://www.mielleorganics.com",
+    "categories": [
+      "Beauty"
+    ],
+    "aliases": [
+      "mielleorganics.com",
+      "www.mielleorganics.com"
+    ],
+    "country": "US",
+    "popularityWeight": 46
+  },
+  {
+    "id": "camille-rose",
+    "name": "Camille Rose",
+    "website": "https://www.camillerose.com",
+    "categories": [
+      "Beauty"
+    ],
+    "aliases": [
+      "camillerose.com",
+      "www.camillerose.com"
+    ],
+    "country": "US",
+    "popularityWeight": 44
+  },
+  {
+    "id": "tgin",
+    "name": "TGIN",
+    "website": "https://www.tgin.com",
+    "categories": [
+      "Beauty"
+    ],
+    "aliases": [
+      "tgin.com",
+      "www.tgin.com"
+    ],
+    "country": "US",
+    "popularityWeight": 42
+  },
+  {
+    "id": "as-i-am",
+    "name": "As I Am",
+    "website": "https://www.asiam.com",
+    "categories": [
+      "Beauty"
+    ],
+    "aliases": [
+      "asiam.com",
+      "www.asiam.com"
+    ],
+    "country": "US",
+    "popularityWeight": 40
+  },
+  {
+    "id": "carol-s-daughter",
+    "name": "Carol's Daughter",
+    "website": "https://www.carolsdaughter.com",
+    "categories": [
+      "Beauty"
+    ],
+    "aliases": [
+      "carolsdaughter.com",
+      "www.carolsdaughter.com"
+    ],
+    "country": "US",
+    "popularityWeight": 38
+  },
+  {
+    "id": "pattern-beauty",
+    "name": "Pattern Beauty",
+    "website": "https://www.patternbeauty.com",
+    "categories": [
+      "Beauty"
+    ],
+    "aliases": [
+      "patternbeauty.com",
+      "www.patternbeauty.com"
+    ],
+    "country": "US",
+    "popularityWeight": 36
+  },
+  {
+    "id": "design-essentials",
+    "name": "Design Essentials",
+    "website": "https://www.designessentials.com",
+    "categories": [
+      "Beauty"
+    ],
+    "aliases": [
+      "designessentials.com",
+      "www.designessentials.com"
+    ],
+    "country": "US",
+    "popularityWeight": 34
+  },
+  {
+    "id": "the-doux",
+    "name": "The Doux",
+    "website": "https://www.thedoux.com",
+    "categories": [
+      "Beauty"
+    ],
+    "aliases": [
+      "thedoux.com",
+      "www.thedoux.com"
+    ],
+    "country": "US",
+    "popularityWeight": 32
+  },
+  {
+    "id": "kinky-curly",
+    "name": "Kinky-Curly",
+    "website": "https://www.kinky-curly.com",
+    "categories": [
+      "Beauty"
+    ],
+    "aliases": [
+      "kinky-curly.com",
+      "www.kinky-curly.com"
+    ],
+    "country": "US",
+    "popularityWeight": 30
+  },
+  {
+    "id": "eden-bodyworks",
+    "name": "Eden BodyWorks",
+    "website": "https://www.edenbodyworks.com",
+    "categories": [
+      "Beauty"
+    ],
+    "aliases": [
+      "edenbodyworks.com",
+      "www.edenbodyworks.com"
+    ],
+    "country": "US",
+    "popularityWeight": 28
+  },
+  {
+    "id": "cerave",
+    "name": "CeraVe",
+    "website": "https://www.cerave.com",
+    "categories": [
+      "Beauty"
+    ],
+    "aliases": [
+      "cerave.com",
+      "www.cerave.com"
+    ],
+    "country": "US",
+    "popularityWeight": 70
+  },
+  {
+    "id": "cetaphil",
+    "name": "Cetaphil",
+    "website": "https://www.cetaphil.com",
+    "categories": [
+      "Beauty"
+    ],
+    "aliases": [
+      "cetaphil.com",
+      "www.cetaphil.com"
+    ],
+    "country": "US",
+    "popularityWeight": 68
+  },
+  {
+    "id": "the-ordinary",
+    "name": "The Ordinary",
+    "website": "https://www.theordinary.com",
+    "categories": [
+      "Beauty"
+    ],
+    "aliases": [
+      "theordinary.com",
+      "www.theordinary.com"
+    ],
+    "country": "US",
+    "popularityWeight": 65
+  },
+  {
+    "id": "la-roche-posay",
+    "name": "La Roche-Posay",
+    "website": "https://www.laroche-posay.us",
+    "categories": [
+      "Beauty"
+    ],
+    "aliases": [
+      "laroche-posay.us",
+      "laroche-posay.com",
+      "www.laroche-posay.com"
+    ],
+    "country": "US",
+    "popularityWeight": 63
+  },
+  {
+    "id": "neutrogena",
+    "name": "Neutrogena",
+    "website": "https://www.neutrogena.com",
+    "categories": [
+      "Beauty"
+    ],
+    "aliases": [
+      "neutrogena.com",
+      "www.neutrogena.com"
+    ],
+    "country": "US",
+    "popularityWeight": 62
+  },
+  {
+    "id": "olay",
+    "name": "Olay",
+    "website": "https://www.olay.com",
+    "categories": [
+      "Beauty"
+    ],
+    "aliases": [
+      "olay.com",
+      "www.olay.com"
+    ],
+    "country": "US",
+    "popularityWeight": 59
+  },
+  {
+    "id": "paula-s-choice",
+    "name": "Paula's Choice",
+    "website": "https://www.paulaschoice.com",
+    "categories": [
+      "Beauty"
+    ],
+    "aliases": [
+      "paulaschoice.com",
+      "www.paulaschoice.com"
+    ],
+    "country": "US",
+    "popularityWeight": 56
+  },
+  {
+    "id": "kiehl-s",
+    "name": "Kiehl's",
+    "website": "https://www.kiehls.com",
+    "categories": [
+      "Beauty"
+    ],
+    "aliases": [
+      "kiehls.com",
+      "www.kiehls.com"
+    ],
+    "country": "US",
+    "popularityWeight": 58
+  },
+  {
+    "id": "best-buy",
+    "name": "Best Buy",
+    "website": "https://www.bestbuy.com",
+    "categories": [
+      "Electronics",
+      "Home"
+    ],
+    "aliases": [
+      "bestbuy.com",
+      "www.bestbuy.com"
+    ],
+    "country": "US",
+    "popularityWeight": 89
+  },
+  {
+    "id": "apple",
+    "name": "Apple",
+    "website": "https://www.apple.com",
+    "categories": [
+      "Electronics"
+    ],
+    "aliases": [
+      "apple.com",
+      "www.apple.com"
+    ],
+    "country": "US",
+    "popularityWeight": 97
+  },
+  {
+    "id": "microsoft-store",
+    "name": "Microsoft Store",
+    "website": "https://www.microsoft.com/store",
+    "categories": [
+      "Electronics",
+      "Office"
+    ],
+    "aliases": [
+      "microsoft.com",
+      "www.microsoft.com"
+    ],
+    "country": "US",
+    "popularityWeight": 84
+  },
+  {
+    "id": "samsung",
+    "name": "Samsung",
+    "website": "https://www.samsung.com/us",
+    "categories": [
+      "Electronics"
+    ],
+    "aliases": [
+      "samsung.com",
+      "www.samsung.com"
+    ],
+    "country": "US",
+    "popularityWeight": 86
+  },
+  {
+    "id": "sony-official",
+    "name": "Sony Official",
+    "website": "https://www.sony.com",
+    "categories": [
+      "Electronics"
+    ],
+    "aliases": [
+      "sony.com",
+      "www.sony.com"
+    ],
+    "country": "US",
+    "popularityWeight": 75
+  },
+  {
+    "id": "panasonic",
+    "name": "Panasonic",
+    "website": "https://shop.panasonic.com",
+    "categories": [
+      "Electronics"
+    ],
+    "aliases": [
+      "panasonic.com"
+    ],
+    "country": "US",
+    "popularityWeight": 55
+  },
+  {
+    "id": "lg",
+    "name": "LG",
+    "website": "https://www.lg.com/us",
+    "categories": [
+      "Electronics"
+    ],
+    "aliases": [
+      "lg.com",
+      "www.lg.com"
+    ],
+    "country": "US",
+    "popularityWeight": 64
+  },
+  {
+    "id": "bose",
+    "name": "Bose",
+    "website": "https://www.bose.com",
+    "categories": [
+      "Electronics"
+    ],
+    "aliases": [
+      "bose.com",
+      "www.bose.com"
+    ],
+    "country": "US",
+    "popularityWeight": 60
+  },
+  {
+    "id": "jbl",
+    "name": "JBL",
+    "website": "https://www.jbl.com",
+    "categories": [
+      "Electronics"
+    ],
+    "aliases": [
+      "jbl.com",
+      "www.jbl.com"
+    ],
+    "country": "US",
+    "popularityWeight": 52
+  },
+  {
+    "id": "garmin",
+    "name": "Garmin",
+    "website": "https://www.garmin.com",
+    "categories": [
+      "Electronics",
+      "Outdoors"
+    ],
+    "aliases": [
+      "garmin.com",
+      "www.garmin.com"
+    ],
+    "country": "US",
+    "popularityWeight": 57
+  },
+  {
+    "id": "gopro",
+    "name": "GoPro",
+    "website": "https://gopro.com",
+    "categories": [
+      "Electronics",
+      "Outdoors"
+    ],
+    "aliases": [
+      "gopro.com",
+      "www.gopro.com"
+    ],
+    "country": "US",
+    "popularityWeight": 50
+  },
+  {
+    "id": "dji",
+    "name": "DJI",
+    "website": "https://www.dji.com",
+    "categories": [
+      "Electronics"
+    ],
+    "aliases": [
+      "dji.com",
+      "www.dji.com"
+    ],
+    "country": "US",
+    "popularityWeight": 53
+  },
+  {
+    "id": "razer",
+    "name": "Razer",
+    "website": "https://www.razer.com",
+    "categories": [
+      "Electronics"
+    ],
+    "aliases": [
+      "razer.com",
+      "www.razer.com"
+    ],
+    "country": "US",
+    "popularityWeight": 49
+  },
+  {
+    "id": "anker",
+    "name": "Anker",
+    "website": "https://www.anker.com",
+    "categories": [
+      "Electronics"
+    ],
+    "aliases": [
+      "anker.com",
+      "www.anker.com"
+    ],
+    "country": "US",
+    "popularityWeight": 41
+  },
+  {
+    "id": "bh-photo",
+    "name": "BH Photo",
+    "website": "https://www.bhphotovideo.com",
+    "categories": [
+      "Electronics"
+    ],
+    "aliases": [
+      "bhphotovideo.com",
+      "www.bhphotovideo.com"
+    ],
+    "country": "US",
+    "popularityWeight": 46
+  },
+  {
+    "id": "adorama",
+    "name": "Adorama",
+    "website": "https://www.adorama.com",
+    "categories": [
+      "Electronics"
+    ],
+    "aliases": [
+      "adorama.com",
+      "www.adorama.com"
+    ],
+    "country": "US",
+    "popularityWeight": 39
+  },
+  {
+    "id": "newegg",
+    "name": "Newegg",
+    "website": "https://www.newegg.com",
+    "categories": [
+      "Electronics"
+    ],
+    "aliases": [
+      "newegg.com",
+      "www.newegg.com"
+    ],
+    "country": "US",
+    "popularityWeight": 68
+  },
+  {
+    "id": "micro-center",
+    "name": "Micro Center",
+    "website": "https://www.microcenter.com",
+    "categories": [
+      "Electronics",
+      "Office"
+    ],
+    "aliases": [
+      "microcenter.com",
+      "www.microcenter.com"
+    ],
+    "country": "US",
+    "popularityWeight": 44
+  },
+  {
+    "id": "crutchfield",
+    "name": "Crutchfield",
+    "website": "https://www.crutchfield.com",
+    "categories": [
+      "Electronics"
+    ],
+    "aliases": [
+      "crutchfield.com",
+      "www.crutchfield.com"
+    ],
+    "country": "US",
+    "popularityWeight": 38
+  },
+  {
+    "id": "logitech",
+    "name": "Logitech",
+    "website": "https://www.logitech.com",
+    "categories": [
+      "Electronics",
+      "Office"
+    ],
+    "aliases": [
+      "logitech.com",
+      "www.logitech.com"
+    ],
+    "country": "US",
+    "popularityWeight": 47
+  },
+  {
+    "id": "kroger",
+    "name": "Kroger",
+    "website": "https://www.kroger.com",
+    "categories": [
+      "Grocery"
+    ],
+    "aliases": [
+      "kroger.com",
+      "www.kroger.com"
+    ],
+    "country": "US",
+    "popularityWeight": 82
+  },
+  {
+    "id": "albertsons",
+    "name": "Albertsons",
+    "website": "https://www.albertsons.com",
+    "categories": [
+      "Grocery"
+    ],
+    "aliases": [
+      "albertsons.com",
+      "www.albertsons.com"
+    ],
+    "country": "US",
+    "popularityWeight": 70
+  },
+  {
+    "id": "safeway",
+    "name": "Safeway",
+    "website": "https://www.safeway.com",
+    "categories": [
+      "Grocery"
+    ],
+    "aliases": [
+      "safeway.com",
+      "www.safeway.com"
+    ],
+    "country": "US",
+    "popularityWeight": 68
+  },
+  {
+    "id": "publix",
+    "name": "Publix",
+    "website": "https://www.publix.com",
+    "categories": [
+      "Grocery"
+    ],
+    "aliases": [
+      "publix.com",
+      "www.publix.com"
+    ],
+    "country": "US",
+    "popularityWeight": 65
+  },
+  {
+    "id": "trader-joes",
+    "name": "Trader Joes",
+    "website": "https://www.traderjoes.com",
+    "categories": [
+      "Grocery"
+    ],
+    "aliases": [
+      "traderjoes.com",
+      "www.traderjoes.com"
+    ],
+    "country": "US",
+    "popularityWeight": 63
+  },
+  {
+    "id": "whole-foods-market",
+    "name": "Whole Foods Market",
+    "website": "https://www.wholefoodsmarket.com",
+    "categories": [
+      "Grocery"
+    ],
+    "aliases": [
+      "wholefoodsmarket.com",
+      "www.wholefoodsmarket.com"
+    ],
+    "country": "US",
+    "popularityWeight": 72
+  },
+  {
+    "id": "aldi",
+    "name": "Aldi",
+    "website": "https://www.aldi.us",
+    "categories": [
+      "Grocery"
+    ],
+    "aliases": [
+      "aldi.us",
+      "www.aldi.us"
+    ],
+    "country": "US",
+    "popularityWeight": 55
+  },
+  {
+    "id": "heb",
+    "name": "HEB",
+    "website": "https://www.heb.com",
+    "categories": [
+      "Grocery"
+    ],
+    "aliases": [
+      "heb.com",
+      "www.heb.com"
+    ],
+    "country": "US",
+    "popularityWeight": 60
+  },
+  {
+    "id": "wegmans",
+    "name": "Wegmans",
+    "website": "https://www.wegmans.com",
+    "categories": [
+      "Grocery"
+    ],
+    "aliases": [
+      "wegmans.com",
+      "www.wegmans.com"
+    ],
+    "country": "US",
+    "popularityWeight": 59
+  },
+  {
+    "id": "meijer",
+    "name": "Meijer",
+    "website": "https://www.meijer.com",
+    "categories": [
+      "Grocery"
+    ],
+    "aliases": [
+      "meijer.com",
+      "www.meijer.com"
+    ],
+    "country": "US",
+    "popularityWeight": 56
+  },
+  {
+    "id": "food-lion",
+    "name": "Food Lion",
+    "website": "https://www.foodlion.com",
+    "categories": [
+      "Grocery"
+    ],
+    "aliases": [
+      "foodlion.com",
+      "www.foodlion.com"
+    ],
+    "country": "US",
+    "popularityWeight": 54
+  },
+  {
+    "id": "sprouts-farmers-market",
+    "name": "Sprouts Farmers Market",
+    "website": "https://www.sprouts.com",
+    "categories": [
+      "Grocery"
+    ],
+    "aliases": [
+      "sprouts.com",
+      "www.sprouts.com"
+    ],
+    "country": "US",
+    "popularityWeight": 50
+  },
+  {
+    "id": "hy-vee",
+    "name": "Hy Vee",
+    "website": "https://www.hy-vee.com",
+    "categories": [
+      "Grocery"
+    ],
+    "aliases": [
+      "hy-vee.com",
+      "www.hy-vee.com"
+    ],
+    "country": "US",
+    "popularityWeight": 49
+  },
+  {
+    "id": "winco-foods",
+    "name": "WinCo Foods",
+    "website": "https://www.wincofoods.com",
+    "categories": [
+      "Grocery"
+    ],
+    "aliases": [
+      "wincofoods.com",
+      "www.wincofoods.com"
+    ],
+    "country": "US",
+    "popularityWeight": 47
+  },
+  {
+    "id": "giant-food",
+    "name": "Giant Food",
+    "website": "https://giantfood.com",
+    "categories": [
+      "Grocery"
+    ],
+    "aliases": [
+      "giantfood.com",
+      "www.giantfood.com"
+    ],
+    "country": "US",
+    "popularityWeight": 53
+  },
+  {
+    "id": "stop-and-shop",
+    "name": "Stop & Shop",
+    "website": "https://www.stopandshop.com",
+    "categories": [
+      "Grocery"
+    ],
+    "aliases": [
+      "stopandshop.com",
+      "www.stopandshop.com"
+    ],
+    "country": "US",
+    "popularityWeight": 52
+  },
+  {
+    "id": "harris-teeter",
+    "name": "Harris Teeter",
+    "website": "https://www.harristeeter.com",
+    "categories": [
+      "Grocery"
+    ],
+    "aliases": [
+      "harristeeter.com",
+      "www.harristeeter.com"
+    ],
+    "country": "US",
+    "popularityWeight": 48
+  },
+  {
+    "id": "fresh-thyme-market",
+    "name": "Fresh Thyme Market",
+    "website": "https://www.freshthyme.com",
+    "categories": [
+      "Grocery"
+    ],
+    "aliases": [
+      "freshthyme.com",
+      "www.freshthyme.com"
+    ],
+    "country": "US",
+    "popularityWeight": 41
+  },
+  {
+    "id": "acme-markets",
+    "name": "Acme Markets",
+    "website": "https://www.acmemarkets.com",
+    "categories": [
+      "Grocery"
+    ],
+    "aliases": [
+      "acmemarkets.com",
+      "www.acmemarkets.com"
+    ],
+    "country": "US",
+    "popularityWeight": 40
+  },
+  {
+    "id": "shaws",
+    "name": "Shaws",
+    "website": "https://www.shaws.com",
+    "categories": [
+      "Grocery"
+    ],
+    "aliases": [
+      "shaws.com",
+      "www.shaws.com"
+    ],
+    "country": "US",
+    "popularityWeight": 38
+  },
+  {
+    "id": "price-chopper",
+    "name": "Price Chopper",
+    "website": "https://www.pricechopper.com",
+    "categories": [
+      "Grocery"
+    ],
+    "aliases": [
+      "pricechopper.com",
+      "www.pricechopper.com"
+    ],
+    "country": "US",
+    "popularityWeight": 37
+  },
+  {
+    "id": "fairway-market",
+    "name": "Fairway Market",
+    "website": "https://www.fairwaymarket.com",
+    "categories": [
+      "Grocery"
+    ],
+    "aliases": [
+      "fairwaymarket.com",
+      "www.fairwaymarket.com"
+    ],
+    "country": "US",
+    "popularityWeight": 35
+  },
+  {
+    "id": "lucky-supermarkets",
+    "name": "Lucky Supermarkets",
+    "website": "https://www.luckysupermarkets.com",
+    "categories": [
+      "Grocery"
+    ],
+    "aliases": [
+      "luckysupermarkets.com",
+      "www.luckysupermarkets.com"
+    ],
+    "country": "US",
+    "popularityWeight": 34
+  },
+  {
+    "id": "raleys",
+    "name": "Raleys",
+    "website": "https://www.raleys.com",
+    "categories": [
+      "Grocery"
+    ],
+    "aliases": [
+      "raleys.com",
+      "www.raleys.com"
+    ],
+    "country": "US",
+    "popularityWeight": 33
+  },
+  {
+    "id": "food-4-less",
+    "name": "Food 4 Less",
+    "website": "https://www.food4less.com",
+    "categories": [
+      "Grocery"
+    ],
+    "aliases": [
+      "food4less.com",
+      "www.food4less.com"
+    ],
+    "country": "US",
+    "popularityWeight": 32
+  },
+  {
+    "id": "jewel-osco",
+    "name": "Jewel Osco",
+    "website": "https://www.jewelosco.com",
+    "categories": [
+      "Grocery"
+    ],
+    "aliases": [
+      "jewelosco.com",
+      "www.jewelosco.com"
+    ],
+    "country": "US",
+    "popularityWeight": 31
+  },
+  {
+    "id": "king-soopers",
+    "name": "King Soopers",
+    "website": "https://www.kingsoopers.com",
+    "categories": [
+      "Grocery"
+    ],
+    "aliases": [
+      "kingsoopers.com",
+      "www.kingsoopers.com"
+    ],
+    "country": "US",
+    "popularityWeight": 30
+  },
+  {
+    "id": "home-depot",
+    "name": "Home Depot",
+    "website": "https://www.homedepot.com",
+    "categories": [
+      "Home",
+      "Tools"
+    ],
+    "aliases": [
+      "homedepot.com",
+      "www.homedepot.com"
+    ],
+    "country": "US",
+    "popularityWeight": 90
+  },
+  {
+    "id": "lowe-s",
+    "name": "Lowe's",
+    "website": "https://www.lowes.com",
+    "categories": [
+      "Home",
+      "Tools"
+    ],
+    "aliases": [
+      "lowes.com",
+      "www.lowes.com"
+    ],
+    "country": "US",
+    "popularityWeight": 88
+  },
+  {
+    "id": "wayfair",
+    "name": "Wayfair",
+    "website": "https://www.wayfair.com",
+    "categories": [
+      "Home"
+    ],
+    "aliases": [
+      "wayfair.com",
+      "www.wayfair.com"
+    ],
+    "country": "US",
+    "popularityWeight": 83
+  },
+  {
+    "id": "overstock",
+    "name": "Overstock",
+    "website": "https://www.overstock.com",
+    "categories": [
+      "Home"
+    ],
+    "aliases": [
+      "overstock.com",
+      "www.overstock.com"
+    ],
+    "country": "US",
+    "popularityWeight": 70
+  },
+  {
+    "id": "ikea",
+    "name": "IKEA",
+    "website": "https://www.ikea.com/us",
+    "categories": [
+      "Home"
+    ],
+    "aliases": [
+      "ikea.com",
+      "www.ikea.com"
+    ],
+    "country": "US",
+    "popularityWeight": 75
+  },
+  {
+    "id": "crate-and-barrel",
+    "name": "Crate & Barrel",
+    "website": "https://www.crateandbarrel.com",
+    "categories": [
+      "Home"
+    ],
+    "aliases": [
+      "crateandbarrel.com",
+      "www.crateandbarrel.com"
+    ],
+    "country": "US",
+    "popularityWeight": 60
+  },
+  {
+    "id": "west-elm",
+    "name": "West Elm",
+    "website": "https://www.westelm.com",
+    "categories": [
+      "Home"
+    ],
+    "aliases": [
+      "westelm.com",
+      "www.westelm.com"
+    ],
+    "country": "US",
+    "popularityWeight": 58
+  },
+  {
+    "id": "pottery-barn",
+    "name": "Pottery Barn",
+    "website": "https://www.potterybarn.com",
+    "categories": [
+      "Home"
+    ],
+    "aliases": [
+      "potterybarn.com",
+      "www.potterybarn.com"
+    ],
+    "country": "US",
+    "popularityWeight": 57
+  },
+  {
+    "id": "williams-sonoma",
+    "name": "Williams Sonoma",
+    "website": "https://www.williams-sonoma.com",
+    "categories": [
+      "Home"
+    ],
+    "aliases": [
+      "williams-sonoma.com",
+      "www.williams-sonoma.com"
+    ],
+    "country": "US",
+    "popularityWeight": 56
+  },
+  {
+    "id": "cb2",
+    "name": "CB2",
+    "website": "https://www.cb2.com",
+    "categories": [
+      "Home"
+    ],
+    "aliases": [
+      "cb2.com",
+      "www.cb2.com"
+    ],
+    "country": "US",
+    "popularityWeight": 45
+  },
+  {
+    "id": "ashley-furniture",
+    "name": "Ashley Furniture",
+    "website": "https://www.ashleyfurniture.com",
+    "categories": [
+      "Home"
+    ],
+    "aliases": [
+      "ashleyfurniture.com",
+      "www.ashleyfurniture.com"
+    ],
+    "country": "US",
+    "popularityWeight": 65
+  },
+  {
+    "id": "the-container-store",
+    "name": "The Container Store",
+    "website": "https://www.containerstore.com",
+    "categories": [
+      "Home",
+      "Office"
+    ],
+    "aliases": [
+      "containerstore.com",
+      "www.containerstore.com"
+    ],
+    "country": "US",
+    "popularityWeight": 50
+  },
+  {
+    "id": "world-market",
+    "name": "World Market",
+    "website": "https://www.worldmarket.com",
+    "categories": [
+      "Home"
+    ],
+    "aliases": [
+      "worldmarket.com",
+      "www.worldmarket.com"
+    ],
+    "country": "US",
+    "popularityWeight": 43
+  },
+  {
+    "id": "article",
+    "name": "Article",
+    "website": "https://www.article.com",
+    "categories": [
+      "Home"
+    ],
+    "aliases": [
+      "article.com",
+      "www.article.com"
+    ],
+    "country": "US",
+    "popularityWeight": 37
+  },
+  {
+    "id": "room-and-board",
+    "name": "Room & Board",
+    "website": "https://www.roomandboard.com",
+    "categories": [
+      "Home"
+    ],
+    "aliases": [
+      "roomandboard.com",
+      "www.roomandboard.com"
+    ],
+    "country": "US",
+    "popularityWeight": 35
+  },
+  {
+    "id": "ethan-allen",
+    "name": "Ethan Allen",
+    "website": "https://www.ethanallen.com",
+    "categories": [
+      "Home"
+    ],
+    "aliases": [
+      "ethanallen.com",
+      "www.ethanallen.com"
+    ],
+    "country": "US",
+    "popularityWeight": 33
+  },
+  {
+    "id": "jonathan-adler",
+    "name": "Jonathan Adler",
+    "website": "https://www.jonathanadler.com",
+    "categories": [
+      "Home"
+    ],
+    "aliases": [
+      "jonathanadler.com",
+      "www.jonathanadler.com"
+    ],
+    "country": "US",
+    "popularityWeight": 32
+  },
+  {
+    "id": "hayneedle",
+    "name": "Hayneedle",
+    "website": "https://www.hayneedle.com",
+    "categories": [
+      "Home"
+    ],
+    "aliases": [
+      "hayneedle.com",
+      "www.hayneedle.com"
+    ],
+    "country": "US",
+    "popularityWeight": 30
+  },
+  {
+    "id": "allmodern",
+    "name": "AllModern",
+    "website": "https://www.allmodern.com",
+    "categories": [
+      "Home"
+    ],
+    "aliases": [
+      "allmodern.com",
+      "www.allmodern.com"
+    ],
+    "country": "US",
+    "popularityWeight": 34
+  },
+  {
+    "id": "serena-and-lily",
+    "name": "Serena & Lily",
+    "website": "https://www.serenaandlily.com",
+    "categories": [
+      "Home"
+    ],
+    "aliases": [
+      "serenaandlily.com",
+      "www.serenaandlily.com"
+    ],
+    "country": "US",
+    "popularityWeight": 28
+  },
+  {
+    "id": "joybird",
+    "name": "Joybird",
+    "website": "https://joybird.com",
+    "categories": [
+      "Home"
+    ],
+    "aliases": [
+      "joybird.com",
+      "www.joybird.com"
+    ],
+    "country": "US",
+    "popularityWeight": 26
+  },
+  {
+    "id": "restoration-hardware",
+    "name": "Restoration Hardware",
+    "website": "https://www.rh.com",
+    "categories": [
+      "Home"
+    ],
+    "aliases": [
+      "rh.com",
+      "www.rh.com"
+    ],
+    "country": "US",
+    "popularityWeight": 40
+  },
+  {
+    "id": "bob-s-discount-furniture",
+    "name": "Bob's Discount Furniture",
+    "website": "https://www.mybobs.com",
+    "categories": [
+      "Home"
+    ],
+    "aliases": [
+      "mybobs.com",
+      "www.mybobs.com"
+    ],
+    "country": "US",
+    "popularityWeight": 29
+  },
+  {
+    "id": "homegoods",
+    "name": "HomeGoods",
+    "website": "https://www.homegoods.com",
+    "categories": [
+      "Home"
+    ],
+    "aliases": [
+      "homegoods.com",
+      "www.homegoods.com"
+    ],
+    "country": "US",
+    "popularityWeight": 41
+  },
+  {
+    "id": "at-home",
+    "name": "At Home",
+    "website": "https://www.athome.com",
+    "categories": [
+      "Home"
+    ],
+    "aliases": [
+      "athome.com",
+      "www.athome.com"
+    ],
+    "country": "US",
+    "popularityWeight": 27
+  },
+  {
+    "id": "harbor-freight-tools",
+    "name": "Harbor Freight Tools",
+    "website": "https://www.harborfreight.com",
+    "categories": [
+      "Tools"
+    ],
+    "aliases": [
+      "harborfreight.com",
+      "www.harborfreight.com"
+    ],
+    "country": "US",
+    "popularityWeight": 62
+  },
+  {
+    "id": "northern-tool-equipment",
+    "name": "Northern Tool + Equipment",
+    "website": "https://www.northerntool.com",
+    "categories": [
+      "Tools"
+    ],
+    "aliases": [
+      "northerntool.com",
+      "www.northerntool.com"
+    ],
+    "country": "US",
+    "popularityWeight": 48
+  },
+  {
+    "id": "grainger",
+    "name": "Grainger",
+    "website": "https://www.grainger.com",
+    "categories": [
+      "Tools"
+    ],
+    "aliases": [
+      "grainger.com",
+      "www.grainger.com"
+    ],
+    "country": "US",
+    "popularityWeight": 55
+  },
+  {
+    "id": "acme-tools",
+    "name": "Acme Tools",
+    "website": "https://www.acmetools.com",
+    "categories": [
+      "Tools"
+    ],
+    "aliases": [
+      "acmetools.com",
+      "www.acmetools.com"
+    ],
+    "country": "US",
+    "popularityWeight": 38
+  },
+  {
+    "id": "fastenal",
+    "name": "Fastenal",
+    "website": "https://www.fastenal.com",
+    "categories": [
+      "Tools"
+    ],
+    "aliases": [
+      "fastenal.com",
+      "www.fastenal.com"
+    ],
+    "country": "US",
+    "popularityWeight": 40
+  },
+  {
+    "id": "menards",
+    "name": "Menards",
+    "website": "https://www.menards.com",
+    "categories": [
+      "Tools",
+      "Home"
+    ],
+    "aliases": [
+      "menards.com",
+      "www.menards.com"
+    ],
+    "country": "US",
+    "popularityWeight": 50
+  },
+  {
+    "id": "msc-industrial-supply",
+    "name": "MSC Industrial Supply",
+    "website": "https://www.mscdirect.com",
+    "categories": [
+      "Tools"
+    ],
+    "aliases": [
+      "mscdirect.com",
+      "www.mscdirect.com"
+    ],
+    "country": "US",
+    "popularityWeight": 34
+  },
+  {
+    "id": "toolbarn",
+    "name": "Toolbarn",
+    "website": "https://www.toolbarn.com",
+    "categories": [
+      "Tools"
+    ],
+    "aliases": [
+      "toolbarn.com",
+      "www.toolbarn.com"
+    ],
+    "country": "US",
+    "popularityWeight": 31
+  },
+  {
+    "id": "toolnut",
+    "name": "ToolNut",
+    "website": "https://www.toolnut.com",
+    "categories": [
+      "Tools"
+    ],
+    "aliases": [
+      "toolnut.com",
+      "www.toolnut.com"
+    ],
+    "country": "US",
+    "popularityWeight": 28
+  },
+  {
+    "id": "zoro",
+    "name": "Zoro",
+    "website": "https://www.zoro.com",
+    "categories": [
+      "Tools"
+    ],
+    "aliases": [
+      "zoro.com",
+      "www.zoro.com"
+    ],
+    "country": "US",
+    "popularityWeight": 36
+  },
+  {
+    "id": "autozone",
+    "name": "AutoZone",
+    "website": "https://www.autozone.com",
+    "categories": [
+      "Auto",
+      "Tools"
+    ],
+    "aliases": [
+      "autozone.com",
+      "www.autozone.com"
+    ],
+    "country": "US",
+    "popularityWeight": 68
+  },
+  {
+    "id": "advance-auto-parts",
+    "name": "Advance Auto Parts",
+    "website": "https://www.advanceautoparts.com",
+    "categories": [
+      "Auto"
+    ],
+    "aliases": [
+      "advanceautoparts.com",
+      "www.advanceautoparts.com"
+    ],
+    "country": "US",
+    "popularityWeight": 62
+  },
+  {
+    "id": "oreilly-auto-parts",
+    "name": "OReilly Auto Parts",
+    "website": "https://www.oreillyauto.com",
+    "categories": [
+      "Auto"
+    ],
+    "aliases": [
+      "oreillyauto.com",
+      "www.oreillyauto.com"
+    ],
+    "country": "US",
+    "popularityWeight": 60
+  },
+  {
+    "id": "pep-boys",
+    "name": "Pep Boys",
+    "website": "https://www.pepboys.com",
+    "categories": [
+      "Auto"
+    ],
+    "aliases": [
+      "pepboys.com",
+      "www.pepboys.com"
+    ],
+    "country": "US",
+    "popularityWeight": 55
+  },
+  {
+    "id": "napa-auto-parts",
+    "name": "NAPA Auto Parts",
+    "website": "https://www.napaonline.com",
+    "categories": [
+      "Auto"
+    ],
+    "aliases": [
+      "napaonline.com",
+      "www.napaonline.com"
+    ],
+    "country": "US",
+    "popularityWeight": 58
+  },
+  {
+    "id": "tire-rack",
+    "name": "Tire Rack",
+    "website": "https://www.tirerack.com",
+    "categories": [
+      "Auto"
+    ],
+    "aliases": [
+      "tirerack.com",
+      "www.tirerack.com"
+    ],
+    "country": "US",
+    "popularityWeight": 50
+  },
+  {
+    "id": "discount-tire",
+    "name": "Discount Tire",
+    "website": "https://www.discounttire.com",
+    "categories": [
+      "Auto"
+    ],
+    "aliases": [
+      "discounttire.com",
+      "www.discounttire.com"
+    ],
+    "country": "US",
+    "popularityWeight": 48
+  },
+  {
+    "id": "carparts-com",
+    "name": "CarParts.com",
+    "website": "https://www.carparts.com",
+    "categories": [
+      "Auto"
+    ],
+    "aliases": [
+      "carparts.com",
+      "www.carparts.com"
+    ],
+    "country": "US",
+    "popularityWeight": 46
+  },
+  {
+    "id": "rockauto",
+    "name": "RockAuto",
+    "website": "https://www.rockauto.com",
+    "categories": [
+      "Auto"
+    ],
+    "aliases": [
+      "rockauto.com",
+      "www.rockauto.com"
+    ],
+    "country": "US",
+    "popularityWeight": 44
+  },
+  {
+    "id": "autoanything",
+    "name": "AutoAnything",
+    "website": "https://www.autoanything.com",
+    "categories": [
+      "Auto"
+    ],
+    "aliases": [
+      "autoanything.com",
+      "www.autoanything.com"
+    ],
+    "country": "US",
+    "popularityWeight": 42
+  },
+  {
+    "id": "summit-racing-equipment",
+    "name": "Summit Racing Equipment",
+    "website": "https://www.summitracing.com",
+    "categories": [
+      "Auto"
+    ],
+    "aliases": [
+      "summitracing.com",
+      "www.summitracing.com"
+    ],
+    "country": "US",
+    "popularityWeight": 40
+  },
+  {
+    "id": "buybuy-baby",
+    "name": "BuyBuy Baby",
+    "website": "https://www.buybuybaby.com",
+    "categories": [
+      "Baby"
+    ],
+    "aliases": [
+      "buybuybaby.com",
+      "www.buybuybaby.com"
+    ],
+    "country": "US",
+    "popularityWeight": 60
+  },
+  {
+    "id": "babies-r-us",
+    "name": "Babies R Us",
+    "website": "https://www.babiesrus.com",
+    "categories": [
+      "Baby"
+    ],
+    "aliases": [
+      "babiesrus.com",
+      "www.babiesrus.com"
+    ],
+    "country": "US",
+    "popularityWeight": 45
+  },
+  {
+    "id": "the-honest-company",
+    "name": "The Honest Company",
+    "website": "https://www.honest.com",
+    "categories": [
+      "Baby",
+      "Beauty"
+    ],
+    "aliases": [
+      "honest.com",
+      "www.honest.com"
+    ],
+    "country": "US",
+    "popularityWeight": 47
+  },
+  {
+    "id": "carter-s",
+    "name": "Carter's",
+    "website": "https://www.carters.com",
+    "categories": [
+      "Baby",
+      "Apparel"
+    ],
+    "aliases": [
+      "carters.com",
+      "www.carters.com"
+    ],
+    "country": "US",
+    "popularityWeight": 52
+  },
+  {
+    "id": "babylist",
+    "name": "Babylist",
+    "website": "https://www.babylist.com",
+    "categories": [
+      "Baby"
+    ],
+    "aliases": [
+      "babylist.com",
+      "www.babylist.com"
+    ],
+    "country": "US",
+    "popularityWeight": 35
+  },
+  {
+    "id": "giggle",
+    "name": "Giggle",
+    "website": "https://www.giggle.com",
+    "categories": [
+      "Baby"
+    ],
+    "aliases": [
+      "giggle.com",
+      "www.giggle.com"
+    ],
+    "country": "US",
+    "popularityWeight": 33
+  },
+  {
+    "id": "pottery-barn-kids",
+    "name": "Pottery Barn Kids",
+    "website": "https://www.potterybarnkids.com",
+    "categories": [
+      "Baby",
+      "Home"
+    ],
+    "aliases": [
+      "potterybarnkids.com",
+      "www.potterybarnkids.com"
+    ],
+    "country": "US",
+    "popularityWeight": 40
+  },
+  {
+    "id": "burt-s-bees-baby",
+    "name": "Burt's Bees Baby",
+    "website": "https://www.burtsbeesbaby.com",
+    "categories": [
+      "Baby"
+    ],
+    "aliases": [
+      "burtsbeesbaby.com",
+      "www.burtsbeesbaby.com"
+    ],
+    "country": "US",
+    "popularityWeight": 31
+  },
+  {
+    "id": "baby-gap",
+    "name": "Baby Gap",
+    "website": "https://www.gap.com/browse/category.do?cid=1010",
+    "categories": [
+      "Baby"
+    ],
+    "aliases": [
+      "gap.com",
+      "www.gap.com"
+    ],
+    "country": "US",
+    "popularityWeight": 30
+  },
+  {
+    "id": "motherhood-maternity",
+    "name": "Motherhood Maternity",
+    "website": "https://www.motherhood.com",
+    "categories": [
+      "Baby"
+    ],
+    "aliases": [
+      "motherhood.com",
+      "www.motherhood.com"
+    ],
+    "country": "US",
+    "popularityWeight": 29
+  },
+  {
+    "id": "chewy",
+    "name": "Chewy",
+    "website": "https://www.chewy.com",
+    "categories": [
+      "Pet"
+    ],
+    "aliases": [
+      "chewy.com",
+      "www.chewy.com"
+    ],
+    "country": "US",
+    "popularityWeight": 72
+  },
+  {
+    "id": "petco",
+    "name": "Petco",
+    "website": "https://www.petco.com",
+    "categories": [
+      "Pet"
+    ],
+    "aliases": [
+      "petco.com",
+      "www.petco.com"
+    ],
+    "country": "US",
+    "popularityWeight": 68
+  },
+  {
+    "id": "petsmart",
+    "name": "PetSmart",
+    "website": "https://www.petsmart.com",
+    "categories": [
+      "Pet"
+    ],
+    "aliases": [
+      "petsmart.com",
+      "www.petsmart.com"
+    ],
+    "country": "US",
+    "popularityWeight": 65
+  },
+  {
+    "id": "pet-supplies-plus",
+    "name": "Pet Supplies Plus",
+    "website": "https://www.petsuppliesplus.com",
+    "categories": [
+      "Pet"
+    ],
+    "aliases": [
+      "petsuppliesplus.com",
+      "www.petsuppliesplus.com"
+    ],
+    "country": "US",
+    "popularityWeight": 44
+  },
+  {
+    "id": "entirelypets",
+    "name": "EntirelyPets",
+    "website": "https://www.entirelypets.com",
+    "categories": [
+      "Pet"
+    ],
+    "aliases": [
+      "entirelypets.com",
+      "www.entirelypets.com"
+    ],
+    "country": "US",
+    "popularityWeight": 35
+  },
+  {
+    "id": "1800petmeds",
+    "name": "1800PetMeds",
+    "website": "https://www.1800petmeds.com",
+    "categories": [
+      "Pet"
+    ],
+    "aliases": [
+      "1800petmeds.com",
+      "www.1800petmeds.com"
+    ],
+    "country": "US",
+    "popularityWeight": 33
+  },
+  {
+    "id": "only-natural-pet",
+    "name": "Only Natural Pet",
+    "website": "https://www.onlynaturalpet.com",
+    "categories": [
+      "Pet"
+    ],
+    "aliases": [
+      "onlynaturalpet.com",
+      "www.onlynaturalpet.com"
+    ],
+    "country": "US",
+    "popularityWeight": 30
+  },
+  {
+    "id": "petflow",
+    "name": "PetFlow",
+    "website": "https://www.petflow.com",
+    "categories": [
+      "Pet"
+    ],
+    "aliases": [
+      "petflow.com",
+      "www.petflow.com"
+    ],
+    "country": "US",
+    "popularityWeight": 32
+  },
+  {
+    "id": "the-farmers-dog",
+    "name": "The Farmers Dog",
+    "website": "https://www.thefarmersdog.com",
+    "categories": [
+      "Pet"
+    ],
+    "aliases": [
+      "thefarmersdog.com",
+      "www.thefarmersdog.com"
+    ],
+    "country": "US",
+    "popularityWeight": 28
+  },
+  {
+    "id": "petsense",
+    "name": "Petsense",
+    "website": "https://www.petsense.com",
+    "categories": [
+      "Pet"
+    ],
+    "aliases": [
+      "petsense.com",
+      "www.petsense.com"
+    ],
+    "country": "US",
+    "popularityWeight": 26
+  },
+  {
+    "id": "expedia",
+    "name": "Expedia",
+    "website": "https://www.expedia.com",
+    "categories": [
+      "Travel"
+    ],
+    "aliases": [
+      "expedia.com",
+      "www.expedia.com"
+    ],
+    "country": "US",
+    "popularityWeight": 80
+  },
+  {
+    "id": "booking-com",
+    "name": "Booking.com",
+    "website": "https://www.booking.com",
+    "categories": [
+      "Travel"
+    ],
+    "aliases": [
+      "booking.com",
+      "www.booking.com"
+    ],
+    "country": "US",
+    "popularityWeight": 78
+  },
+  {
+    "id": "priceline",
+    "name": "Priceline",
+    "website": "https://www.priceline.com",
+    "categories": [
+      "Travel"
+    ],
+    "aliases": [
+      "priceline.com",
+      "www.priceline.com"
+    ],
+    "country": "US",
+    "popularityWeight": 72
+  },
+  {
+    "id": "hotels-com",
+    "name": "Hotels.com",
+    "website": "https://www.hotels.com",
+    "categories": [
+      "Travel"
+    ],
+    "aliases": [
+      "hotels.com",
+      "www.hotels.com"
+    ],
+    "country": "US",
+    "popularityWeight": 70
+  },
+  {
+    "id": "travelocity",
+    "name": "Travelocity",
+    "website": "https://www.travelocity.com",
+    "categories": [
+      "Travel"
+    ],
+    "aliases": [
+      "travelocity.com",
+      "www.travelocity.com"
+    ],
+    "country": "US",
+    "popularityWeight": 65
+  },
+  {
+    "id": "kayak",
+    "name": "Kayak",
+    "website": "https://www.kayak.com",
+    "categories": [
+      "Travel"
+    ],
+    "aliases": [
+      "kayak.com",
+      "www.kayak.com"
+    ],
+    "country": "US",
+    "popularityWeight": 62
+  },
+  {
+    "id": "orbitz",
+    "name": "Orbitz",
+    "website": "https://www.orbitz.com",
+    "categories": [
+      "Travel"
+    ],
+    "aliases": [
+      "orbitz.com",
+      "www.orbitz.com"
+    ],
+    "country": "US",
+    "popularityWeight": 58
+  },
+  {
+    "id": "cheapoair",
+    "name": "CheapOair",
+    "website": "https://www.cheapoair.com",
+    "categories": [
+      "Travel"
+    ],
+    "aliases": [
+      "cheapoair.com",
+      "www.cheapoair.com"
+    ],
+    "country": "US",
+    "popularityWeight": 45
+  },
+  {
+    "id": "hotwire",
+    "name": "Hotwire",
+    "website": "https://www.hotwire.com",
+    "categories": [
+      "Travel"
+    ],
+    "aliases": [
+      "hotwire.com",
+      "www.hotwire.com"
+    ],
+    "country": "US",
+    "popularityWeight": 46
+  },
+  {
+    "id": "airbnb",
+    "name": "Airbnb",
+    "website": "https://www.airbnb.com",
+    "categories": [
+      "Travel"
+    ],
+    "aliases": [
+      "airbnb.com",
+      "www.airbnb.com"
+    ],
+    "country": "US",
+    "popularityWeight": 66
+  },
+  {
+    "id": "vrbo",
+    "name": "Vrbo",
+    "website": "https://www.vrbo.com",
+    "categories": [
+      "Travel"
+    ],
+    "aliases": [
+      "vrbo.com",
+      "www.vrbo.com"
+    ],
+    "country": "US",
+    "popularityWeight": 48
+  },
+  {
+    "id": "southwest-airlines",
+    "name": "Southwest Airlines",
+    "website": "https://www.southwest.com",
+    "categories": [
+      "Travel"
+    ],
+    "aliases": [
+      "southwest.com",
+      "www.southwest.com"
+    ],
+    "country": "US",
+    "popularityWeight": 64
+  },
+  {
+    "id": "delta-air-lines",
+    "name": "Delta Air Lines",
+    "website": "https://www.delta.com",
+    "categories": [
+      "Travel"
+    ],
+    "aliases": [
+      "delta.com",
+      "www.delta.com"
+    ],
+    "country": "US",
+    "popularityWeight": 63
+  },
+  {
+    "id": "american-airlines",
+    "name": "American Airlines",
+    "website": "https://www.aa.com",
+    "categories": [
+      "Travel"
+    ],
+    "aliases": [
+      "aa.com",
+      "www.aa.com"
+    ],
+    "country": "US",
+    "popularityWeight": 61
+  },
+  {
+    "id": "united-airlines",
+    "name": "United Airlines",
+    "website": "https://www.united.com",
+    "categories": [
+      "Travel"
+    ],
+    "aliases": [
+      "united.com",
+      "www.united.com"
+    ],
+    "country": "US",
+    "popularityWeight": 60
+  },
+  {
+    "id": "jetblue",
+    "name": "JetBlue",
+    "website": "https://www.jetblue.com",
+    "categories": [
+      "Travel"
+    ],
+    "aliases": [
+      "jetblue.com",
+      "www.jetblue.com"
+    ],
+    "country": "US",
+    "popularityWeight": 55
+  },
+  {
+    "id": "alaska-airlines",
+    "name": "Alaska Airlines",
+    "website": "https://www.alaskaair.com",
+    "categories": [
+      "Travel"
+    ],
+    "aliases": [
+      "alaskaair.com",
+      "www.alaskaair.com"
+    ],
+    "country": "US",
+    "popularityWeight": 54
+  },
+  {
+    "id": "marriott",
+    "name": "Marriott",
+    "website": "https://www.marriott.com",
+    "categories": [
+      "Travel"
+    ],
+    "aliases": [
+      "marriott.com",
+      "www.marriott.com"
+    ],
+    "country": "US",
+    "popularityWeight": 59
+  },
+  {
+    "id": "hilton",
+    "name": "Hilton",
+    "website": "https://www.hilton.com",
+    "categories": [
+      "Travel"
+    ],
+    "aliases": [
+      "hilton.com",
+      "www.hilton.com"
+    ],
+    "country": "US",
+    "popularityWeight": 58
+  },
+  {
+    "id": "hyatt",
+    "name": "Hyatt",
+    "website": "https://www.hyatt.com",
+    "categories": [
+      "Travel"
+    ],
+    "aliases": [
+      "hyatt.com",
+      "www.hyatt.com"
+    ],
+    "country": "US",
+    "popularityWeight": 50
+  },
+  {
+    "id": "choice-hotels",
+    "name": "Choice Hotels",
+    "website": "https://www.choicehotels.com",
+    "categories": [
+      "Travel"
+    ],
+    "aliases": [
+      "choicehotels.com",
+      "www.choicehotels.com"
+    ],
+    "country": "US",
+    "popularityWeight": 40
+  },
+  {
+    "id": "ihg",
+    "name": "IHG",
+    "website": "https://www.ihg.com",
+    "categories": [
+      "Travel"
+    ],
+    "aliases": [
+      "ihg.com",
+      "www.ihg.com"
+    ],
+    "country": "US",
+    "popularityWeight": 42
+  },
+  {
+    "id": "doordash",
+    "name": "DoorDash",
+    "website": "https://www.doordash.com",
+    "categories": [
+      "Dining"
+    ],
+    "aliases": [
+      "doordash.com",
+      "www.doordash.com"
+    ],
+    "country": "US",
+    "popularityWeight": 70
+  },
+  {
+    "id": "grubhub",
+    "name": "Grubhub",
+    "website": "https://www.grubhub.com",
+    "categories": [
+      "Dining"
+    ],
+    "aliases": [
+      "grubhub.com",
+      "www.grubhub.com"
+    ],
+    "country": "US",
+    "popularityWeight": 65
+  },
+  {
+    "id": "uber-eats",
+    "name": "Uber Eats",
+    "website": "https://www.ubereats.com",
+    "categories": [
+      "Dining"
+    ],
+    "aliases": [
+      "ubereats.com",
+      "www.ubereats.com"
+    ],
+    "country": "US",
+    "popularityWeight": 68
+  },
+  {
+    "id": "chipotle",
+    "name": "Chipotle",
+    "website": "https://www.chipotle.com",
+    "categories": [
+      "Dining"
+    ],
+    "aliases": [
+      "chipotle.com",
+      "www.chipotle.com"
+    ],
+    "country": "US",
+    "popularityWeight": 60
+  },
+  {
+    "id": "panera-bread",
+    "name": "Panera Bread",
+    "website": "https://www.panerabread.com",
+    "categories": [
+      "Dining"
+    ],
+    "aliases": [
+      "panerabread.com",
+      "www.panerabread.com"
+    ],
+    "country": "US",
+    "popularityWeight": 55
+  },
+  {
+    "id": "starbucks",
+    "name": "Starbucks",
+    "website": "https://www.starbucks.com",
+    "categories": [
+      "Dining"
+    ],
+    "aliases": [
+      "starbucks.com",
+      "www.starbucks.com"
+    ],
+    "country": "US",
+    "popularityWeight": 75
+  },
+  {
+    "id": "chick-fil-a",
+    "name": "Chick fil A",
+    "website": "https://www.chick-fil-a.com",
+    "categories": [
+      "Dining"
+    ],
+    "aliases": [
+      "chick-fil-a.com",
+      "www.chick-fil-a.com"
+    ],
+    "country": "US",
+    "popularityWeight": 58
+  },
+  {
+    "id": "mcdonalds",
+    "name": "McDonalds",
+    "website": "https://www.mcdonalds.com",
+    "categories": [
+      "Dining"
+    ],
+    "aliases": [
+      "mcdonalds.com",
+      "www.mcdonalds.com"
+    ],
+    "country": "US",
+    "popularityWeight": 80
+  },
+  {
+    "id": "subway",
+    "name": "Subway",
+    "website": "https://www.subway.com",
+    "categories": [
+      "Dining"
+    ],
+    "aliases": [
+      "subway.com",
+      "www.subway.com"
+    ],
+    "country": "US",
+    "popularityWeight": 52
+  },
+  {
+    "id": "dominos",
+    "name": "Dominos",
+    "website": "https://www.dominos.com",
+    "categories": [
+      "Dining"
+    ],
+    "aliases": [
+      "dominos.com",
+      "www.dominos.com"
+    ],
+    "country": "US",
+    "popularityWeight": 60
+  },
+  {
+    "id": "papa-johns",
+    "name": "Papa Johns",
+    "website": "https://www.papajohns.com",
+    "categories": [
+      "Dining"
+    ],
+    "aliases": [
+      "papajohns.com",
+      "www.papajohns.com"
+    ],
+    "country": "US",
+    "popularityWeight": 54
+  },
+  {
+    "id": "pizza-hut",
+    "name": "Pizza Hut",
+    "website": "https://www.pizzahut.com",
+    "categories": [
+      "Dining"
+    ],
+    "aliases": [
+      "pizzahut.com",
+      "www.pizzahut.com"
+    ],
+    "country": "US",
+    "popularityWeight": 53
+  },
+  {
+    "id": "taco-bell",
+    "name": "Taco Bell",
+    "website": "https://www.tacobell.com",
+    "categories": [
+      "Dining"
+    ],
+    "aliases": [
+      "tacobell.com",
+      "www.tacobell.com"
+    ],
+    "country": "US",
+    "popularityWeight": 57
+  },
+  {
+    "id": "buffalo-wild-wings",
+    "name": "Buffalo Wild Wings",
+    "website": "https://www.buffalowildwings.com",
+    "categories": [
+      "Dining"
+    ],
+    "aliases": [
+      "buffalowildwings.com",
+      "www.buffalowildwings.com"
+    ],
+    "country": "US",
+    "popularityWeight": 40
+  },
+  {
+    "id": "cheesecake-factory",
+    "name": "Cheesecake Factory",
+    "website": "https://www.thecheesecakefactory.com",
+    "categories": [
+      "Dining"
+    ],
+    "aliases": [
+      "thecheesecakefactory.com",
+      "www.thecheesecakefactory.com"
+    ],
+    "country": "US",
+    "popularityWeight": 45
+  },
+  {
+    "id": "outback-steakhouse",
+    "name": "Outback Steakhouse",
+    "website": "https://www.outback.com",
+    "categories": [
+      "Dining"
+    ],
+    "aliases": [
+      "outback.com",
+      "www.outback.com"
+    ],
+    "country": "US",
+    "popularityWeight": 42
+  },
+  {
+    "id": "red-lobster",
+    "name": "Red Lobster",
+    "website": "https://www.redlobster.com",
+    "categories": [
+      "Dining"
+    ],
+    "aliases": [
+      "redlobster.com",
+      "www.redlobster.com"
+    ],
+    "country": "US",
+    "popularityWeight": 41
+  },
+  {
+    "id": "shake-shack",
+    "name": "Shake Shack",
+    "website": "https://www.shakeshack.com",
+    "categories": [
+      "Dining"
+    ],
+    "aliases": [
+      "shakeshack.com",
+      "www.shakeshack.com"
+    ],
+    "country": "US",
+    "popularityWeight": 39
+  },
+  {
+    "id": "noodles-and-company",
+    "name": "Noodles & Company",
+    "website": "https://www.noodles.com",
+    "categories": [
+      "Dining"
+    ],
+    "aliases": [
+      "noodles.com",
+      "www.noodles.com"
+    ],
+    "country": "US",
+    "popularityWeight": 38
+  },
+  {
+    "id": "panda-express",
+    "name": "Panda Express",
+    "website": "https://www.pandaexpress.com",
+    "categories": [
+      "Dining"
+    ],
+    "aliases": [
+      "pandaexpress.com",
+      "www.pandaexpress.com"
+    ],
+    "country": "US",
+    "popularityWeight": 37
+  },
+  {
+    "id": "wingstop",
+    "name": "Wingstop",
+    "website": "https://www.wingstop.com",
+    "categories": [
+      "Dining"
+    ],
+    "aliases": [
+      "wingstop.com",
+      "www.wingstop.com"
+    ],
+    "country": "US",
+    "popularityWeight": 36
+  },
+  {
+    "id": "walgreens",
+    "name": "Walgreens",
+    "website": "https://www.walgreens.com",
+    "categories": [
+      "Pharmacy"
+    ],
+    "aliases": [
+      "walgreens.com",
+      "www.walgreens.com"
+    ],
+    "country": "US",
+    "popularityWeight": 78
+  },
+  {
+    "id": "cvs-pharmacy",
+    "name": "CVS Pharmacy",
+    "website": "https://www.cvs.com",
+    "categories": [
+      "Pharmacy"
+    ],
+    "aliases": [
+      "cvs.com",
+      "www.cvs.com"
+    ],
+    "country": "US",
+    "popularityWeight": 75
+  },
+  {
+    "id": "rite-aid",
+    "name": "Rite Aid",
+    "website": "https://www.riteaid.com",
+    "categories": [
+      "Pharmacy"
+    ],
+    "aliases": [
+      "riteaid.com",
+      "www.riteaid.com"
+    ],
+    "country": "US",
+    "popularityWeight": 60
+  },
+  {
+    "id": "goodrx",
+    "name": "GoodRx",
+    "website": "https://www.goodrx.com",
+    "categories": [
+      "Pharmacy"
+    ],
+    "aliases": [
+      "goodrx.com",
+      "www.goodrx.com"
+    ],
+    "country": "US",
+    "popularityWeight": 50
+  },
+  {
+    "id": "healthwarehouse",
+    "name": "HealthWarehouse",
+    "website": "https://www.healthwarehouse.com",
+    "categories": [
+      "Pharmacy"
+    ],
+    "aliases": [
+      "healthwarehouse.com",
+      "www.healthwarehouse.com"
+    ],
+    "country": "US",
+    "popularityWeight": 35
+  },
+  {
+    "id": "pillpack",
+    "name": "PillPack",
+    "website": "https://www.pillpack.com",
+    "categories": [
+      "Pharmacy"
+    ],
+    "aliases": [
+      "pillpack.com",
+      "www.pillpack.com"
+    ],
+    "country": "US",
+    "popularityWeight": 30
+  },
+  {
+    "id": "staples",
+    "name": "Staples",
+    "website": "https://www.staples.com",
+    "categories": [
+      "Office"
+    ],
+    "aliases": [
+      "staples.com",
+      "www.staples.com"
+    ],
+    "country": "US",
+    "popularityWeight": 67
+  },
+  {
+    "id": "office-depot",
+    "name": "Office Depot",
+    "website": "https://www.officedepot.com",
+    "categories": [
+      "Office"
+    ],
+    "aliases": [
+      "officedepot.com",
+      "www.officedepot.com"
+    ],
+    "country": "US",
+    "popularityWeight": 62
+  },
+  {
+    "id": "officemax",
+    "name": "OfficeMax",
+    "website": "https://www.officemax.com",
+    "categories": [
+      "Office"
+    ],
+    "aliases": [
+      "officemax.com",
+      "www.officemax.com"
+    ],
+    "country": "US",
+    "popularityWeight": 59
+  },
+  {
+    "id": "paper-source",
+    "name": "Paper Source",
+    "website": "https://www.papersource.com",
+    "categories": [
+      "Office"
+    ],
+    "aliases": [
+      "papersource.com",
+      "www.papersource.com"
+    ],
+    "country": "US",
+    "popularityWeight": 36
+  },
+  {
+    "id": "quill",
+    "name": "Quill",
+    "website": "https://www.quill.com",
+    "categories": [
+      "Office"
+    ],
+    "aliases": [
+      "quill.com",
+      "www.quill.com"
+    ],
+    "country": "US",
+    "popularityWeight": 34
+  },
+  {
+    "id": "viking",
+    "name": "Viking",
+    "website": "https://www.viking-direct.com",
+    "categories": [
+      "Office"
+    ],
+    "aliases": [
+      "viking-direct.com",
+      "www.viking-direct.com"
+    ],
+    "country": "US",
+    "popularityWeight": 32
+  },
+  {
+    "id": "rei",
+    "name": "REI",
+    "website": "https://www.rei.com",
+    "categories": [
+      "Outdoors",
+      "Apparel"
+    ],
+    "aliases": [
+      "rei.com",
+      "www.rei.com"
+    ],
+    "country": "US",
+    "popularityWeight": 69
+  },
+  {
+    "id": "cabelas",
+    "name": "Cabelas",
+    "website": "https://www.cabelas.com",
+    "categories": [
+      "Outdoors"
+    ],
+    "aliases": [
+      "cabelas.com",
+      "www.cabelas.com"
+    ],
+    "country": "US",
+    "popularityWeight": 62
+  },
+  {
+    "id": "bass-pro-shops",
+    "name": "Bass Pro Shops",
+    "website": "https://www.basspro.com",
+    "categories": [
+      "Outdoors"
+    ],
+    "aliases": [
+      "basspro.com",
+      "www.basspro.com"
+    ],
+    "country": "US",
+    "popularityWeight": 60
+  },
+  {
+    "id": "backcountry",
+    "name": "Backcountry",
+    "website": "https://www.backcountry.com",
+    "categories": [
+      "Outdoors",
+      "Apparel"
+    ],
+    "aliases": [
+      "backcountry.com",
+      "www.backcountry.com"
+    ],
+    "country": "US",
+    "popularityWeight": 47
+  },
+  {
+    "id": "moosejaw",
+    "name": "Moosejaw",
+    "website": "https://www.moosejaw.com",
+    "categories": [
+      "Outdoors"
+    ],
+    "aliases": [
+      "moosejaw.com",
+      "www.moosejaw.com"
+    ],
+    "country": "US",
+    "popularityWeight": 33
+  },
+  {
+    "id": "sportsman-s-warehouse",
+    "name": "Sportsman's Warehouse",
+    "website": "https://www.sportsmans.com",
+    "categories": [
+      "Outdoors"
+    ],
+    "aliases": [
+      "sportsmans.com",
+      "www.sportsmans.com"
+    ],
+    "country": "US",
+    "popularityWeight": 35
+  },
+  {
+    "id": "outdoor-voices",
+    "name": "Outdoor Voices",
+    "website": "https://www.outdoorvoices.com",
+    "categories": [
+      "Outdoors",
+      "Apparel"
+    ],
+    "aliases": [
+      "outdoorvoices.com",
+      "www.outdoorvoices.com"
+    ],
+    "country": "US",
+    "popularityWeight": 30
+  },
+  {
+    "id": "eddie-bauer",
+    "name": "Eddie Bauer",
+    "website": "https://www.eddiebauer.com",
+    "categories": [
+      "Outdoors",
+      "Apparel"
+    ],
+    "aliases": [
+      "eddiebauer.com",
+      "www.eddiebauer.com"
+    ],
+    "country": "US",
+    "popularityWeight": 40
+  },
+  {
+    "id": "l-l-bean",
+    "name": "L.L.Bean",
+    "website": "https://www.llbean.com",
+    "categories": [
+      "Outdoors"
+    ],
+    "aliases": [
+      "llbean.com",
+      "www.llbean.com"
+    ],
+    "country": "US",
+    "popularityWeight": 48
+  },
+  {
+    "id": "patagonia-outlet",
+    "name": "Patagonia Outlet",
+    "website": "https://www.patagonia.com/shop/outlet",
+    "categories": [
+      "Outdoors"
+    ],
+    "aliases": [
+      "patagonia.com"
+    ],
+    "country": "US",
+    "popularityWeight": 29
+  },
+  {
+    "id": "peloton",
+    "name": "Peloton",
+    "website": "https://www.onepeloton.com",
+    "categories": [
+      "Fitness",
+      "Electronics"
+    ],
+    "aliases": [
+      "onepeloton.com",
+      "www.onepeloton.com"
+    ],
+    "country": "US",
+    "popularityWeight": 50
+  },
+  {
+    "id": "bowflex",
+    "name": "Bowflex",
+    "website": "https://www.bowflex.com",
+    "categories": [
+      "Fitness"
+    ],
+    "aliases": [
+      "bowflex.com",
+      "www.bowflex.com"
+    ],
+    "country": "US",
+    "popularityWeight": 38
+  },
+  {
+    "id": "rogue-fitness",
+    "name": "Rogue Fitness",
+    "website": "https://www.roguefitness.com",
+    "categories": [
+      "Fitness",
+      "Outdoors"
+    ],
+    "aliases": [
+      "roguefitness.com",
+      "www.roguefitness.com"
+    ],
+    "country": "US",
+    "popularityWeight": 45
+  },
+  {
+    "id": "dicks-sporting-goods",
+    "name": "Dicks Sporting Goods",
+    "website": "https://www.dickssportinggoods.com",
+    "categories": [
+      "Fitness",
+      "Apparel"
+    ],
+    "aliases": [
+      "dickssportinggoods.com",
+      "www.dickssportinggoods.com"
+    ],
+    "country": "US",
+    "popularityWeight": 60
+  },
+  {
+    "id": "gym-source",
+    "name": "Gym Source",
+    "website": "https://www.gymsource.com",
+    "categories": [
+      "Fitness"
+    ],
+    "aliases": [
+      "gymsource.com",
+      "www.gymsource.com"
+    ],
+    "country": "US",
+    "popularityWeight": 30
+  },
+  {
+    "id": "perform-better",
+    "name": "Perform Better",
+    "website": "https://www.performbetter.com",
+    "categories": [
+      "Fitness"
+    ],
+    "aliases": [
+      "performbetter.com",
+      "www.performbetter.com"
+    ],
+    "country": "US",
+    "popularityWeight": 28
+  },
+  {
+    "id": "fitness-depot",
+    "name": "Fitness Depot",
+    "website": "https://www.fitnessdepot.com",
+    "categories": [
+      "Fitness"
+    ],
+    "aliases": [
+      "fitnessdepot.com",
+      "www.fitnessdepot.com"
+    ],
+    "country": "US",
+    "popularityWeight": 26
+  },
+  {
+    "id": "hoist-fitness",
+    "name": "Hoist Fitness",
+    "website": "https://www.hoistfitness.com",
+    "categories": [
+      "Fitness"
+    ],
+    "aliases": [
+      "hoistfitness.com",
+      "www.hoistfitness.com"
+    ],
+    "country": "US",
+    "popularityWeight": 24
+  },
+  {
+    "id": "life-fitness",
+    "name": "Life Fitness",
+    "website": "https://www.lifefitness.com",
+    "categories": [
+      "Fitness"
+    ],
+    "aliases": [
+      "lifefitness.com",
+      "www.lifefitness.com"
+    ],
+    "country": "US",
+    "popularityWeight": 32
+  },
+  {
+    "id": "spartan-race-gear",
+    "name": "Spartan Race Gear",
+    "website": "https://www.spartan.com",
+    "categories": [
+      "Fitness"
+    ],
+    "aliases": [
+      "spartan.com",
+      "www.spartan.com"
+    ],
+    "country": "US",
+    "popularityWeight": 27
+  }
+]

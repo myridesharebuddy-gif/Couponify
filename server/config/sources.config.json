@@ -1,0 +1,86 @@
+{
+  "popularStores": [
+    "amazon",
+    "walmart",
+    "target",
+    "bestbuy",
+    "nike",
+    "apple",
+    "homedepot",
+    "costco",
+    "macys",
+    "adidas",
+    "samsclub"
+  ],
+  "allowlistedStores": [
+    "amazon",
+    "walmart",
+    "target",
+    "bestbuy",
+    "nike",
+    "apple",
+    "homedepot",
+    "costco",
+    "macys",
+    "adidas",
+    "samsclub",
+    "gap",
+    "kohls"
+  ],
+  "storeAliases": {
+    "amazon": ["amazon.com", "amazn", "smile.amazon.com"],
+    "walmart": ["walmart.com"],
+    "target": ["target.com"],
+    "bestbuy": ["bestbuy.com", "best-buy"],
+    "nike": ["nike.com"],
+    "apple": ["apple.com"],
+    "homedepot": ["homedepot.com"],
+    "costco": ["costco.com"],
+    "macys": ["macys.com"],
+    "adidas": ["adidas.com"],
+    "samsclub": ["samsclub.com"]
+  },
+  "sources": [
+    {
+      "id": "slickdeals",
+      "label": "Slickdeals Frontpage",
+      "type": "rss",
+      "url": "https://slickdeals.net/newsearch.php?mode=frontpage&searcharea=deals&searchin=first&rss=1",
+      "trust": 0.9
+    },
+    {
+      "id": "dealnews",
+      "label": "DealNews Electronics",
+      "type": "rss",
+      "url": "https://www.dealnews.com/c142/Electronics/?rss=1",
+      "trust": 0.85
+    },
+    {
+      "id": "dealcatcher",
+      "label": "DealCatcher RSS",
+      "type": "rss",
+      "url": "https://www.dealcatcher.com/rss",
+      "trust": 0.8
+    },
+    {
+      "id": "techbargains",
+      "label": "TechBargains RSS",
+      "type": "rss",
+      "url": "https://www.techbargains.com/rss_all.rss",
+      "trust": 0.78
+    },
+    {
+      "id": "bradsdeals",
+      "label": "Brad's Deals RSS",
+      "type": "rss",
+      "url": "https://www.bradsdeals.com/rss.xml",
+      "trust": 0.82
+    },
+    {
+      "id": "seeded_stores",
+      "label": "Seeded stores",
+      "type": "seeded",
+      "trust": 0.7
+    }
+  ]
+}

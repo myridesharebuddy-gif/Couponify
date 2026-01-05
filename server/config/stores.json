@@ -1,0 +1,1598 @@
+[
+  {
+    "id": "amazon",
+    "name": "Amazon",
+    "domains": [
+      "amazon.com",
+      "smile.amazon.com"
+    ],
+    "aliases": [
+      "amazn",
+      "amazonprime",
+      "prime",
+      "amazon.com"
+    ],
+    "country": "US",
+    "popularityWeight": 100
+  },
+  {
+    "id": "walmart",
+    "name": "Walmart",
+    "domains": [
+      "walmart.com"
+    ],
+    "aliases": [
+      "wally",
+      "walmartstore"
+    ],
+    "country": "US",
+    "popularityWeight": 95
+  },
+  {
+    "id": "target",
+    "name": "Target",
+    "domains": [
+      "target.com"
+    ],
+    "aliases": [
+      "targetstore"
+    ],
+    "country": "US",
+    "popularityWeight": 92
+  },
+  {
+    "id": "bestbuy",
+    "name": "Best Buy",
+    "domains": [
+      "bestbuy.com"
+    ],
+    "aliases": [
+      "best-buy",
+      "bestbuyofficial"
+    ],
+    "country": "US",
+    "popularityWeight": 90
+  },
+  {
+    "id": "nike",
+    "name": "Nike",
+    "domains": [
+      "nike.com"
+    ],
+    "aliases": [
+      "nike.com",
+      "nikestore"
+    ],
+    "country": "US",
+    "popularityWeight": 88
+  },
+  {
+    "id": "apple",
+    "name": "Apple",
+    "domains": [
+      "apple.com"
+    ],
+    "aliases": [
+      "appleonline",
+      "apple store"
+    ],
+    "country": "US",
+    "popularityWeight": 94
+  },
+  {
+    "id": "costco",
+    "name": "Costco",
+    "domains": [
+      "costco.com"
+    ],
+    "aliases": [
+      "costcobusiness"
+    ],
+    "country": "US",
+    "popularityWeight": 86
+  },
+  {
+    "id": "homedepot",
+    "name": "Home Depot",
+    "domains": [
+      "homedepot.com"
+    ],
+    "aliases": [
+      "home depot",
+      "homedepot.com"
+    ],
+    "country": "US",
+    "popularityWeight": 85
+  },
+  {
+    "id": "macys",
+    "name": "Macy's",
+    "domains": [
+      "macys.com"
+    ],
+    "aliases": [
+      "macys",
+      "macysinc",
+      "macy\u2019s"
+    ],
+    "country": "US",
+    "popularityWeight": 83
+  },
+  {
+    "id": "kohls",
+    "name": "Kohl's",
+    "domains": [
+      "kohls.com"
+    ],
+    "aliases": [
+      "kohls",
+      "kohlsstore",
+      "kohl\u2019s"
+    ],
+    "country": "US",
+    "popularityWeight": 82
+  },
+  {
+    "id": "sephora",
+    "name": "Sephora",
+    "domains": [
+      "sephora.com"
+    ],
+    "aliases": [
+      "sephorabeauty"
+    ],
+    "country": "US",
+    "popularityWeight": 80
+  },
+  {
+    "id": "ulta",
+    "name": "Ulta Beauty",
+    "domains": [
+      "ulta.com"
+    ],
+    "aliases": [
+      "ulta",
+      "ultabeauty"
+    ],
+    "country": "US",
+    "popularityWeight": 78
+  },
+  {
+    "id": "adidas",
+    "name": "Adidas",
+    "domains": [
+      "adidas.com"
+    ],
+    "aliases": [
+      "adidasstore"
+    ],
+    "country": "US",
+    "popularityWeight": 77
+  },
+  {
+    "id": "samsclub",
+    "name": "Sam's Club",
+    "domains": [
+      "samsclub.com"
+    ],
+    "aliases": [
+      "sams club",
+      "samsclub"
+    ],
+    "country": "US",
+    "popularityWeight": 75
+  },
+  {
+    "id": "nordstrom",
+    "name": "Nordstrom",
+    "domains": [
+      "nordstrom.com"
+    ],
+    "aliases": [
+      "nordstromrack"
+    ],
+    "country": "US",
+    "popularityWeight": 74
+  },
+  {
+    "id": "gap",
+    "name": "Gap",
+    "domains": [
+      "gap.com"
+    ],
+    "aliases": [
+      "gapstore"
+    ],
+    "country": "US",
+    "popularityWeight": 70
+  },
+  {
+    "id": "oldnavy",
+    "name": "Old Navy",
+    "domains": [
+      "oldnavy.com"
+    ],
+    "aliases": [
+      "old navy"
+    ],
+    "country": "US",
+    "popularityWeight": 68
+  },
+  {
+    "id": "sears",
+    "name": "Sears",
+    "domains": [
+      "sears.com"
+    ],
+    "aliases": [
+      "sears",
+      "sears.com"
+    ],
+    "country": "US",
+    "popularityWeight": 70
+  },
+  {
+    "id": "jcpenney",
+    "name": "JCPenney",
+    "domains": [
+      "jcpenney.com"
+    ],
+    "aliases": [
+      "jcpenney",
+      "jcpenney.com"
+    ],
+    "country": "US",
+    "popularityWeight": 69
+  },
+  {
+    "id": "zara",
+    "name": "Zara",
+    "domains": [
+      "zara.com"
+    ],
+    "aliases": [
+      "zara",
+      "zara.com"
+    ],
+    "country": "US",
+    "popularityWeight": 68
+  },
+  {
+    "id": "h-m",
+    "name": "H&M",
+    "domains": [
+      "hm.com"
+    ],
+    "aliases": [
+      "h&m",
+      "hm"
+    ],
+    "country": "US",
+    "popularityWeight": 67
+  },
+  {
+    "id": "uniqlo",
+    "name": "Uniqlo",
+    "domains": [
+      "uniqlo.com"
+    ],
+    "aliases": [
+      "uniqlo",
+      "uniqlo.com"
+    ],
+    "country": "US",
+    "popularityWeight": 66
+  },
+  {
+    "id": "asos",
+    "name": "ASOS",
+    "domains": [
+      "asos.com"
+    ],
+    "aliases": [
+      "asos",
+      "asos.com"
+    ],
+    "country": "US",
+    "popularityWeight": 65
+  },
+  {
+    "id": "forever-21",
+    "name": "Forever 21",
+    "domains": [
+      "forever-21.com"
+    ],
+    "aliases": [
+      "forever 21",
+      "forever-21",
+      "forever-21.com"
+    ],
+    "country": "US",
+    "popularityWeight": 64
+  },
+  {
+    "id": "urban-outfitters",
+    "name": "Urban Outfitters",
+    "domains": [
+      "urban-outfitters.com"
+    ],
+    "aliases": [
+      "urban outfitters",
+      "urban-outfitters",
+      "urban-outfitters.com"
+    ],
+    "country": "US",
+    "popularityWeight": 63
+  },
+  {
+    "id": "banana-republic",
+    "name": "Banana Republic",
+    "domains": [
+      "banana-republic.com"
+    ],
+    "aliases": [
+      "banana republic",
+      "banana-republic",
+      "banana-republic.com"
+    ],
+    "country": "US",
+    "popularityWeight": 62
+  },
+  {
+    "id": "abercrombie-fitch",
+    "name": "Abercrombie & Fitch",
+    "domains": [
+      "abercrombie-fitch.com"
+    ],
+    "aliases": [
+      "abercrombie & fitch",
+      "abercrombie-fitch",
+      "abercrombie-fitch.com"
+    ],
+    "country": "US",
+    "popularityWeight": 61
+  },
+  {
+    "id": "american-eagle",
+    "name": "American Eagle",
+    "domains": [
+      "american-eagle.com"
+    ],
+    "aliases": [
+      "american eagle",
+      "american-eagle",
+      "american-eagle.com"
+    ],
+    "country": "US",
+    "popularityWeight": 60
+  },
+  {
+    "id": "pacsun",
+    "name": "PacSun",
+    "domains": [
+      "pacsun.com"
+    ],
+    "aliases": [
+      "pacsun",
+      "pacsun.com"
+    ],
+    "country": "US",
+    "popularityWeight": 59
+  },
+  {
+    "id": "anthropologie",
+    "name": "Anthropologie",
+    "domains": [
+      "anthropologie.com"
+    ],
+    "aliases": [
+      "anthropologie",
+      "anthropologie.com"
+    ],
+    "country": "US",
+    "popularityWeight": 58
+  },
+  {
+    "id": "free-people",
+    "name": "Free People",
+    "domains": [
+      "free-people.com"
+    ],
+    "aliases": [
+      "free people",
+      "free-people",
+      "free-people.com"
+    ],
+    "country": "US",
+    "popularityWeight": 57
+  },
+  {
+    "id": "revolve",
+    "name": "Revolve",
+    "domains": [
+      "revolve.com"
+    ],
+    "aliases": [
+      "revolve",
+      "revolve.com"
+    ],
+    "country": "US",
+    "popularityWeight": 56
+  },
+  {
+    "id": "boohoo",
+    "name": "Boohoo",
+    "domains": [
+      "boohoo.com"
+    ],
+    "aliases": [
+      "boohoo",
+      "boohoo.com"
+    ],
+    "country": "US",
+    "popularityWeight": 55
+  },
+  {
+    "id": "prettylittlething",
+    "name": "PrettyLittleThing",
+    "domains": [
+      "prettylittlething.com"
+    ],
+    "aliases": [
+      "prettylittlething",
+      "prettylittlething.com"
+    ],
+    "country": "US",
+    "popularityWeight": 54
+  },
+  {
+    "id": "shein",
+    "name": "Shein",
+    "domains": [
+      "shein.com"
+    ],
+    "aliases": [
+      "shein",
+      "shein.com"
+    ],
+    "country": "US",
+    "popularityWeight": 53
+  },
+  {
+    "id": "fashion-nova",
+    "name": "Fashion Nova",
+    "domains": [
+      "fashion-nova.com"
+    ],
+    "aliases": [
+      "fashion nova",
+      "fashion-nova",
+      "fashion-nova.com"
+    ],
+    "country": "US",
+    "popularityWeight": 52
+  },
+  {
+    "id": "lululemon",
+    "name": "Lululemon",
+    "domains": [
+      "lululemon.com"
+    ],
+    "aliases": [
+      "lululemon",
+      "lululemon.com"
+    ],
+    "country": "US",
+    "popularityWeight": 51
+  },
+  {
+    "id": "puma",
+    "name": "Puma",
+    "domains": [
+      "puma.com"
+    ],
+    "aliases": [
+      "puma",
+      "puma.com"
+    ],
+    "country": "US",
+    "popularityWeight": 50
+  },
+  {
+    "id": "under-armour",
+    "name": "Under Armour",
+    "domains": [
+      "under-armour.com"
+    ],
+    "aliases": [
+      "under armour",
+      "under-armour",
+      "under-armour.com"
+    ],
+    "country": "US",
+    "popularityWeight": 49
+  },
+  {
+    "id": "levi-s",
+    "name": "Levi\u2019s",
+    "domains": [
+      "levi-s.com"
+    ],
+    "aliases": [
+      "levi's",
+      "levi-s",
+      "levi-s.com",
+      "levi\u2019s"
+    ],
+    "country": "US",
+    "popularityWeight": 48
+  },
+  {
+    "id": "calvin-klein",
+    "name": "Calvin Klein",
+    "domains": [
+      "calvin-klein.com"
+    ],
+    "aliases": [
+      "calvin klein",
+      "calvin-klein",
+      "calvin-klein.com"
+    ],
+    "country": "US",
+    "popularityWeight": 47
+  },
+  {
+    "id": "tommy-hilfiger",
+    "name": "Tommy Hilfiger",
+    "domains": [
+      "tommy-hilfiger.com"
+    ],
+    "aliases": [
+      "tommy hilfiger",
+      "tommy-hilfiger",
+      "tommy-hilfiger.com"
+    ],
+    "country": "US",
+    "popularityWeight": 46
+  },
+  {
+    "id": "ralph-lauren",
+    "name": "Ralph Lauren",
+    "domains": [
+      "ralphlauren.com"
+    ],
+    "aliases": [
+      "ralph lauren",
+      "ralph-lauren",
+      "ralphlauren.com"
+    ],
+    "country": "US",
+    "popularityWeight": 45
+  },
+  {
+    "id": "gucci",
+    "name": "Gucci",
+    "domains": [
+      "gucci.com"
+    ],
+    "aliases": [
+      "gucci",
+      "gucci.com"
+    ],
+    "country": "US",
+    "popularityWeight": 44
+  },
+  {
+    "id": "louis-vuitton",
+    "name": "Louis Vuitton",
+    "domains": [
+      "louisvuitton.com"
+    ],
+    "aliases": [
+      "louis vuitton",
+      "louis-vuitton",
+      "louisvuitton.com"
+    ],
+    "country": "US",
+    "popularityWeight": 43
+  },
+  {
+    "id": "foot-locker",
+    "name": "Foot Locker",
+    "domains": [
+      "foot-locker.com"
+    ],
+    "aliases": [
+      "foot locker",
+      "foot-locker",
+      "foot-locker.com"
+    ],
+    "country": "US",
+    "popularityWeight": 42
+  },
+  {
+    "id": "dsw",
+    "name": "DSW",
+    "domains": [
+      "dsw.com"
+    ],
+    "aliases": [
+      "dsw",
+      "dsw.com"
+    ],
+    "country": "US",
+    "popularityWeight": 41
+  },
+  {
+    "id": "clarks",
+    "name": "Clarks",
+    "domains": [
+      "clarks.com"
+    ],
+    "aliases": [
+      "clarks",
+      "clarks.com"
+    ],
+    "country": "US",
+    "popularityWeight": 40
+  },
+  {
+    "id": "steve-madden",
+    "name": "Steve Madden",
+    "domains": [
+      "steve-madden.com"
+    ],
+    "aliases": [
+      "steve madden",
+      "steve-madden",
+      "steve-madden.com"
+    ],
+    "country": "US",
+    "popularityWeight": 39
+  },
+  {
+    "id": "converse",
+    "name": "Converse",
+    "domains": [
+      "converse.com"
+    ],
+    "aliases": [
+      "converse",
+      "converse.com"
+    ],
+    "country": "US",
+    "popularityWeight": 38
+  },
+  {
+    "id": "vans",
+    "name": "Vans",
+    "domains": [
+      "vans.com"
+    ],
+    "aliases": [
+      "vans",
+      "vans.com"
+    ],
+    "country": "US",
+    "popularityWeight": 37
+  },
+  {
+    "id": "birkenstock",
+    "name": "Birkenstock",
+    "domains": [
+      "birkenstock.com"
+    ],
+    "aliases": [
+      "birkenstock",
+      "birkenstock.com"
+    ],
+    "country": "US",
+    "popularityWeight": 36
+  },
+  {
+    "id": "dr-martens",
+    "name": "Dr. Martens",
+    "domains": [
+      "dr-martens.com"
+    ],
+    "aliases": [
+      "dr-martens",
+      "dr-martens.com",
+      "dr. martens"
+    ],
+    "country": "US",
+    "popularityWeight": 35
+  },
+  {
+    "id": "toms",
+    "name": "TOMS",
+    "domains": [
+      "toms.com"
+    ],
+    "aliases": [
+      "toms",
+      "toms.com"
+    ],
+    "country": "US",
+    "popularityWeight": 34
+  },
+  {
+    "id": "ugg",
+    "name": "UGG",
+    "domains": [
+      "ugg.com"
+    ],
+    "aliases": [
+      "ugg",
+      "ugg.com"
+    ],
+    "country": "US",
+    "popularityWeight": 33
+  },
+  {
+    "id": "glossier",
+    "name": "Glossier",
+    "domains": [
+      "glossier.com"
+    ],
+    "aliases": [
+      "glossier",
+      "glossier.com"
+    ],
+    "country": "US",
+    "popularityWeight": 32
+  },
+  {
+    "id": "fenty-beauty",
+    "name": "Fenty Beauty",
+    "domains": [
+      "fenty-beauty.com"
+    ],
+    "aliases": [
+      "fenty beauty",
+      "fenty-beauty",
+      "fenty-beauty.com"
+    ],
+    "country": "US",
+    "popularityWeight": 31
+  },
+  {
+    "id": "morphe",
+    "name": "Morphe",
+    "domains": [
+      "morphe.com"
+    ],
+    "aliases": [
+      "morphe",
+      "morphe.com"
+    ],
+    "country": "US",
+    "popularityWeight": 30
+  },
+  {
+    "id": "the-body-shop",
+    "name": "The Body Shop",
+    "domains": [
+      "thebodyshop.com"
+    ],
+    "aliases": [
+      "the body shop",
+      "the-body-shop",
+      "thebodyshop.com"
+    ],
+    "country": "US",
+    "popularityWeight": 29
+  },
+  {
+    "id": "bath-body-works",
+    "name": "Bath & Body Works",
+    "domains": [
+      "bathandbodyworks.com"
+    ],
+    "aliases": [
+      "bath & body works",
+      "bath-body-works",
+      "bathandbodyworks.com"
+    ],
+    "country": "US",
+    "popularityWeight": 28
+  },
+  {
+    "id": "lush",
+    "name": "Lush",
+    "domains": [
+      "lush.com"
+    ],
+    "aliases": [
+      "lush",
+      "lush.com"
+    ],
+    "country": "US",
+    "popularityWeight": 27
+  },
+  {
+    "id": "est-e-lauder",
+    "name": "Est\u00e9e Lauder",
+    "domains": [
+      "esteelauder.com"
+    ],
+    "aliases": [
+      "est-e-lauder",
+      "esteelauder.com",
+      "est\u00e9e lauder"
+    ],
+    "country": "US",
+    "popularityWeight": 26
+  },
+  {
+    "id": "mac-cosmetics",
+    "name": "MAC Cosmetics",
+    "domains": [
+      "maccosmetics.com"
+    ],
+    "aliases": [
+      "mac cosmetics",
+      "mac-cosmetics",
+      "maccosmetics.com"
+    ],
+    "country": "US",
+    "popularityWeight": 25
+  },
+  {
+    "id": "samsung",
+    "name": "Samsung",
+    "domains": [
+      "samsung.com"
+    ],
+    "aliases": [
+      "samsung",
+      "samsung.com"
+    ],
+    "country": "US",
+    "popularityWeight": 24
+  },
+  {
+    "id": "microsoft",
+    "name": "Microsoft",
+    "domains": [
+      "microsoft.com"
+    ],
+    "aliases": [
+      "microsoft",
+      "microsoft.com"
+    ],
+    "country": "US",
+    "popularityWeight": 23
+  },
+  {
+    "id": "sony",
+    "name": "Sony",
+    "domains": [
+      "sony.com"
+    ],
+    "aliases": [
+      "sony",
+      "sony.com"
+    ],
+    "country": "US",
+    "popularityWeight": 22
+  },
+  {
+    "id": "dell",
+    "name": "Dell",
+    "domains": [
+      "dell.com"
+    ],
+    "aliases": [
+      "dell",
+      "dell.com"
+    ],
+    "country": "US",
+    "popularityWeight": 21
+  },
+  {
+    "id": "hp",
+    "name": "HP",
+    "domains": [
+      "hp.com"
+    ],
+    "aliases": [
+      "hp",
+      "hp.com"
+    ],
+    "country": "US",
+    "popularityWeight": 20
+  },
+  {
+    "id": "lenovo",
+    "name": "Lenovo",
+    "domains": [
+      "lenovo.com"
+    ],
+    "aliases": [
+      "lenovo",
+      "lenovo.com"
+    ],
+    "country": "US",
+    "popularityWeight": 20
+  },
+  {
+    "id": "logitech",
+    "name": "Logitech",
+    "domains": [
+      "logitech.com"
+    ],
+    "aliases": [
+      "logitech",
+      "logitech.com"
+    ],
+    "country": "US",
+    "popularityWeight": 20
+  },
+  {
+    "id": "anker",
+    "name": "Anker",
+    "domains": [
+      "anker.com"
+    ],
+    "aliases": [
+      "anker",
+      "anker.com"
+    ],
+    "country": "US",
+    "popularityWeight": 20
+  },
+  {
+    "id": "nintendo",
+    "name": "Nintendo",
+    "domains": [
+      "nintendo.com"
+    ],
+    "aliases": [
+      "nintendo",
+      "nintendo.com"
+    ],
+    "country": "US",
+    "popularityWeight": 20
+  },
+  {
+    "id": "ikea",
+    "name": "IKEA",
+    "domains": [
+      "ikea.com"
+    ],
+    "aliases": [
+      "ikea",
+      "ikea.com"
+    ],
+    "country": "US",
+    "popularityWeight": 20
+  },
+  {
+    "id": "wayfair",
+    "name": "Wayfair",
+    "domains": [
+      "wayfair.com"
+    ],
+    "aliases": [
+      "wayfair",
+      "wayfair.com"
+    ],
+    "country": "US",
+    "popularityWeight": 20
+  },
+  {
+    "id": "lowe-s",
+    "name": "Lowe\u2019s",
+    "domains": [
+      "lowe-s.com"
+    ],
+    "aliases": [
+      "lowe's",
+      "lowe-s",
+      "lowe-s.com",
+      "lowe\u2019s"
+    ],
+    "country": "US",
+    "popularityWeight": 20
+  },
+  {
+    "id": "bed-bath-beyond",
+    "name": "Bed Bath & Beyond",
+    "domains": [
+      "bed-bath-beyond.com"
+    ],
+    "aliases": [
+      "bed bath & beyond",
+      "bed-bath-beyond",
+      "bed-bath-beyond.com"
+    ],
+    "country": "US",
+    "popularityWeight": 20
+  },
+  {
+    "id": "pottery-barn",
+    "name": "Pottery Barn",
+    "domains": [
+      "pottery-barn.com"
+    ],
+    "aliases": [
+      "pottery barn",
+      "pottery-barn",
+      "pottery-barn.com"
+    ],
+    "country": "US",
+    "popularityWeight": 20
+  },
+  {
+    "id": "crate-barrel",
+    "name": "Crate & Barrel",
+    "domains": [
+      "crate-barrel.com"
+    ],
+    "aliases": [
+      "crate & barrel",
+      "crate-barrel",
+      "crate-barrel.com"
+    ],
+    "country": "US",
+    "popularityWeight": 20
+  },
+  {
+    "id": "west-elm",
+    "name": "West Elm",
+    "domains": [
+      "west-elm.com"
+    ],
+    "aliases": [
+      "west elm",
+      "west-elm",
+      "west-elm.com"
+    ],
+    "country": "US",
+    "popularityWeight": 20
+  },
+  {
+    "id": "houzz",
+    "name": "Houzz",
+    "domains": [
+      "houzz.com"
+    ],
+    "aliases": [
+      "houzz",
+      "houzz.com"
+    ],
+    "country": "US",
+    "popularityWeight": 20
+  },
+  {
+    "id": "brooklinen",
+    "name": "Brooklinen",
+    "domains": [
+      "brooklinen.com"
+    ],
+    "aliases": [
+      "brooklinen",
+      "brooklinen.com"
+    ],
+    "country": "US",
+    "popularityWeight": 20
+  },
+  {
+    "id": "lego",
+    "name": "LEGO",
+    "domains": [
+      "lego.com"
+    ],
+    "aliases": [
+      "lego",
+      "lego.com"
+    ],
+    "country": "US",
+    "popularityWeight": 20
+  },
+  {
+    "id": "disney-store",
+    "name": "Disney Store",
+    "domains": [
+      "disneystore.com"
+    ],
+    "aliases": [
+      "disney store",
+      "disney-store",
+      "disneystore.com"
+    ],
+    "country": "US",
+    "popularityWeight": 20
+  },
+  {
+    "id": "fisher-price",
+    "name": "Fisher-Price",
+    "domains": [
+      "fisher-price.com"
+    ],
+    "aliases": [
+      "fisher-price",
+      "fisher-price.com"
+    ],
+    "country": "US",
+    "popularityWeight": 20
+  },
+  {
+    "id": "build-a-bear",
+    "name": "Build-A-Bear",
+    "domains": [
+      "buildabear.com"
+    ],
+    "aliases": [
+      "build-a-bear",
+      "buildabear.com"
+    ],
+    "country": "US",
+    "popularityWeight": 20
+  },
+  {
+    "id": "american-girl",
+    "name": "American Girl",
+    "domains": [
+      "american-girl.com"
+    ],
+    "aliases": [
+      "american girl",
+      "american-girl",
+      "american-girl.com"
+    ],
+    "country": "US",
+    "popularityWeight": 20
+  },
+  {
+    "id": "rei",
+    "name": "REI",
+    "domains": [
+      "rei.com"
+    ],
+    "aliases": [
+      "rei",
+      "rei.com"
+    ],
+    "country": "US",
+    "popularityWeight": 20
+  },
+  {
+    "id": "dick-s-sporting-goods",
+    "name": "Dick\u2019s Sporting Goods",
+    "domains": [
+      "dickssportinggoods.com"
+    ],
+    "aliases": [
+      "dick's sporting goods",
+      "dick-s-sporting-goods",
+      "dickssportinggoods.com",
+      "dick\u2019s sporting goods"
+    ],
+    "country": "US",
+    "popularityWeight": 20
+  },
+  {
+    "id": "patagonia",
+    "name": "Patagonia",
+    "domains": [
+      "patagonia.com"
+    ],
+    "aliases": [
+      "patagonia",
+      "patagonia.com"
+    ],
+    "country": "US",
+    "popularityWeight": 20
+  },
+  {
+    "id": "the-north-face",
+    "name": "The North Face",
+    "domains": [
+      "the-north-face.com"
+    ],
+    "aliases": [
+      "the north face",
+      "the-north-face",
+      "the-north-face.com"
+    ],
+    "country": "US",
+    "popularityWeight": 20
+  },
+  {
+    "id": "columbia-sportswear",
+    "name": "Columbia Sportswear",
+    "domains": [
+      "columbia-sportswear.com"
+    ],
+    "aliases": [
+      "columbia sportswear",
+      "columbia-sportswear",
+      "columbia-sportswear.com"
+    ],
+    "country": "US",
+    "popularityWeight": 20
+  },
+  {
+    "id": "thrive-market",
+    "name": "Thrive Market",
+    "domains": [
+      "thrive-market.com"
+    ],
+    "aliases": [
+      "thrive market",
+      "thrive-market",
+      "thrive-market.com"
+    ],
+    "country": "US",
+    "popularityWeight": 20
+  },
+  {
+    "id": "hellofresh",
+    "name": "HelloFresh",
+    "domains": [
+      "hellofresh.com"
+    ],
+    "aliases": [
+      "hellofresh",
+      "hellofresh.com"
+    ],
+    "country": "US",
+    "popularityWeight": 20
+  },
+  {
+    "id": "blue-apron",
+    "name": "Blue Apron",
+    "domains": [
+      "blue-apron.com"
+    ],
+    "aliases": [
+      "blue apron",
+      "blue-apron",
+      "blue-apron.com"
+    ],
+    "country": "US",
+    "popularityWeight": 20
+  },
+  {
+    "id": "starbucks-online-store",
+    "name": "Starbucks Online Store",
+    "domains": [
+      "starbucks.com"
+    ],
+    "aliases": [
+      "starbucks online store",
+      "starbucks-online-store",
+      "starbucks.com"
+    ],
+    "country": "US",
+    "popularityWeight": 20
+  },
+  {
+    "id": "coca-cola-shop",
+    "name": "Coca-Cola Shop",
+    "domains": [
+      "shop.coca-cola.com"
+    ],
+    "aliases": [
+      "coca-cola shop",
+      "coca-cola-shop",
+      "shop.coca-cola.com"
+    ],
+    "country": "US",
+    "popularityWeight": 20
+  },
+  {
+    "id": "dunkin-donuts",
+    "name": "Dunkin Donuts",
+    "domains": [
+      "dunkindonuts.com"
+    ],
+    "aliases": [
+      "dunkin donuts",
+      "dunkin' donuts",
+      "dunkindonuts.com"
+    ],
+    "country": "US",
+    "popularityWeight": 20
+  },
+  {
+    "id": "etsy",
+    "name": "Etsy",
+    "domains": [
+      "etsy.com"
+    ],
+    "aliases": [
+      "etsy",
+      "etsy.com"
+    ],
+    "country": "US",
+    "popularityWeight": 20
+  },
+  {
+    "id": "ebay",
+    "name": "eBay",
+    "domains": [
+      "ebay.com"
+    ],
+    "aliases": [
+      "ebay",
+      "ebay.com"
+    ],
+    "country": "US",
+    "popularityWeight": 20
+  },
+  {
+    "id": "shopify-multiple-merchants",
+    "name": "Shopify (multiple merchants)",
+    "domains": [
+      "shopify.com"
+    ],
+    "aliases": [
+      "shopify (multiple merchants)",
+      "shopify-multiple-merchants",
+      "shopify.com"
+    ],
+    "country": "US",
+    "popularityWeight": 20
+  },
+  {
+    "id": "wish",
+    "name": "Wish",
+    "domains": [
+      "wish.com"
+    ],
+    "aliases": [
+      "wish",
+      "wish.com"
+    ],
+    "country": "US",
+    "popularityWeight": 20
+  },
+  {
+    "id": "aliexpress",
+    "name": "AliExpress",
+    "domains": [
+      "aliexpress.com"
+    ],
+    "aliases": [
+      "aliexpress",
+      "aliexpress.com"
+    ],
+    "country": "US",
+    "popularityWeight": 20
+  },
+  {
+    "id": "bloomingdale-s",
+    "name": "Bloomingdale\u2019s",
+    "domains": [
+      "bloomingdale-s.com"
+    ],
+    "aliases": [
+      "bloomingdale's",
+      "bloomingdale-s",
+      "bloomingdale-s.com",
+      "bloomingdale\u2019s"
+    ],
+    "country": "US",
+    "popularityWeight": 70
+  },
+  {
+    "id": "saks-fifth-avenue",
+    "name": "Saks Fifth Avenue",
+    "domains": [
+      "saksfifthavenue.com"
+    ],
+    "aliases": [
+      "saks fifth avenue",
+      "saks-fifth-avenue",
+      "saksfifthavenue.com"
+    ],
+    "country": "US",
+    "popularityWeight": 69
+  },
+  {
+    "id": "neiman-marcus",
+    "name": "Neiman Marcus",
+    "domains": [
+      "neimanmarcus.com"
+    ],
+    "aliases": [
+      "neiman marcus",
+      "neiman-marcus",
+      "neimanmarcus.com"
+    ],
+    "country": "US",
+    "popularityWeight": 68
+  },
+  {
+    "id": "the-ordinary",
+    "name": "The Ordinary",
+    "domains": [
+      "theordinary.com"
+    ],
+    "aliases": [
+      "the ordinary",
+      "the-ordinary",
+      "theordinary.com"
+    ],
+    "country": "US",
+    "popularityWeight": 67
+  },
+  {
+    "id": "cerave",
+    "name": "CeraVe",
+    "domains": [
+      "cerave.com"
+    ],
+    "aliases": [
+      "cerave",
+      "cerave.com"
+    ],
+    "country": "US",
+    "popularityWeight": 66
+  },
+  {
+    "id": "la-roche-posay",
+    "name": "La Roche-Posay",
+    "domains": [
+      "laroche-posay.com"
+    ],
+    "aliases": [
+      "la roche-posay",
+      "la-roche-posay",
+      "laroche-posay.com"
+    ],
+    "country": "US",
+    "popularityWeight": 65
+  },
+  {
+    "id": "paula-s-choice",
+    "name": "Paula's Choice",
+    "domains": [
+      "paulaschoice.com"
+    ],
+    "aliases": [
+      "paula's choice",
+      "paula-s-choice",
+      "paulaschoice.com"
+    ],
+    "country": "US",
+    "popularityWeight": 64
+  },
+  {
+    "id": "kiehl-s",
+    "name": "Kiehl's",
+    "domains": [
+      "kiehls.com"
+    ],
+    "aliases": [
+      "kiehl's",
+      "kiehl-s",
+      "kiehls.com"
+    ],
+    "country": "US",
+    "popularityWeight": 63
+  },
+  {
+    "id": "clinique",
+    "name": "Clinique",
+    "domains": [
+      "clinique.com"
+    ],
+    "aliases": [
+      "clinique",
+      "clinique.com"
+    ],
+    "country": "US",
+    "popularityWeight": 62
+  },
+  {
+    "id": "tatcha",
+    "name": "Tatcha",
+    "domains": [
+      "tatcha.com"
+    ],
+    "aliases": [
+      "tatcha",
+      "tatcha.com"
+    ],
+    "country": "US",
+    "popularityWeight": 61
+  },
+  {
+    "id": "drunk-elephant",
+    "name": "Drunk Elephant",
+    "domains": [
+      "drunkelephant.com"
+    ],
+    "aliases": [
+      "drunk elephant",
+      "drunk-elephant",
+      "drunkelephant.com"
+    ],
+    "country": "US",
+    "popularityWeight": 60
+  },
+  {
+    "id": "murad",
+    "name": "Murad",
+    "domains": [
+      "murad.com"
+    ],
+    "aliases": [
+      "murad",
+      "murad.com"
+    ],
+    "country": "US",
+    "popularityWeight": 59
+  },
+  {
+    "id": "sunday-riley",
+    "name": "Sunday Riley",
+    "domains": [
+      "sundayriley.com"
+    ],
+    "aliases": [
+      "sunday riley",
+      "sunday-riley",
+      "sundayriley.com"
+    ],
+    "country": "US",
+    "popularityWeight": 58
+  },
+  {
+    "id": "glow-recipe",
+    "name": "Glow Recipe",
+    "domains": [
+      "glowrecipe.com"
+    ],
+    "aliases": [
+      "glow recipe",
+      "glow-recipe",
+      "glowrecipe.com"
+    ],
+    "country": "US",
+    "popularityWeight": 57
+  },
+  {
+    "id": "cosrx",
+    "name": "COSRX",
+    "domains": [
+      "cosrx.com"
+    ],
+    "aliases": [
+      "cosrx",
+      "cosrx.com"
+    ],
+    "country": "US",
+    "popularityWeight": 56
+  },
+  {
+    "id": "laneige",
+    "name": "Laneige",
+    "domains": [
+      "laneige.com"
+    ],
+    "aliases": [
+      "laneige",
+      "laneige.com"
+    ],
+    "country": "US",
+    "popularityWeight": 55
+  },
+  {
+    "id": "dick-s-sporting-goods-36",
+    "name": "Dick\u2019s Sporting Goods",
+    "domains": [
+      "dickssportinggoods.com"
+    ],
+    "aliases": [
+      "dick\u2019s sporting goods",
+      "dick's sporting goods"
+    ],
+    "country": "US",
+    "popularityWeight": 54
+  }
+]

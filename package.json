@@ -1,0 +1,28 @@
+{
+  "name": "couponify",
+  "private": true,
+  "version": "1.0.0",
+  "workspaces": [
+    "client",
+    "server"
+  ],
+  "scripts": {
+    "set:dev-ip": "node scripts/set-dev-ip.mjs",
+    "dev": "concurrently \"cd server && npm run dev\" \"cd client && npx expo start -c --tunnel\"",
+    "dev:lan": "cd client && npx expo start --lan",
+    "dev:server": "cd server && npm run dev",
+    "dev:client": "cd client && npm run dev",
+    "build": "npm run build --workspace=server && npm run build --workspace=client",
+    "postinstall": "patch-package && node scripts/linkClientDependencies.js",
+    "expo:config": "cd client && npx expo config --json --type introspect",
+    "expo:start": "cd client && npx expo start",
+    "eas:build": "cd client && eas build",
+    "eas:build:development": "cd client && eas build --profile development",
+    "eas:build:preview": "cd client && eas build --profile preview",
+    "eas:build:production": "cd client && eas build --profile production"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.1",
+    "patch-package": "^8.0.1"
+  }
+}

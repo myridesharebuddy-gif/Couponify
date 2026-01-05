@@ -1,0 +1,577 @@
+[
+  {
+    "name": "Amazon",
+    "category": "Core Retail",
+    "slug": "amazon"
+  },
+  {
+    "name": "Walmart",
+    "category": "Core Retail",
+    "slug": "walmart"
+  },
+  {
+    "name": "Target",
+    "category": "Core Retail",
+    "slug": "target"
+  },
+  {
+    "name": "Costco",
+    "category": "Core Retail",
+    "slug": "costco"
+  },
+  {
+    "name": "Macy's",
+    "category": "Core Retail",
+    "slug": "macys"
+  },
+  {
+    "name": "Nordstrom",
+    "category": "Core Retail",
+    "slug": "nordstrom"
+  },
+  {
+    "name": "Kohl's",
+    "category": "Core Retail",
+    "slug": "kohls"
+  },
+  {
+    "name": "Best Buy",
+    "category": "Core Retail",
+    "slug": "best-buy"
+  },
+  {
+    "name": "Sears",
+    "category": "Core Retail",
+    "slug": "sears"
+  },
+  {
+    "name": "JCPenney",
+    "category": "Core Retail",
+    "slug": "jcpenney"
+  },
+  {
+    "name": "Bloomingdale's",
+    "category": "Core Retail",
+    "slug": "bloomingdales"
+  },
+  {
+    "name": "Saks Fifth Avenue",
+    "category": "Core Retail",
+    "slug": "saks-fifth-avenue"
+  },
+  {
+    "name": "Neiman Marcus",
+    "category": "Core Retail",
+    "slug": "neiman-marcus"
+  },
+  {
+    "name": "Zara",
+    "category": "Fashion & Apparel",
+    "slug": "zara"
+  },
+  {
+    "name": "H&M",
+    "category": "Fashion & Apparel",
+    "slug": "h-and-m"
+  },
+  {
+    "name": "Uniqlo",
+    "category": "Fashion & Apparel",
+    "slug": "uniqlo"
+  },
+  {
+    "name": "ASOS",
+    "category": "Fashion & Apparel",
+    "slug": "asos"
+  },
+  {
+    "name": "Forever 21",
+    "category": "Fashion & Apparel",
+    "slug": "forever-21"
+  },
+  {
+    "name": "Urban Outfitters",
+    "category": "Fashion & Apparel",
+    "slug": "urban-outfitters"
+  },
+  {
+    "name": "Gap",
+    "category": "Fashion & Apparel",
+    "slug": "gap"
+  },
+  {
+    "name": "Old Navy",
+    "category": "Fashion & Apparel",
+    "slug": "old-navy"
+  },
+  {
+    "name": "Banana Republic",
+    "category": "Fashion & Apparel",
+    "slug": "banana-republic"
+  },
+  {
+    "name": "Abercrombie & Fitch",
+    "category": "Fashion & Apparel",
+    "slug": "abercrombie-and-fitch"
+  },
+  {
+    "name": "American Eagle",
+    "category": "Fashion & Apparel",
+    "slug": "american-eagle"
+  },
+  {
+    "name": "PacSun",
+    "category": "Fashion & Apparel",
+    "slug": "pacsun"
+  },
+  {
+    "name": "Anthropologie",
+    "category": "Fashion & Apparel",
+    "slug": "anthropologie"
+  },
+  {
+    "name": "Free People",
+    "category": "Fashion & Apparel",
+    "slug": "free-people"
+  },
+  {
+    "name": "Revolve",
+    "category": "Fashion & Apparel",
+    "slug": "revolve"
+  },
+  {
+    "name": "Boohoo",
+    "category": "Fashion & Apparel",
+    "slug": "boohoo"
+  },
+  {
+    "name": "PrettyLittleThing",
+    "category": "Fashion & Apparel",
+    "slug": "prettylittlething"
+  },
+  {
+    "name": "Shein",
+    "category": "Fashion & Apparel",
+    "slug": "shein"
+  },
+  {
+    "name": "Fashion Nova",
+    "category": "Fashion & Apparel",
+    "slug": "fashion-nova"
+  },
+  {
+    "name": "Lululemon",
+    "category": "Fashion & Apparel",
+    "slug": "lululemon"
+  },
+  {
+    "name": "Nike",
+    "category": "Fashion & Apparel",
+    "slug": "nike"
+  },
+  {
+    "name": "Adidas",
+    "category": "Fashion & Apparel",
+    "slug": "adidas"
+  },
+  {
+    "name": "Puma",
+    "category": "Fashion & Apparel",
+    "slug": "puma"
+  },
+  {
+    "name": "Under Armour",
+    "category": "Fashion & Apparel",
+    "slug": "under-armour"
+  },
+  {
+    "name": "Levi's",
+    "category": "Fashion & Apparel",
+    "slug": "levis"
+  },
+  {
+    "name": "Calvin Klein",
+    "category": "Fashion & Apparel",
+    "slug": "calvin-klein"
+  },
+  {
+    "name": "Tommy Hilfiger",
+    "category": "Fashion & Apparel",
+    "slug": "tommy-hilfiger"
+  },
+  {
+    "name": "Ralph Lauren",
+    "category": "Fashion & Apparel",
+    "slug": "ralph-lauren"
+  },
+  {
+    "name": "Gucci",
+    "category": "Fashion & Apparel",
+    "slug": "gucci"
+  },
+  {
+    "name": "Louis Vuitton",
+    "category": "Fashion & Apparel",
+    "slug": "louis-vuitton"
+  },
+  {
+    "name": "Foot Locker",
+    "category": "Shoes & Accessories",
+    "slug": "foot-locker"
+  },
+  {
+    "name": "DSW",
+    "category": "Shoes & Accessories",
+    "slug": "dsw"
+  },
+  {
+    "name": "Clarks",
+    "category": "Shoes & Accessories",
+    "slug": "clarks"
+  },
+  {
+    "name": "Steve Madden",
+    "category": "Shoes & Accessories",
+    "slug": "steve-madden"
+  },
+  {
+    "name": "Converse",
+    "category": "Shoes & Accessories",
+    "slug": "converse"
+  },
+  {
+    "name": "Vans",
+    "category": "Shoes & Accessories",
+    "slug": "vans"
+  },
+  {
+    "name": "Birkenstock",
+    "category": "Shoes & Accessories",
+    "slug": "birkenstock"
+  },
+  {
+    "name": "Dr. Martens",
+    "category": "Shoes & Accessories",
+    "slug": "dr-martens"
+  },
+  {
+    "name": "TOMS",
+    "category": "Shoes & Accessories",
+    "slug": "toms"
+  },
+  {
+    "name": "UGG",
+    "category": "Shoes & Accessories",
+    "slug": "ugg"
+  },
+  {
+    "name": "Sephora",
+    "category": "Beauty & Personal Care",
+    "slug": "sephora"
+  },
+  {
+    "name": "Ulta Beauty",
+    "category": "Beauty & Personal Care",
+    "slug": "ulta-beauty"
+  },
+  {
+    "name": "Glossier",
+    "category": "Beauty & Personal Care",
+    "slug": "glossier"
+  },
+  {
+    "name": "Fenty Beauty",
+    "category": "Beauty & Personal Care",
+    "slug": "fenty-beauty"
+  },
+  {
+    "name": "Morphe",
+    "category": "Beauty & Personal Care",
+    "slug": "morphe"
+  },
+  {
+    "name": "The Body Shop",
+    "category": "Beauty & Personal Care",
+    "slug": "the-body-shop"
+  },
+  {
+    "name": "Bath & Body Works",
+    "category": "Beauty & Personal Care",
+    "slug": "bath-and-body-works"
+  },
+  {
+    "name": "Lush",
+    "category": "Beauty & Personal Care",
+    "slug": "lush"
+  },
+  {
+    "name": "Estée Lauder",
+    "category": "Beauty & Personal Care",
+    "slug": "estee-lauder"
+  },
+  {
+    "name": "MAC Cosmetics",
+    "category": "Beauty & Personal Care",
+    "slug": "mac-cosmetics"
+  },
+  {
+    "name": "The Ordinary",
+    "category": "Beauty & Personal Care",
+    "slug": "the-ordinary"
+  },
+  {
+    "name": "CeraVe",
+    "category": "Beauty & Personal Care",
+    "slug": "cerave"
+  },
+  {
+    "name": "La Roche-Posay",
+    "category": "Beauty & Personal Care",
+    "slug": "la-roche-posay"
+  },
+  {
+    "name": "Paula's Choice",
+    "category": "Beauty & Personal Care",
+    "slug": "paulas-choice"
+  },
+  {
+    "name": "Kiehl's",
+    "category": "Beauty & Personal Care",
+    "slug": "kiehls"
+  },
+  {
+    "name": "Clinique",
+    "category": "Beauty & Personal Care",
+    "slug": "clinique"
+  },
+  {
+    "name": "Tatcha",
+    "category": "Beauty & Personal Care",
+    "slug": "tatcha"
+  },
+  {
+    "name": "Drunk Elephant",
+    "category": "Beauty & Personal Care",
+    "slug": "drunk-elephant"
+  },
+  {
+    "name": "Murad",
+    "category": "Beauty & Personal Care",
+    "slug": "murad"
+  },
+  {
+    "name": "Sunday Riley",
+    "category": "Beauty & Personal Care",
+    "slug": "sunday-riley"
+  },
+  {
+    "name": "Glow Recipe",
+    "category": "Beauty & Personal Care",
+    "slug": "glow-recipe"
+  },
+  {
+    "name": "COSRX",
+    "category": "Beauty & Personal Care",
+    "slug": "cosrx"
+  },
+  {
+    "name": "Laneige",
+    "category": "Beauty & Personal Care",
+    "slug": "laneige"
+  },
+  {
+    "name": "Apple",
+    "category": "Electronics & Tech",
+    "slug": "apple"
+  },
+  {
+    "name": "Samsung",
+    "category": "Electronics & Tech",
+    "slug": "samsung"
+  },
+  {
+    "name": "Microsoft",
+    "category": "Electronics & Tech",
+    "slug": "microsoft"
+  },
+  {
+    "name": "Sony",
+    "category": "Electronics & Tech",
+    "slug": "sony"
+  },
+  {
+    "name": "Dell",
+    "category": "Electronics & Tech",
+    "slug": "dell"
+  },
+  {
+    "name": "HP",
+    "category": "Electronics & Tech",
+    "slug": "hp"
+  },
+  {
+    "name": "Lenovo",
+    "category": "Electronics & Tech",
+    "slug": "lenovo"
+  },
+  {
+    "name": "Logitech",
+    "category": "Electronics & Tech",
+    "slug": "logitech"
+  },
+  {
+    "name": "Anker",
+    "category": "Electronics & Tech",
+    "slug": "anker"
+  },
+  {
+    "name": "Nintendo",
+    "category": "Electronics & Tech",
+    "slug": "nintendo"
+  },
+  {
+    "name": "IKEA",
+    "category": "Home & Furniture",
+    "slug": "ikea"
+  },
+  {
+    "name": "Wayfair",
+    "category": "Home & Furniture",
+    "slug": "wayfair"
+  },
+  {
+    "name": "Home Depot",
+    "category": "Home & Furniture",
+    "slug": "home-depot"
+  },
+  {
+    "name": "Lowe's",
+    "category": "Home & Furniture",
+    "slug": "lowes"
+  },
+  {
+    "name": "Bed Bath & Beyond",
+    "category": "Home & Furniture",
+    "slug": "bed-bath-and-beyond"
+  },
+  {
+    "name": "Pottery Barn",
+    "category": "Home & Furniture",
+    "slug": "pottery-barn"
+  },
+  {
+    "name": "Crate & Barrel",
+    "category": "Home & Furniture",
+    "slug": "crate-and-barrel"
+  },
+  {
+    "name": "West Elm",
+    "category": "Home & Furniture",
+    "slug": "west-elm"
+  },
+  {
+    "name": "Houzz",
+    "category": "Home & Furniture",
+    "slug": "houzz"
+  },
+  {
+    "name": "Brooklinen",
+    "category": "Home & Furniture",
+    "slug": "brooklinen"
+  },
+  {
+    "name": "LEGO",
+    "category": "Kids, Toys & Gifts",
+    "slug": "lego"
+  },
+  {
+    "name": "Disney Store",
+    "category": "Kids, Toys & Gifts",
+    "slug": "disney-store"
+  },
+  {
+    "name": "Fisher-Price",
+    "category": "Kids, Toys & Gifts",
+    "slug": "fisher-price"
+  },
+  {
+    "name": "Build-A-Bear",
+    "category": "Kids, Toys & Gifts",
+    "slug": "build-a-bear"
+  },
+  {
+    "name": "American Girl",
+    "category": "Kids, Toys & Gifts",
+    "slug": "american-girl"
+  },
+  {
+    "name": "REI",
+    "category": "Sports & Outdoor",
+    "slug": "rei"
+  },
+  {
+    "name": "Dick's Sporting Goods",
+    "category": "Sports & Outdoor",
+    "slug": "dicks-sporting-goods"
+  },
+  {
+    "name": "Patagonia",
+    "category": "Sports & Outdoor",
+    "slug": "patagonia"
+  },
+  {
+    "name": "The North Face",
+    "category": "Sports & Outdoor",
+    "slug": "the-north-face"
+  },
+  {
+    "name": "Columbia Sportswear",
+    "category": "Sports & Outdoor",
+    "slug": "columbia-sportswear"
+  },
+  {
+    "name": "Thrive Market",
+    "category": "Food & Specialty",
+    "slug": "thrive-market"
+  },
+  {
+    "name": "HelloFresh",
+    "category": "Food & Specialty",
+    "slug": "hellofresh"
+  },
+  {
+    "name": "Blue Apron",
+    "category": "Food & Specialty",
+    "slug": "blue-apron"
+  },
+  {
+    "name": "Starbucks Online Store",
+    "category": "Food & Specialty",
+    "slug": "starbucks-online-store"
+  },
+  {
+    "name": "Coca-Cola Shop",
+    "category": "Food & Specialty",
+    "slug": "coca-cola-shop"
+  },
+  {
+    "name": "Etsy",
+    "category": "Misc & Trendy",
+    "slug": "etsy"
+  },
+  {
+    "name": "eBay",
+    "category": "Misc & Trendy",
+    "slug": "ebay"
+  },
+  {
+    "name": "Wish",
+    "category": "Misc & Trendy",
+    "slug": "wish"
+  },
+  {
+    "name": "AliExpress",
+    "category": "Misc & Trendy",
+    "slug": "aliexpress"
+  }
+]
