@@ -5,22 +5,6 @@ const envApiBaseUrl =
 const adsEnabled = process.env.ADS_ENABLED === 'true';
 const supabaseUrl = process.env.EXPO_PUBLIC_SUPABASE_URL?.trim();
 const supabaseAnonKey = process.env.EXPO_PUBLIC_SUPABASE_ANON_KEY?.trim();
-const REQUIRED_PLUGINS = [
-  'expo-barcode-scanner',
-  'expo-camera'
-];
-
-const mergePlugins = (current = []) => {
-  const merged = [...current];
-  const hasPlugin = (name) =>
-    merged.some((entry) => (Array.isArray(entry) ? entry[0] === name : entry === name));
-  REQUIRED_PLUGINS.forEach((plugin) => {
-    if (!hasPlugin(plugin)) {
-      merged.push(plugin);
-    }
-  });
-  return merged;
-};
 
 export default ({ config }) => {
   return {
@@ -29,23 +13,16 @@ export default ({ config }) => {
     slug: 'couponify',
     scheme: 'couponify',
     version: '1.0.0',
-    orientation: config.orientation ?? 'portrait',
-    platforms: config.platforms ?? ['ios'],
     icon: './assets/images/couponifylogo.png',
-    plugins: mergePlugins(config.plugins),
     ios: {
       ...config.ios,
-      supportsTablet: true,
-      usesNonExemptEncryption: false,
-      icon: './assets/images/couponifylogo.png',
-      bundleIdentifier: 'com.josephwright.couponify',
       infoPlist: {
         ...(config.ios?.infoPlist ?? {}),
         ITSAppUsesNonExemptEncryption: false,
-        NSCameraUsageDescription: 'Couponify uses the camera to scan barcodes and coupons.',
-        NSPhotoLibraryUsageDescription:
-          'Couponify allows users to upload images for coupons and profile personalization.'
-      }
+      },
+      usesNonExemptEncryption: false,
+      icon: './assets/images/couponifylogo.png',
+      bundleIdentifier: 'com.josephwright.couponify'
     },
     android: {
       ...config.android,

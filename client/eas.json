@@ -6,13 +6,26 @@
   "build": {
     "development": {
       "developmentClient": true,
-      "distribution": "internal"
+      "distribution": "internal",
+      "ios": {
+        "image": "latest"
+      }
     },
     "preview": {
-      "distribution": "internal"
+      "distribution": "internal",
+      "ios": {
+        "image": "latest"
+      }
     },
     "production": {
-      "autoIncrement": true
+      "autoIncrement": true,
+      "env": {
+        "EXPO_PUBLIC_SUPABASE_URL": "https://kgvlabqmpxxhetbxkqop.supabase.co",
+        "EXPO_PUBLIC_SUPABASE_ANON_KEY": "sb_publishable_wr-L0n0iz9AXYf-UZPCJBQ_KespjM6Z"
+      },
+      "ios": {
+        "image": "latest"
+      }
     }
   },
   "submit": {

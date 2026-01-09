@@ -9,7 +9,6 @@ import { StatusBar } from 'expo-status-bar';
 import * as SplashScreen from 'expo-splash-screen';
 import * as Notifications from 'expo-notifications';
 import { Ionicons } from '@expo/vector-icons';
-import AsyncStorage from '@react-native-async-storage/async-storage';
 import { FontsProvider, useFontsReady } from './src/providers/FontsProvider';
 import HomeScreen from './src/screens/Home';
 import DetailScreen from './src/screens/DetailScreen';
@@ -19,15 +18,12 @@ import SettingsScreen from './src/screens/SettingsScreen';
 import AdminAnalyticsScreen from './src/screens/AdminAnalyticsScreen';
 import StoresScreen from './src/screens/StoresScreen';
 import StoreDetailScreen from './src/screens/StoreDetailScreen';
-import NativeFeaturesIntro from './src/screens/NativeFeaturesIntro';
 import { useFavoriteStore } from './src/store/favoriteStore';
 import { useTheme } from './src/theme';
 import LoadingOverlay from './src/components/LoadingOverlay';
 import { requestNotificationPermissions } from './src/services/notifications';
 import { HealthProvider } from './src/contexts/HealthContext';
 import { bootstrapStores } from './src/lib/bootstrapStores'
-import BarcodeScannerModal from './src/components/BarcodeScannerModal';
-import { logScreenView } from './src/lib/analytics';
 
 Notifications.setNotificationHandler({
   handleNotification: async () => ({
@@ -45,7 +41,6 @@ const Tab = createBottomTabNavigator();
 const queryClient = new QueryClient();
 const MIN_OVERLAY_MS = 7000;
 const navigationRef = createNavigationContainerRef();
-const NATIVE_INTRO_KEY = 'hasSeenNativeIntro';
 
 const renderWithProviders = (children: ReactNode) => (
   <QueryClientProvider client={queryClient}>
@@ -201,42 +196,17 @@ const AppContent = () => {
   const [overlayHidden, setOverlayHidden] = useState(false);
   const overlayTimer = useRef<ReturnType<typeof setTimeout> | null>(null);
   const overlayOpacity = useRef(new Animated.Value(1)).current;
-  const [showNativeIntro, setShowNativeIntro] = useState<boolean | null>(null);
-  const [scannerVisible, setScannerVisible] = useState(false);
-  const lastRouteNameRef = useRef<string | undefined>();
 
   useEffect(() => {
     loadFavorites();
   }, [loadFavorites]);
 
   useEffect(() => {
-    SplashScreen.hideAsync().catch(() => {});
+    requestNotificationPermissions().catch(() => {});
   }, []);
 
   useEffect(() => {
-    if (showNativeIntro === false) {
-      requestNotificationPermissions().catch(() => {});
-    }
-  }, [showNativeIntro]);
-
-  useEffect(() => {
-    let isMounted = true;
-    const loadIntroFlag = async () => {
-      try {
-        const stored = await AsyncStorage.getItem(NATIVE_INTRO_KEY);
-        if (isMounted) {
-          setShowNativeIntro(stored !== 'true');
-        }
-      } catch (error) {
-        if (isMounted) {
-          setShowNativeIntro(true);
-        }
-      }
-    };
-    loadIntroFlag();
-    return () => {
-      isMounted = false;
-    };
+    SplashScreen.hideAsync().catch(() => {});
   }, []);
 
   useEffect(() => {
@@ -277,38 +247,6 @@ const AppContent = () => {
 
   const isAppReady = fontsLoaded && !minOverlayVisible && overlayHidden;
   const statusBarStyle = theme.mode === 'dark' ? 'light' : 'dark';
-  const shouldShowIntro = isAppReady && showNativeIntro;
-  const requestNotificationsOnce = () => {
-    requestNotificationPermissions().catch(() => {});
-  };
-
-  const markIntroSeen = async () => {
-    setShowNativeIntro(false);
-    try {
-      await AsyncStorage.setItem(NATIVE_INTRO_KEY, 'true');
-    } catch (error) {
-      // Ignore storage errors to avoid blocking the reviewer flow.
-    }
-  };
-
-  const handleTryScan = () => {
-    void markIntroSeen();
-    requestNotificationsOnce();
-    setScannerVisible(true);
-  };
-
-  const handleViewFavorites = () => {
-    void markIntroSeen();
-    requestNotificationsOnce();
-    if (navigationRef.isReady()) {
-      navigationRef.navigate('SavedTab');
-    }
-  };
-
-  const handleContinue = () => {
-    void markIntroSeen();
-    requestNotificationsOnce();
-  };
 
   return (
     <>
@@ -318,39 +256,9 @@ const AppContent = () => {
           edges={['top', 'left', 'right']}
           style={{ flex: 1, backgroundColor: theme.background }}
         >
-          <NavigationContainer
-            theme={navigationTheme}
-            ref={navigationRef}
-            onReady={() => {
-              const current = navigationRef.getCurrentRoute();
-              if (current?.name) {
-                lastRouteNameRef.current = current.name;
-                logScreenView(current.name);
-              }
-            }}
-            onStateChange={() => {
-              const current = navigationRef.getCurrentRoute();
-              if (current?.name && lastRouteNameRef.current !== current.name) {
-                lastRouteNameRef.current = current.name;
-                logScreenView(current.name);
-              }
-            }}
-          >
+          <NavigationContainer theme={navigationTheme} ref={navigationRef}>
             <AppNavigator />
           </NavigationContainer>
-          <NativeFeaturesIntro
-            visible={shouldShowIntro ?? false}
-            onTryScan={handleTryScan}
-            onViewFavorites={handleViewFavorites}
-            onContinue={handleContinue}
-          />
-          <BarcodeScannerModal
-            visible={scannerVisible}
-            onClose={() => setScannerVisible(false)}
-            onScan={() => {
-              setScannerVisible(false);
-            }}
-          />
         </SafeAreaContextView>
       ) : (
         <Animated.View
