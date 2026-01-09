@@ -1,61 +1,31 @@
 {
-  "name": "couponify-client",
-  "version": "1.0.0",
+  "name": "couponify",
   "private": true,
+  "version": "1.0.0",
+  "workspaces": [
+    "client",
+    "server"
+  ],
   "scripts": {
-    "set:dev-ip": "node ../scripts/set-dev-ip.mjs",
-    "dev": "EXPO_PACKAGER_PORT=19001 expo start",
-    "android": "expo run:android",
-    "ios": "expo run:ios",
-    "web": "expo start --web",
-    "build": "expo build:web",
-    "fix:expo": "npx expo doctor && npx expo install --fix && npx expo start -c",
-    "clean:hard": "rm -rf node_modules .expo ios android yarn.lock package-lock.json && npm cache clean --force",
-    "rebuild:expo": "npm run clean:hard && npm install && npx expo install --fix"
-  },
-  "dependencies": {
-    "@expo-google-fonts/cormorant-garamond": "^0.3.0",
-    "@expo-google-fonts/dancing-script": "^0.4.2",
-    "@expo-google-fonts/great-vibes": "^0.2.0",
-    "@expo-google-fonts/playfair-display": "^0.3.0",
-    "@react-native-async-storage/async-storage": "1.18.2",
-    "@react-native-community/datetimepicker": "7.2.0",
-    "@react-navigation/bottom-tabs": "^6.4.0",
-    "@react-navigation/native": "^6.1.7",
-    "@react-navigation/native-stack": "^6.9.12",
-    "@supabase/supabase-js": "^2.89.0",
-    "@tanstack/react-query": "^4.36.0",
-    "@types/react": "~18.2.14",
-    "@types/react-native": "0.72.0",
-    "@types/react-native-vector-icons": "^6.4.13",
-    "dotenv": "^16.6.1",
-    "expo": "~49.0.11",
-    "expo-camera": "~13.4.4",
-    "expo-clipboard": "~4.3.1",
-    "expo-constants": "~14.4.2",
-    "expo-font": "~11.4.0",
-    "expo-modules-core": "~1.5.12",
-    "expo-notifications": "~0.20.1",
-    "expo-splash-screen": "~0.20.5",
-    "expo-status-bar": "~1.6.0",
-    "react": "18.2.0",
-    "react-dom": "18.2.0",
-    "react-native": "0.72.10",
-    "react-native-gesture-handler": "~2.12.0",
-    "react-native-get-random-values": "~1.9.0",
-    "react-native-reanimated": "~3.3.0",
-    "react-native-safe-area-context": "4.6.3",
-    "react-native-screens": "~3.22.0",
-    "react-native-svg": "13.9.0",
-    "react-native-url-polyfill": "^3.0.0",
-    "react-native-vector-icons": "^9.2.0",
-    "uuid": "^10.0.0",
-    "zustand": "^4.4.0"
+    "set:dev-ip": "node scripts/set-dev-ip.mjs",
+    "dev": "concurrently \"cd server && npm run dev\" \"cd client && npx expo start -c --tunnel\"",
+    "dev:lan": "cd client && npx expo start --lan",
+    "dev:server": "cd server && npm run dev",
+    "dev:client": "cd client && npm run dev",
+    "build": "npm run build --workspace=server && npm run build --workspace=client",
+    "postinstall": "patch-package --patch-dir ../patches || true",
+    "expo:config": "cd client && npx expo config --json --type introspect",
+    "expo:start": "cd client && npx expo start",
+    "eas:build": "cd client && eas build",
+    "eas:build:development": "cd client && eas build --profile development",
+    "eas:build:preview": "cd client && eas build --profile preview",
+    "eas:build:production": "cd client && eas build --profile production"
   },
   "devDependencies": {
-    "@babel/core": "^7.25.0",
-    "patch-package": "^8.0.1",
-    "typescript": "^5.5.8"
+    "concurrently": "^8.2.1",
+    "patch-package": "^8.0.1"
   },
-  "main": "index.js"
+  "dependencies": {
+    "dotenv": "^17.2.3"
+  }
 }
