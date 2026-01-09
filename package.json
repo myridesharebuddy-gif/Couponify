@@ -1,9 +1,4 @@
 {
   "name": "couponify-root",
-  "private": true,
-  "scripts": {
-    "postinstall": "cd client && npm install",
-    "eas-build-pre-install": "echo preinstall",
-    "eas-build-post-install": "echo postinstall"
-  }
+  "private": true
 }

@@ -4,15 +4,15 @@
   "private": true,
   "scripts": {
     "set:dev-ip": "node ../scripts/set-dev-ip.mjs",
-    "dev": "EXPO_PACKAGER_PORT=19001 expo start",
-    "android": "expo run:android",
-    "ios": "expo run:ios",
-    "web": "expo start --web",
-    "build": "expo build:web",
+    "dev": "EXPO_PACKAGER_PORT=19001 npx expo start",
+    "android": "npx expo run:android",
+    "ios": "npx expo run:ios",
+    "web": "npx expo start --web",
+    "build": "npx expo build:web",
     "fix:expo": "npx expo doctor && npx expo install --fix && npx expo start -c",
     "clean:hard": "rm -rf node_modules .expo ios android yarn.lock package-lock.json && npm cache clean --force",
     "rebuild:expo": "npm run clean:hard && npm install && npx expo install --fix",
-    "eas:ios": "eas build --platform ios --profile production"
+    "eas:ios": "npx eas build --platform ios --profile production"
   },
   "dependencies": {
     "@expo-google-fonts/cormorant-garamond": "^0.3.0",
