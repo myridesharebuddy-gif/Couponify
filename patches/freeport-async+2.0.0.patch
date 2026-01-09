@@ -1,0 +1,57 @@
+diff --git a/node_modules/freeport-async/index.js b/node_modules/freeport-async/index.js
+index 06f9341..3270b8a 100644
+--- a/node_modules/freeport-async/index.js
++++ b/node_modules/freeport-async/index.js
+@@ -1,8 +1,23 @@
+ const net = require("net");
+ 
+ const DEFAULT_PORT_RANGE_START = 11000;
++const MAX_PORT = 65535;
++const MIN_PORT = 0;
++
++const normalizePort = (port) => {
++  if (typeof port !== "number" || Number.isNaN(port)) {
++    return DEFAULT_PORT_RANGE_START;
++  }
++  if (port < MIN_PORT || port > MAX_PORT) {
++    return DEFAULT_PORT_RANGE_START;
++  }
++  return port;
++};
+ 
+ function testPortAsync(port, hostname) {
++  if (port < MIN_PORT || port > MAX_PORT) {
++    return Promise.resolve(false);
++  }
+   return new Promise(function(fulfill, reject) {
+     var server = net.createServer();
+     server.listen({ port: port, host: hostname }, function(err) {
+@@ -31,10 +46,17 @@ async function availableAsync(port, options = {}) {
+ function freePortRangeAsync(rangeSize, rangeStart, options = {}) {
+   rangeSize = rangeSize || 1;
+   return new Promise((fulfill, reject) => {
+-    var lowPort = rangeStart || DEFAULT_PORT_RANGE_START;
++    var lowPort = normalizePort(rangeStart || DEFAULT_PORT_RANGE_START);
+     var awaitables = [];
+     for (var i = 0; i < rangeSize; i++) {
+-      awaitables.push(availableAsync(lowPort + i, options));
++      var currentPort = lowPort + i;
++      if (currentPort > MAX_PORT) {
++        return freePortRangeAsync(rangeSize, normalizePort(lowPort + rangeSize), options).then(
++          fulfill,
++          reject
++        );
++      }
++      awaitables.push(availableAsync(currentPort, options));
+     }
+     return Promise.all(awaitables).then(function(results) {
+       var ports = [];
+@@ -42,7 +64,7 @@ function freePortRangeAsync(rangeSize, rangeStart, options = {}) {
+         if (!results[i]) {
+           return freePortRangeAsync(
+             rangeSize,
+-            lowPort + rangeSize,
++            normalizePort(lowPort + rangeSize),
+             options
+           ).then(fulfill, reject);
+         }

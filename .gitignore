@@ -1,0 +1,15 @@
+node_modules
+node_modules/
+**/node_modules
+**/node_modules/
+dist
+/server/dist
+/client/.expo
+/client/web-build
+client/.env
+client/.env.local
+*.log
+*.sqlite
+.DS_Store
+**/.DS_Store
+._*

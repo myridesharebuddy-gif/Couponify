@@ -1,0 +1,304 @@
+# name|website|categories|aliases|weight
+Amazon|https://www.amazon.com|Apparel,Electronics,Grocery,Home,Beauty|amazon.com;www.amazon.com|100
+Walmart|https://www.walmart.com|Grocery,Home,Electronics,Baby,Pet,Beauty|walmart.com;www.walmart.com|98
+Target|https://www.target.com|Apparel,Grocery,Home,Beauty,Baby|target.com;www.target.com|96
+Costco|https://www.costco.com|Grocery,Home,Electronics|costco.com;www.costco.com|94
+Sams Club|https://www.samsclub.com|Grocery,Home,Electronics|samsclub.com;www.samsclub.com|92
+BJs Wholesale Club|https://www.bjs.com|Grocery,Home,Electronics|bjs.com;www.bjs.com|90
+Macy's|https://www.macys.com|Apparel,Shoes,Home,Beauty|macys.com;www.macys.com;macys|88
+Nordstrom|https://www.nordstrom.com|Apparel,Shoes,Beauty,Home|nordstrom.com;www.nordstrom.com|86
+Kohl's|https://www.kohls.com|Apparel,Home,Baby|kohls.com;www.kohls.com|84
+JCPenney|https://www.jcpenney.com|Apparel,Home,Baby|jcpenney.com;www.jcpenney.com|80
+Sears|https://www.sears.com|Home,Tools,Auto|sears.com;www.sears.com|65
+Neiman Marcus|https://www.neimanmarcus.com|Apparel,Shoes,Beauty|neimanmarcus.com;www.neimanmarcus.com|66
+Bloomingdale's|https://www.bloomingdales.com|Apparel,Beauty,Home|bloomingdales.com;www.bloomingdales.com;bloomies|63
+Belk|https://www.belk.com|Apparel,Home|belk.com;www.belk.com|58
+Dillard's|https://www.dillards.com|Apparel,Beauty,Home|dillards.com;www.dillards.com|55
+Saks Fifth Avenue|https://www.saksfifthavenue.com|Apparel,Beauty|saksfifthavenue.com;www.saksfifthavenue.com|60
+Ross Dress for Less|https://www.rossstores.com|Apparel,Home|rossstores.com;www.rossstores.com|54
+TJ Maxx|https://www.tjmaxx.com|Apparel,Home|tjmaxx.com;www.tjmaxx.com|62
+Marshalls|https://www.marshalls.com|Apparel,Home|marshalls.com;www.marshalls.com|61
+Big Lots|https://www.biglots.com|Home,Beauty|biglots.com;www.biglots.com|50
+Nike|https://www.nike.com|Apparel,Shoes,Fitness|nike.com;www.nike.com;snkrs|97
+Adidas|https://www.adidas.com|Apparel,Shoes,Fitness|adidas.com;www.adidas.com|92
+Under Armour|https://www.underarmour.com|Apparel,Fitness|underarmour.com;www.underarmour.com|85
+Lululemon|https://www.lululemon.com|Apparel,Fitness|lululemon.com;www.lululemon.com|82
+Athleta|https://www.athleta.com|Apparel,Fitness|athleta.com;www.athleta.com|70
+Patagonia|https://www.patagonia.com|Apparel,Outdoors|patagonia.com;www.patagonia.com|75
+Columbia Sportswear|https://www.columbia.com|Apparel,Outdoors|columbia.com;www.columbia.com|68
+The North Face|https://www.thenorthface.com|Apparel,Outdoors|thenorthface.com;www.thenorthface.com|73
+Levi's|https://www.levi.com|Apparel|levi.com;www.levi.com|66
+Calvin Klein|https://www.calvinklein.us|Apparel|calvinklein.us;www.calvinklein.us|62
+Tommy Hilfiger|https://usa.tommy.com|Apparel|tommy.com;www.tommy.com|64
+Ralph Lauren|https://www.ralphlauren.com|Apparel|ralphlauren.com;www.ralphlauren.com|65
+Coach|https://www.coach.com|Apparel,Beauty|coach.com;www.coach.com;coach outlet|66
+Gap|https://www.gap.com|Apparel,Baby|gap.com;www.gap.com|60
+Old Navy|https://www.oldnavy.com|Apparel,Baby|oldnavy.com;www.oldnavy.com|58
+Banana Republic|https://bananarepublic.gap.com|Apparel|bananarepublic.com;www.bananarepublic.com|55
+American Eagle|https://www.ae.com|Apparel|ae.com;www.ae.com|57
+H&M|https://www2.hm.com|Apparel|hm.com;www.hm.com|63
+Zara|https://www.zara.com|Apparel|zara.com;www.zara.com|67
+Uniqlo|https://www.uniqlo.com|Apparel|uniqlo.com;www.uniqlo.com|61
+Forever 21|https://www.forever21.com|Apparel|forever21.com;www.forever21.com|50
+Abercrombie & Fitch|https://www.abercrombie.com|Apparel|abercrombie.com;www.abercrombie.com|54
+Hollister|https://www.hollisterco.com|Apparel|hollister.com;www.hollister.com|52
+Free People|https://www.freepeople.com|Apparel|freepeople.com;www.freepeople.com|49
+Anthropologie|https://www.anthropologie.com|Apparel,Home|anthropologie.com;www.anthropologie.com|48
+Madewell|https://www.madewell.com|Apparel|madewell.com;www.madewell.com|46
+Urban Outfitters|https://www.urbanoutfitters.com|Apparel,Home|urbanoutfitters.com;www.urbanoutfitters.com|45
+Aritzia|https://www.aritzia.com|Apparel|aritzia.com;www.aritzia.com|44
+Torrid|https://www.torrid.com|Apparel|torrid.com;www.torrid.com|43
+Gymshark|https://www.gymshark.com|Apparel,Fitness|gymshark.com;www.gymshark.com|40
+Fabletics|https://www.fabletics.com|Apparel,Fitness|fabletics.com;www.fabletics.com|38
+Allbirds|https://www.allbirds.com|Apparel,Shoes|allbirds.com;www.allbirds.com|47
+Reformation|https://www.thereformation.com|Apparel|thereformation.com;www.thereformation.com|36
+Everlane|https://www.everlane.com|Apparel|everlane.com;www.everlane.com|35
+Buckle|https://www.buckle.com|Apparel,Shoes|buckle.com;www.buckle.com|32
+Express|https://www.express.com|Apparel|express.com;www.express.com|34
+ASOS|https://www.asos.com|Apparel|asos.com;www.asos.com|31
+Foot Locker|https://www.footlocker.com|Shoes,Apparel|footlocker.com;www.footlocker.com|65
+Finish Line|https://www.finishline.com|Shoes|finishline.com;www.finishline.com|50
+DSW|https://www.dsw.com|Shoes|dsw.com;www.dsw.com|55
+Zappos|https://www.zappos.com|Shoes|zappos.com;www.zappos.com|70
+Shoe Carnival|https://www.shoecarnival.com|Shoes|shoecarnival.com;www.shoecarnival.com|42
+Famous Footwear|https://www.famousfootwear.com|Shoes|famousfootwear.com;www.famousfootwear.com|45
+Skechers|https://www.skechers.com|Shoes,Apparel|skechers.com;www.skechers.com|60
+Crocs|https://www.crocs.com|Shoes|crocs.com;www.crocs.com|48
+New Balance|https://www.newbalance.com|Shoes,Fitness|newbalance.com;www.newbalance.com|58
+HOKA|https://www.hoka.com|Shoes,Fitness|hoka.com;www.hoka.com|40
+Clarks|https://www.clarksusa.com|Shoes|clarksusa.com;www.clarksusa.com|34
+Steve Madden|https://www.stevemadden.com|Shoes,Apparel|stevemadden.com;www.stevemadden.com|37
+Vans|https://www.vans.com|Shoes,Apparel|vans.com;www.vans.com|52
+Converse|https://www.converse.com|Shoes,Apparel|converse.com;www.converse.com|51
+ALDO|https://www.aldoshoes.com|Shoes|aldoshoes.com;www.aldoshoes.com|39
+Dr Martens|https://www.drmartens.com|Shoes|drmartens.com;www.drmartens.com|36
+Johnston & Murphy|https://www.johnstonmurphy.com|Shoes|johnstonmurphy.com;www.johnstonmurphy.com|33
+Timberland|https://www.timberland.com|Shoes,Outdoors|timberland.com;www.timberland.com|44
+PUMA|https://us.puma.com|Shoes,Apparel|puma.com;www.puma.com|53
+Footaction|https://www.footaction.com|Shoes,Apparel|footaction.com;www.footaction.com|30
+Sephora|https://www.sephora.com|Beauty|sephora.com;www.sephora.com|85
+Ulta Beauty|https://www.ulta.com|Beauty|ulta.com;www.ulta.com;ulta beauty|83
+MAC Cosmetics|https://www.maccosmetics.com|Beauty|maccosmetics.com;www.maccosmetics.com|65
+Dermstore|https://www.dermstore.com|Beauty|dermstore.com;www.dermstore.com|52
+Glossier|https://www.glossier.com|Beauty|glossier.com;www.glossier.com|50
+Fenty Beauty|https://www.fentybeauty.com|Beauty|fentybeauty.com;www.fentybeauty.com|48
+The Body Shop|https://www.thebodyshop.com|Beauty|thebodyshop.com;www.thebodyshop.com|45
+Kiehls|https://www.kiehls.com|Beauty|kiehls.com;www.kiehls.com|42
+Tarte Cosmetics|https://tartecosmetics.com|Beauty|tartecosmetics.com;www.tartecosmetics.com|40
+Morphe|https://www.morphe.com|Beauty|morphe.com;www.morphe.com|38
+Charlotte Tilbury|https://www.charlottetilbury.com|Beauty|charlottetilbury.com;www.charlottetilbury.com|35
+Beautylish|https://www.beautylish.com|Beauty|beautylish.com;www.beautylish.com|32
+Beauty Bay|https://www.beautybay.com|Beauty|beautybay.com;www.beautybay.com|28
+ColourPop|https://colourpop.com|Beauty|colourpop.com;www.colourpop.com|30
+Elf Cosmetics|https://www.elfcosmetics.com|Beauty|elfcosmetics.com;www.elfcosmetics.com|33
+Soko Glam|https://sokoglam.com|Beauty|sokoglam.com;www.sokoglam.com|26
+Milk Makeup|https://www.milkmakeup.com|Beauty|milkmakeup.com;www.milkmakeup.com|27
+Sally Beauty|https://www.sallybeauty.com|Beauty|sallybeauty.com;www.sallybeauty.com;leave-in;4c|56
+SheaMoisture|https://www.sheamoisture.com|Beauty|sheamoisture.com;www.sheamoisture.com;4c;leave-in|50
+Cantu|https://www.cantubeauty.com|Beauty|cantubeauty.com;www.cantubeauty.com;4c|48
+Mielle Organics|https://www.mielleorganics.com|Beauty|mielleorganics.com;www.mielleorganics.com|46
+Camille Rose|https://www.camillerose.com|Beauty|camillerose.com;www.camillerose.com|44
+TGIN|https://www.tgin.com|Beauty|tgin.com;www.tgin.com|42
+As I Am|https://www.asiam.com|Beauty|asiam.com;www.asiam.com|40
+Carol's Daughter|https://www.carolsdaughter.com|Beauty|carolsdaughter.com;www.carolsdaughter.com|38
+Pattern Beauty|https://www.patternbeauty.com|Beauty|patternbeauty.com;www.patternbeauty.com|36
+Design Essentials|https://www.designessentials.com|Beauty|designessentials.com;www.designessentials.com|34
+The Doux|https://www.thedoux.com|Beauty|thedoux.com;www.thedoux.com|32
+Kinky-Curly|https://www.kinky-curly.com|Beauty|kinky-curly.com;www.kinky-curly.com|30
+Eden BodyWorks|https://www.edenbodyworks.com|Beauty|edenbodyworks.com;www.edenbodyworks.com|28
+CeraVe|https://www.cerave.com|Beauty|cerave.com;www.cerave.com|70
+Cetaphil|https://www.cetaphil.com|Beauty|cetaphil.com;www.cetaphil.com|68
+The Ordinary|https://www.theordinary.com|Beauty|theordinary.com;www.theordinary.com|65
+La Roche-Posay|https://www.laroche-posay.us|Beauty|laroche-posay.us;laroche-posay.com;www.laroche-posay.com|63
+Neutrogena|https://www.neutrogena.com|Beauty|neutrogena.com;www.neutrogena.com|62
+Olay|https://www.olay.com|Beauty|olay.com;www.olay.com|59
+Paula's Choice|https://www.paulaschoice.com|Beauty|paulaschoice.com;www.paulaschoice.com|56
+Kiehl's|https://www.kiehls.com|Beauty|kiehls.com;www.kiehls.com|58
+Best Buy|https://www.bestbuy.com|Electronics,Home|bestbuy.com;www.bestbuy.com|89
+Apple|https://www.apple.com|Electronics|apple.com;www.apple.com|97
+Microsoft Store|https://www.microsoft.com/store|Electronics,Office|microsoft.com;www.microsoft.com|84
+Samsung|https://www.samsung.com/us|Electronics|samsung.com;www.samsung.com|86
+Sony Official|https://www.sony.com|Electronics|sony.com;www.sony.com|75
+Panasonic|https://shop.panasonic.com|Electronics|panasonic.com|55
+LG|https://www.lg.com/us|Electronics|lg.com;www.lg.com|64
+Bose|https://www.bose.com|Electronics|bose.com;www.bose.com|60
+JBL|https://www.jbl.com|Electronics|jbl.com;www.jbl.com|52
+Garmin|https://www.garmin.com|Electronics,Outdoors|garmin.com;www.garmin.com|57
+GoPro|https://gopro.com|Electronics,Outdoors|gopro.com;www.gopro.com|50
+DJI|https://www.dji.com|Electronics|dji.com;www.dji.com|53
+Razer|https://www.razer.com|Electronics|razer.com;www.razer.com|49
+Anker|https://www.anker.com|Electronics|anker.com;www.anker.com|41
+BH Photo|https://www.bhphotovideo.com|Electronics|bhphotovideo.com;www.bhphotovideo.com|46
+Adorama|https://www.adorama.com|Electronics|adorama.com;www.adorama.com|39
+Newegg|https://www.newegg.com|Electronics|newegg.com;www.newegg.com|68
+Micro Center|https://www.microcenter.com|Electronics,Office|microcenter.com;www.microcenter.com|44
+Crutchfield|https://www.crutchfield.com|Electronics|crutchfield.com;www.crutchfield.com|38
+Logitech|https://www.logitech.com|Electronics,Office|logitech.com;www.logitech.com|47
+Kroger|https://www.kroger.com|Grocery|kroger.com;www.kroger.com|82
+Albertsons|https://www.albertsons.com|Grocery|albertsons.com;www.albertsons.com|70
+Safeway|https://www.safeway.com|Grocery|safeway.com;www.safeway.com|68
+Publix|https://www.publix.com|Grocery|publix.com;www.publix.com|65
+Trader Joes|https://www.traderjoes.com|Grocery|traderjoes.com;www.traderjoes.com|63
+Whole Foods Market|https://www.wholefoodsmarket.com|Grocery|wholefoodsmarket.com;www.wholefoodsmarket.com|72
+Aldi|https://www.aldi.us|Grocery|aldi.us;www.aldi.us|55
+HEB|https://www.heb.com|Grocery|heb.com;www.heb.com|60
+Wegmans|https://www.wegmans.com|Grocery|wegmans.com;www.wegmans.com|59
+Meijer|https://www.meijer.com|Grocery|meijer.com;www.meijer.com|56
+Food Lion|https://www.foodlion.com|Grocery|foodlion.com;www.foodlion.com|54
+Sprouts Farmers Market|https://www.sprouts.com|Grocery|sprouts.com;www.sprouts.com|50
+Hy Vee|https://www.hy-vee.com|Grocery|hy-vee.com;www.hy-vee.com|49
+WinCo Foods|https://www.wincofoods.com|Grocery|wincofoods.com;www.wincofoods.com|47
+Giant Food|https://giantfood.com|Grocery|giantfood.com;www.giantfood.com|53
+Stop & Shop|https://www.stopandshop.com|Grocery|stopandshop.com;www.stopandshop.com|52
+Harris Teeter|https://www.harristeeter.com|Grocery|harristeeter.com;www.harristeeter.com|48
+Fresh Thyme Market|https://www.freshthyme.com|Grocery|freshthyme.com;www.freshthyme.com|41
+Acme Markets|https://www.acmemarkets.com|Grocery|acmemarkets.com;www.acmemarkets.com|40
+Shaws|https://www.shaws.com|Grocery|shaws.com;www.shaws.com|38
+Price Chopper|https://www.pricechopper.com|Grocery|pricechopper.com;www.pricechopper.com|37
+Fairway Market|https://www.fairwaymarket.com|Grocery|fairwaymarket.com;www.fairwaymarket.com|35
+Lucky Supermarkets|https://www.luckysupermarkets.com|Grocery|luckysupermarkets.com;www.luckysupermarkets.com|34
+Raleys|https://www.raleys.com|Grocery|raleys.com;www.raleys.com|33
+Food 4 Less|https://www.food4less.com|Grocery|food4less.com;www.food4less.com|32
+Jewel Osco|https://www.jewelosco.com|Grocery|jewelosco.com;www.jewelosco.com|31
+King Soopers|https://www.kingsoopers.com|Grocery|kingsoopers.com;www.kingsoopers.com|30
+Home Depot|https://www.homedepot.com|Home,Tools|homedepot.com;www.homedepot.com|90
+Lowe's|https://www.lowes.com|Home,Tools|lowes.com;www.lowes.com|88
+Wayfair|https://www.wayfair.com|Home|wayfair.com;www.wayfair.com|83
+Overstock|https://www.overstock.com|Home|overstock.com;www.overstock.com|70
+IKEA|https://www.ikea.com/us|Home|ikea.com;www.ikea.com|75
+Crate & Barrel|https://www.crateandbarrel.com|Home|crateandbarrel.com;www.crateandbarrel.com|60
+West Elm|https://www.westelm.com|Home|westelm.com;www.westelm.com|58
+Pottery Barn|https://www.potterybarn.com|Home|potterybarn.com;www.potterybarn.com|57
+Williams Sonoma|https://www.williams-sonoma.com|Home|williams-sonoma.com;www.williams-sonoma.com|56
+CB2|https://www.cb2.com|Home|cb2.com;www.cb2.com|45
+Ashley Furniture|https://www.ashleyfurniture.com|Home|ashleyfurniture.com;www.ashleyfurniture.com|65
+The Container Store|https://www.containerstore.com|Home,Office|containerstore.com;www.containerstore.com|50
+World Market|https://www.worldmarket.com|Home|worldmarket.com;www.worldmarket.com|43
+Article|https://www.article.com|Home|article.com;www.article.com|37
+Room & Board|https://www.roomandboard.com|Home|roomandboard.com;www.roomandboard.com|35
+Ethan Allen|https://www.ethanallen.com|Home|ethanallen.com;www.ethanallen.com|33
+Jonathan Adler|https://www.jonathanadler.com|Home|jonathanadler.com;www.jonathanadler.com|32
+Hayneedle|https://www.hayneedle.com|Home|hayneedle.com;www.hayneedle.com|30
+AllModern|https://www.allmodern.com|Home|allmodern.com;www.allmodern.com|34
+Serena & Lily|https://www.serenaandlily.com|Home|serenaandlily.com;www.serenaandlily.com|28
+Joybird|https://joybird.com|Home|joybird.com;www.joybird.com|26
+Restoration Hardware|https://www.rh.com|Home|rh.com;www.rh.com|40
+Bob's Discount Furniture|https://www.mybobs.com|Home|mybobs.com;www.mybobs.com|29
+HomeGoods|https://www.homegoods.com|Home|homegoods.com;www.homegoods.com|41
+At Home|https://www.athome.com|Home|athome.com;www.athome.com|27
+Harbor Freight Tools|https://www.harborfreight.com|Tools|harborfreight.com;www.harborfreight.com|62
+Northern Tool + Equipment|https://www.northerntool.com|Tools|northerntool.com;www.northerntool.com|48
+Grainger|https://www.grainger.com|Tools|grainger.com;www.grainger.com|55
+Acme Tools|https://www.acmetools.com|Tools|acmetools.com;www.acmetools.com|38
+Fastenal|https://www.fastenal.com|Tools|fastenal.com;www.fastenal.com|40
+Menards|https://www.menards.com|Tools,Home|menards.com;www.menards.com|50
+MSC Industrial Supply|https://www.mscdirect.com|Tools|mscdirect.com;www.mscdirect.com|34
+Toolbarn|https://www.toolbarn.com|Tools|toolbarn.com;www.toolbarn.com|31
+ToolNut|https://www.toolnut.com|Tools|toolnut.com;www.toolnut.com|28
+Zoro|https://www.zoro.com|Tools|zoro.com;www.zoro.com|36
+AutoZone|https://www.autozone.com|Auto,Tools|autozone.com;www.autozone.com|68
+Advance Auto Parts|https://www.advanceautoparts.com|Auto|advanceautoparts.com;www.advanceautoparts.com|62
+OReilly Auto Parts|https://www.oreillyauto.com|Auto|oreillyauto.com;www.oreillyauto.com|60
+Pep Boys|https://www.pepboys.com|Auto|pepboys.com;www.pepboys.com|55
+NAPA Auto Parts|https://www.napaonline.com|Auto|napaonline.com;www.napaonline.com|58
+Tire Rack|https://www.tirerack.com|Auto|tirerack.com;www.tirerack.com|50
+Discount Tire|https://www.discounttire.com|Auto|discounttire.com;www.discounttire.com|48
+CarParts.com|https://www.carparts.com|Auto|carparts.com;www.carparts.com|46
+RockAuto|https://www.rockauto.com|Auto|rockauto.com;www.rockauto.com|44
+AutoAnything|https://www.autoanything.com|Auto|autoanything.com;www.autoanything.com|42
+Summit Racing Equipment|https://www.summitracing.com|Auto|summitracing.com;www.summitracing.com|40
+BuyBuy Baby|https://www.buybuybaby.com|Baby|buybuybaby.com;www.buybuybaby.com|60
+Babies R Us|https://www.babiesrus.com|Baby|babiesrus.com;www.babiesrus.com|45
+The Honest Company|https://www.honest.com|Baby,Beauty|honest.com;www.honest.com|47
+Carter's|https://www.carters.com|Baby,Apparel|carters.com;www.carters.com|52
+Babylist|https://www.babylist.com|Baby|babylist.com;www.babylist.com|35
+Giggle|https://www.giggle.com|Baby|giggle.com;www.giggle.com|33
+Pottery Barn Kids|https://www.potterybarnkids.com|Baby,Home|potterybarnkids.com;www.potterybarnkids.com|40
+Burt's Bees Baby|https://www.burtsbeesbaby.com|Baby|burtsbeesbaby.com;www.burtsbeesbaby.com|31
+Baby Gap|https://www.gap.com/browse/category.do?cid=1010|Baby|gap.com;www.gap.com|30
+Motherhood Maternity|https://www.motherhood.com|Baby|motherhood.com;www.motherhood.com|29
+Chewy|https://www.chewy.com|Pet|chewy.com;www.chewy.com|72
+Petco|https://www.petco.com|Pet|petco.com;www.petco.com|68
+PetSmart|https://www.petsmart.com|Pet|petsmart.com;www.petsmart.com|65
+Pet Supplies Plus|https://www.petsuppliesplus.com|Pet|petsuppliesplus.com;www.petsuppliesplus.com|44
+EntirelyPets|https://www.entirelypets.com|Pet|entirelypets.com;www.entirelypets.com|35
+1800PetMeds|https://www.1800petmeds.com|Pet|1800petmeds.com;www.1800petmeds.com|33
+Only Natural Pet|https://www.onlynaturalpet.com|Pet|onlynaturalpet.com;www.onlynaturalpet.com|30
+PetFlow|https://www.petflow.com|Pet|petflow.com;www.petflow.com|32
+The Farmers Dog|https://www.thefarmersdog.com|Pet|thefarmersdog.com;www.thefarmersdog.com|28
+Petsense|https://www.petsense.com|Pet|petsense.com;www.petsense.com|26
+Expedia|https://www.expedia.com|Travel|expedia.com;www.expedia.com|80
+Booking.com|https://www.booking.com|Travel|booking.com;www.booking.com|78
+Priceline|https://www.priceline.com|Travel|priceline.com;www.priceline.com|72
+Hotels.com|https://www.hotels.com|Travel|hotels.com;www.hotels.com|70
+Travelocity|https://www.travelocity.com|Travel|travelocity.com;www.travelocity.com|65
+Kayak|https://www.kayak.com|Travel|kayak.com;www.kayak.com|62
+Orbitz|https://www.orbitz.com|Travel|orbitz.com;www.orbitz.com|58
+CheapOair|https://www.cheapoair.com|Travel|cheapoair.com;www.cheapoair.com|45
+Hotwire|https://www.hotwire.com|Travel|hotwire.com;www.hotwire.com|46
+Airbnb|https://www.airbnb.com|Travel|airbnb.com;www.airbnb.com|66
+Vrbo|https://www.vrbo.com|Travel|vrbo.com;www.vrbo.com|48
+Southwest Airlines|https://www.southwest.com|Travel|southwest.com;www.southwest.com|64
+Delta Air Lines|https://www.delta.com|Travel|delta.com;www.delta.com|63
+American Airlines|https://www.aa.com|Travel|aa.com;www.aa.com|61
+United Airlines|https://www.united.com|Travel|united.com;www.united.com|60
+JetBlue|https://www.jetblue.com|Travel|jetblue.com;www.jetblue.com|55
+Alaska Airlines|https://www.alaskaair.com|Travel|alaskaair.com;www.alaskaair.com|54
+Marriott|https://www.marriott.com|Travel|marriott.com;www.marriott.com|59
+Hilton|https://www.hilton.com|Travel|hilton.com;www.hilton.com|58
+Hyatt|https://www.hyatt.com|Travel|hyatt.com;www.hyatt.com|50
+Choice Hotels|https://www.choicehotels.com|Travel|choicehotels.com;www.choicehotels.com|40
+IHG|https://www.ihg.com|Travel|ihg.com;www.ihg.com|42
+DoorDash|https://www.doordash.com|Dining|doordash.com;www.doordash.com|70
+Grubhub|https://www.grubhub.com|Dining|grubhub.com;www.grubhub.com|65
+Uber Eats|https://www.ubereats.com|Dining|ubereats.com;www.ubereats.com|68
+Chipotle|https://www.chipotle.com|Dining|chipotle.com;www.chipotle.com|60
+Panera Bread|https://www.panerabread.com|Dining|panerabread.com;www.panerabread.com|55
+Starbucks|https://www.starbucks.com|Dining|starbucks.com;www.starbucks.com|75
+Chick fil A|https://www.chick-fil-a.com|Dining|chick-fil-a.com;www.chick-fil-a.com|58
+McDonalds|https://www.mcdonalds.com|Dining|mcdonalds.com;www.mcdonalds.com|80
+Subway|https://www.subway.com|Dining|subway.com;www.subway.com|52
+Dominos|https://www.dominos.com|Dining|dominos.com;www.dominos.com|60
+Papa Johns|https://www.papajohns.com|Dining|papajohns.com;www.papajohns.com|54
+Pizza Hut|https://www.pizzahut.com|Dining|pizzahut.com;www.pizzahut.com|53
+Taco Bell|https://www.tacobell.com|Dining|tacobell.com;www.tacobell.com|57
+Buffalo Wild Wings|https://www.buffalowildwings.com|Dining|buffalowildwings.com;www.buffalowildwings.com|40
+Cheesecake Factory|https://www.thecheesecakefactory.com|Dining|thecheesecakefactory.com;www.thecheesecakefactory.com|45
+Outback Steakhouse|https://www.outback.com|Dining|outback.com;www.outback.com|42
+Red Lobster|https://www.redlobster.com|Dining|redlobster.com;www.redlobster.com|41
+Shake Shack|https://www.shakeshack.com|Dining|shakeshack.com;www.shakeshack.com|39
+Noodles & Company|https://www.noodles.com|Dining|noodles.com;www.noodles.com|38
+Panda Express|https://www.pandaexpress.com|Dining|pandaexpress.com;www.pandaexpress.com|37
+Wingstop|https://www.wingstop.com|Dining|wingstop.com;www.wingstop.com|36
+Walgreens|https://www.walgreens.com|Pharmacy|walgreens.com;www.walgreens.com|78
+CVS Pharmacy|https://www.cvs.com|Pharmacy|cvs.com;www.cvs.com|75
+Rite Aid|https://www.riteaid.com|Pharmacy|riteaid.com;www.riteaid.com|60
+GoodRx|https://www.goodrx.com|Pharmacy|goodrx.com;www.goodrx.com|50
+HealthWarehouse|https://www.healthwarehouse.com|Pharmacy|healthwarehouse.com;www.healthwarehouse.com|35
+PillPack|https://www.pillpack.com|Pharmacy|pillpack.com;www.pillpack.com|30
+Staples|https://www.staples.com|Office|staples.com;www.staples.com|67
+Office Depot|https://www.officedepot.com|Office|officedepot.com;www.officedepot.com|62
+OfficeMax|https://www.officemax.com|Office|officemax.com;www.officemax.com|59
+Paper Source|https://www.papersource.com|Office|papersource.com;www.papersource.com|36
+Quill|https://www.quill.com|Office|quill.com;www.quill.com|34
+Viking|https://www.viking-direct.com|Office|viking-direct.com;www.viking-direct.com|32
+REI|https://www.rei.com|Outdoors,Apparel|rei.com;www.rei.com|69
+Cabelas|https://www.cabelas.com|Outdoors|cabelas.com;www.cabelas.com|62
+Bass Pro Shops|https://www.basspro.com|Outdoors|basspro.com;www.basspro.com|60
+Backcountry|https://www.backcountry.com|Outdoors,Apparel|backcountry.com;www.backcountry.com|47
+Moosejaw|https://www.moosejaw.com|Outdoors|moosejaw.com;www.moosejaw.com|33
+Sportsman's Warehouse|https://www.sportsmans.com|Outdoors|sportsmans.com;www.sportsmans.com|35
+Outdoor Voices|https://www.outdoorvoices.com|Outdoors,Apparel|outdoorvoices.com;www.outdoorvoices.com|30
+Eddie Bauer|https://www.eddiebauer.com|Outdoors,Apparel|eddiebauer.com;www.eddiebauer.com|40
+L.L.Bean|https://www.llbean.com|Outdoors|llbean.com;www.llbean.com|48
+Patagonia Outlet|https://www.patagonia.com/shop/outlet|Outdoors|patagonia.com|29
+Peloton|https://www.onepeloton.com|Fitness,Electronics|onepeloton.com;www.onepeloton.com|50
+Bowflex|https://www.bowflex.com|Fitness|bowflex.com;www.bowflex.com|38
+Rogue Fitness|https://www.roguefitness.com|Fitness,Outdoors|roguefitness.com;www.roguefitness.com|45
+Dicks Sporting Goods|https://www.dickssportinggoods.com|Fitness,Apparel|dickssportinggoods.com;www.dickssportinggoods.com|60
+Gym Source|https://www.gymsource.com|Fitness|gymsource.com;www.gymsource.com|30
+Perform Better|https://www.performbetter.com|Fitness|performbetter.com;www.performbetter.com|28
+Fitness Depot|https://www.fitnessdepot.com|Fitness|fitnessdepot.com;www.fitnessdepot.com|26
+Hoist Fitness|https://www.hoistfitness.com|Fitness|hoistfitness.com;www.hoistfitness.com|24
+Life Fitness|https://www.lifefitness.com|Fitness|lifefitness.com;www.lifefitness.com|32
+Spartan Race Gear|https://www.spartan.com|Fitness|spartan.com;www.spartan.com|27

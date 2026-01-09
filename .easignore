@@ -1,0 +1,13 @@
+*
+!client/**
+!README.md
+!package.json
+!package-lock.json
+!patches/**
+!scripts/**
+!tsconfig.json
+!babel.config.js
+!App.js
+**/node_modules/**
+**/.DS_Store
+**/._*
