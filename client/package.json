@@ -12,7 +12,9 @@
     "fix:expo": "npx expo doctor && npx expo install --fix && npx expo start -c",
     "clean:hard": "rm -rf node_modules .expo ios android yarn.lock package-lock.json && npm cache clean --force",
     "rebuild:expo": "npm run clean:hard && npm install && npx expo install --fix",
-    "eas:ios": "npx eas build --platform ios --profile production"
+    "eas:ios": "npx eas build --platform ios --profile production",
+    "start": "expo start",
+    "prebuild": "expo prebuild"
   },
   "dependencies": {
     "@expo-google-fonts/cormorant-garamond": "^0.3.0",
@@ -43,7 +45,7 @@
     "expo-status-bar": "~1.6.0",
     "react": "18.2.0",
     "react-dom": "18.2.0",
-    "react-native": "0.72.10",
+    "react-native": "0.72.4",
     "react-native-gesture-handler": "~2.12.0",
     "react-native-get-random-values": "~1.9.0",
     "react-native-reanimated": "~3.3.0",
@@ -57,7 +59,8 @@
   },
   "devDependencies": {
     "@babel/core": "^7.25.0",
+    "@expo/cli": "^54.0.21",
     "typescript": "^5.5.8"
   },
-  "main": "index.js"
+  "main": "expo/entry"
 }

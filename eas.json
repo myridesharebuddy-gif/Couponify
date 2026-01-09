@@ -3,8 +3,23 @@
     "appVersionSource": "remote"
   },
   "build": {
+    "root": "client",
+    "development": {
+      "developmentClient": true,
+      "distribution": "internal",
+      "nodeModulesPath": "client/node_modules"
+    },
+    "preview": {
+      "distribution": "internal",
+      "nodeModulesPath": "client/node_modules"
+    },
     "production": {
-      "distribution": "store"
+      "autoIncrement": true,
+      "distribution": "store",
+      "nodeModulesPath": "client/node_modules"
     }
+  },
+  "submit": {
+    "production": {}
   }
 }
