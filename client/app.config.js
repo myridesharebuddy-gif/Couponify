@@ -13,6 +13,10 @@ export default ({ config }) => {
     slug: 'couponify',
     scheme: 'couponify',
     version: '1.0.0',
+    cli: {
+      ...(config.cli ?? {}),
+      appVersionSource: 'remote'
+    },
     icon: './assets/images/couponifylogo.png',
     ios: {
       ...config.ios,
